@@ -79,5 +79,14 @@ An important **ore host** — **iron**, **tungsten (scheelite)**, **copper, zinc
 
 *Figure II.B.13 — Skarn (magnetite, garnet and quartz). Source: [Sandatlas](https://sandatlas.org/garnet/).*
 
+
+![Skarn (calc-silicate rock)](../../assets/images/rock-calsilicate-c.jpg)
+
+*Figure II.B.13b — Skarn (calc-silicate rock). Source: [Virtual Microscope](https://www.virtualmicroscope.org/content/calc-silicate-skarn).*
+
+![Skarn (calc-silicate rock)](../../assets/images/rock-calsilicate-d.jpg)
+
+*Figure II.B.13c — Skarn (calc-silicate rock). Source: [Virtual Microscope](https://www.virtualmicroscope.org/content/calc-silicate-skarn).*
+
 ## Related
 - [Marble & Calc-silicate](marble-calc-silicate.md) · [Granite](../igneous/granite.md) · [Limestone](../sedimentary/limestone.md) · [Wolframite & Scheelite](../../03-mineral-resources/metallic/wolframite-scheelite.md) · [Hornfels](hornfels.md)

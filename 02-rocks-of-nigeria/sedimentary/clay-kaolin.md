@@ -83,5 +83,14 @@ Quartz, feldspar (source), mica, iron oxides; associated with **laterite** profi
 
 *Figure II.C.6 — Kaolin: soft white kaolinite clay. Source: [Geological Specimen Supply](https://geologicalspecimensupply.com/products/kaolinite-teaching-student-specimens-of-the-primary-constituent-of-kaolin-clay-unit-of-5-specimens).*
 
+
+![Kaolin (kaolinite clay)](../../assets/images/min-kaolin-c.jpg)
+
+*Figure II.C.6b — Kaolin (kaolinite clay) hand specimen. Source: [Geological Specimen Supply](https://geologicalspecimensupply.com/products/kaolinite-soft-kaolin-teaching-hand-display-specimen-of-the-primary-constituent-of-kaolin-clay).*
+
+![Kaolin specimen](../../assets/images/min-kaolin-d.jpg)
+
+*Figure II.C.6c — Kaolin (kaolinite) display specimen. Source: [Geological Specimen Supply](https://geologicalspecimensupply.com/products/kaolinite-soft-white-kaolin-large-display-specimen-of-the-primary-constituent-of-kaolin-clay).*
+
 ## Related
 - [Laterite & Ferricrete](laterite-ferricrete.md) · [Siltstone, Shale & Mudstone](siltstone-shale.md) · **Part III** — [kaolin](../../03-mineral-resources/industrial/kaolin.md), [clay](../../03-mineral-resources/industrial/clay.md), [bentonite](../../03-mineral-resources/industrial/bentonite.md)

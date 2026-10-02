@@ -85,5 +85,14 @@ Gypsum, anhydrite, sylvite (potash), other evaporite minerals. Associated rocks:
 
 *Figure II.C.8 — Halite (rock salt) crystals. Source: [MyLostGems](https://mylostgems.com/product/halite-natural-rock-salt-crystal-genuine-healing-mineral-stone-certificated/).*
 
+
+![Halite (rock salt) crystal](../../assets/images/min-halite-c.jpg)
+
+*Figure II.C.8b — Halite (rock salt) crystal. Source: [MyLostGems](https://mylostgems.com/product/halite-natural-rock-salt-rock-crystal-power-mineral-authentic).*
+
+![Halite (rock salt) specimen](../../assets/images/min-halite-d.jpg)
+
+*Figure II.C.8c — Halite (rock salt) specimen. Source: [Etsy](https://www.etsy.com/listing/680980943/halite-natural-rock-salt-crystal-genuine).*
+
 ## Related
 - [Gypsum & evaporites](gypsum-evaporites.md) · [Anhydrite](anhydrite.md) · **Part III** — [salt](../../03-mineral-resources/industrial/salt.md)

@@ -87,5 +87,14 @@ Pyrite, quartz, clay, siderite; **methane** (coal-bed gas); plant fossils. Assoc
 
 *Figure II.C.5 — Black coal: combustible organic sedimentary rock. Source: [Dreamstime](https://www.dreamstime.com/photos-images/natural-coal-rocks.html).*
 
+
+![Anthracite coal](../../assets/images/min-coal-c.jpg)
+
+*Figure II.C.5b — Anthracite coal. Source: [Amazon](https://www.amazon.com/Anthracite-Coal-Metamorphic-Rock-Specimen/dp/B08KJK6NML).*
+
+![Bituminous coal](../../assets/images/min-coal-d.jpg)
+
+*Figure II.C.5c — Bituminous coal. Source: [Amazon](https://www.amazon.com/Anthracite-Coal-Metamorphic-Rock-Specimen/dp/B08KJK6NML).*
+
 ## Related
 - [Siltstone, Shale & Mudstone](siltstone-shale.md) · [Bitumen](bitumen.md) · [Peat](peat.md) · **Part III, III.D** — [coal](../../03-mineral-resources/energy/coal.md) (energy minerals)

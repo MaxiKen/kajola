@@ -88,5 +88,14 @@ Calcite, dolomite, quartz, chert, clay; may host **lead-zinc** (MVT-type) and **
 
 *Figure II.C.3 — Fossiliferous limestone (fizzes with acid). Source: [Amazon](https://www.amazon.com/Fossiliferous-Limestone-Sedimentary-Rock-Specimen/dp/B083TCRF28).*
 
+
+![Fossiliferous limestone](../../assets/images/min-limestone-c.jpg)
+
+*Figure II.C.3b — Fossiliferous limestone. Source: [Amazon](https://www.amazon.com/Eisco-Limestone-Specimen-Sedimentary-Approx/dp/B01K2WI6JM).*
+
+![Oolitic limestone](../../assets/images/min-limestone-d.jpg)
+
+*Figure II.C.3c — Oolitic limestone. Source: [Amazon](https://www.amazon.com/Eisco-Limestone-Specimen-Sedimentary-Approx/dp/B01K2WI6JM).*
+
 ## Related
 - [Marble & Calc-silicate](../metamorphic/marble-calc-silicate.md) (metamorphosed equivalent) · [Gypsum & evaporites](gypsum-evaporites.md) · [Sandstone](sandstone.md) · [Oolitic Limestone](oolitic-limestone.md) · **Part III** — [limestone](../../03-mineral-resources/industrial/limestone.md)

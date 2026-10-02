@@ -86,5 +86,14 @@ Sandstone and grit (they interfinger with); **placer gold and tin** can concentr
 
 *Figure II.C.12 — Conglomerate (rounded pebbles in a cemented matrix). Source: [Dreamstime](https://dreamstime.com/conglomerate-sedimentary-rock-made-rounded-pebbles-sand-usually-held-together-cemented-silica-calcite-iron-image180000198).*
 
+
+![Breccia (sedimentary rock)](../../assets/images/rock-breccia-c.jpg)
+
+*Figure II.C.12b — Breccia (sedimentary rock). Source: [Eisco Labs](https://eiscolabs.com/products/esng0029).*
+
+![Breccia specimen](../../assets/images/rock-breccia-d.jpg)
+
+*Figure II.C.12c — Breccia specimen. Source: [Amazon](https://www.amazon.com/Raw-Breccia-Sedimentary-Rock-Specimen/dp/B084BTWWXC).*
+
 ## Related
 - [Sandstone, Grit & Arkose](sandstone.md) · [Placers & Alluvium](placers-alluvium.md) · [Metaconglomerate](../metamorphic/metasediments.md) · [Sedimentary basins](../../01-general-geology/01-04-sedimentary-basins.md)

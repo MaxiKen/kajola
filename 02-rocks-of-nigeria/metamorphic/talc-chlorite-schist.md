@@ -82,5 +82,14 @@ Talc, chlorite, serpentine, magnesite; sometimes **asbestos (chrysotile)**, **ni
 
 *Figure II.B.7 — Soapstone: talc-rich, soft, greasy-feeling metamorphic rock. Source: [mylostgems.com](https://mylostgems.com/product/soapstone-2/).*
 
+
+![Talc schist (soapstone)](../../assets/images/rock-talkschist-c.jpg)
+
+*Figure II.B.7b — Talc schist (soapstone). Source: [Rockhound Resource](https://rockhoundresource.com/schist-identification-characteristics-and-more/).*
+
+![Chlorite (greenstone) schist](../../assets/images/rock-talkschist-d.jpg)
+
+*Figure II.B.7c — Chlorite-rich (greenstone) schist. Source: [Geological Specimen Supply](https://geologicalspecimensupply.com/products/schist-teaching-hand-display-specimens-of-a-greenstone-schist).*
+
 ## Related
 - [Peridotite & Pyroxenite](../igneous/peridotite-pyroxenite.md) (parent rock) · [Serpentinite](serpentinite.md) · [Greenschist](greenschist.md) · **Part III** — [talc](../../03-mineral-resources/industrial/talc.md)

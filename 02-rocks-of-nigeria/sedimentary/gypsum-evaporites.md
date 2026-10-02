@@ -87,5 +87,14 @@ Halite, anhydrite, calcite, dolomite; in layered evaporite sequences. Associated
 
 *Figure II.C.7 — Selenite gypsum crystals. Source: [Reverie Minerals](https://reverieminerals.com/products/selenite-gypsum-crystal-mineral-specimen).*
 
+
+![Gypsum crystal (Spain)](../../assets/images/min-gypsum-c.jpg)
+
+*Figure II.C.7b — Gypsum crystal (evaporite). Source: [Etsy](https://www.etsy.com/in-en/market/gypsum_specimen?page=4).*
+
+![Gypsum crystals](../../assets/images/min-gypsum-d.jpg)
+
+*Figure II.C.7c — Gypsum crystals (evaporite). Source: [Etsy](https://www.etsy.com/listing/4349966144/gypsum-cluster-specimen-o-raw-crystals).*
+
 ## Related
 - [Rock salt (halite)](rock-salt.md) · [Anhydrite](anhydrite.md) · [Limestone & Dolomite](limestone.md) · **Part III** — [gypsum](../../03-mineral-resources/industrial/gypsum.md)

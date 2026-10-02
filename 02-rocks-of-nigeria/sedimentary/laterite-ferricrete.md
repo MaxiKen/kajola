@@ -84,5 +84,14 @@ Concentrated **iron, aluminium (bauxite potential), manganese, gold**, and resid
 *Figure II.C.10 — A typical laterite weathering profile showing mineral concentration
 with depth. Source: [geologyscience.com](https://geologyscience.com/geology-branches/mining-geology/lateritic-deposits/).*
 
+
+![Laterite/ferricrete](../../assets/images/rock-laterite-c.jpg)
+
+*Figure II.C.10b — Laterite/ferricrete (ferruginous duricrust). Source: [Pavement Materials](https://www.pavementmaterials.co.za/products/ferricrete-laterite-g4-natural-gravel-supplier-cape-town-johannesburg-pretoria-durban).*
+
+![Ferricrete laterite gravel](../../assets/images/rock-laterite-d.jpg)
+
+*Figure II.C.10c — Ferricrete laterite gravel. Source: [Pavement Materials](https://www.pavementmaterials.co.za/products/ferricrete-laterite-g4-natural-gravel-supplier-cape-town-johannesburg-pretoria-durban).*
+
 ## Related
 - [Regolith & laterite](../../01-general-geology/01-07-regolith-and-laterite.md) · [Clay & Kaolin](clay-kaolin.md) · [Ironstone](ironstone.md) · [Placers & alluvium](placers-alluvium.md) · [Calcrete & silcrete](calcrete-silcrete.md)
