@@ -82,5 +82,14 @@ Charnockite, gneiss, migmatite, pyroxene, garnet (see [Banded gneiss](banded-gne
 
 *Figure II.B.15 — Charnockite, a granulite-facies rock. Source: see [Charnockite](../igneous/charnockite.md).*
 
+
+![Granulite/charnockite (thin section)](../../assets/images/rock-granulite-c.png)
+
+*Figure II.B.15b — Granulite (myrmekitic granulite/charnockite, thin section). Source: [Virtual Microscope](https://www.virtualmicroscope.org/content/myrmekitic-granulitecharnockite).*
+
+![Granulite (thin section)](../../assets/images/rock-granulite-d.png)
+
+*Figure II.B.15c — Granulite/charnockite (thin section). Source: [Virtual Microscope](https://www.virtualmicroscope.org/content/myrmekitic-granulitecharnockite).*
+
 ## Related
 - [Charnockite](../igneous/charnockite.md) · [Banded gneiss](banded-gneiss.md) · [Migmatite](migmatite.md) · [Amphibolite](amphibolite.md)

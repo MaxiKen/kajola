@@ -83,5 +83,14 @@ Common in and around the **schist belts**: **Osun (Ilesa–Ife), Oyo, Kwara (Egb
 
 *Figure II.B.8 — Greywacke: gritty, poorly sorted sandstone with rock fragments. Source: [eiscolabs.com](http://www.eiscolabs.com/products/eisco-greywacke-specimen-3cm-in-size).*
 
+
+![Metasediment: slate](../../assets/images/rock-metasediment-c.jpg)
+
+*Figure II.B.8b — Metasediment: slate. Source: [Amazon](https://www.amazon.com/Raw-Slate-Metamorphic-Rock-Specimen/dp/B0CC3K8NXT).*
+
+![Metasediment: green slate](../../assets/images/rock-metasediment-d.jpg)
+
+*Figure II.B.8c — Metasediment: green slate. Source: [Amazon](https://www.amazon.com/Green-Slate-Metamorphic-Rock-Specimen/dp/B084JBTVDG).*
+
 ## Related
 - [Mica schist & Phyllite](mica-schist-phyllite.md) · [Quartzite & Quartz schist](quartzite-quartz-schist.md) · [Conglomerate & Breccia](../sedimentary/conglomerate-breccia.md) · [Greywacke](../sedimentary/greywacke.md)

@@ -85,5 +85,14 @@ Common in the **schist belts**: **Osun (Ilesa–Ife), Oyo, Kwara (Egbe–Isanlu)
 
 *Figure II.B.3 — Quartzite: massive, very hard, sugary quartz rock. Source: [Amazon](https://www.amazon.com/Quartzite-Metamorphic-Rock-Unpolished-Specimens/dp/B01FMKU8CM).*
 
+
+![White quartzite](../../assets/images/rock-quartzite-c.jpg)
+
+*Figure II.B.3b — White quartzite. Source: [Eisco Labs](https://www.eiscolabs.com/products/eisco-white-quartzite-specimen-3cm-in-size-pack-of-12).*
+
+![Quartzite specimen](../../assets/images/rock-quartzite-d.jpg)
+
+*Figure II.B.3c — Quartzite specimen. Source: [Eisco Labs](http://www.eiscolabs.com/products/eisco-white-quartzite-specimen-3cm-in-size).*
+
 ## Related
 - [Mica schist & Phyllite](mica-schist-phyllite.md) · [Marble & Calc-silicate](marble-calc-silicate.md) · [Sandstone](../sedimentary/sandstone.md) · [Quartz, Silica & Glass sand](../../03-mineral-resources/industrial/quartz-glass-sand.md)

@@ -88,5 +88,14 @@ Garnet, sillimanite, cordierite, kyanite; quartz and feldspar (industrial). Asso
 
 *Figure II.B.1 — Migmatite: pale granitic leucosome folded through dark melanosome. Source: [Etsy](https://www.etsy.com/in-en/listing/4304285418/migmatite-rough-stone-migmatite-rock).*
 
+
+![Migmatite](../../assets/images/rock-migmatite-c.jpg)
+
+*Figure II.B.1b — Migmatite (mixed igneous-metamorphic rock). Source: [Etsy](https://www.etsy.com/in-en/listing/4304285418/migmatite-rough-stone-migmatite-rock).*
+
+![Migmatite specimen](../../assets/images/rock-migmatite-d.jpg)
+
+*Figure II.B.1c — Migmatite specimen. Source: [Etsy](https://www.etsy.com/in-en/listing/4304285418/migmatite-rough-stone-migmatite-rock).*
+
 ## Related
 - [Banded gneiss](banded-gneiss.md) · [Charnockite](../igneous/charnockite.md) · [The three rock families](../../00-fundamentals/00-04-three-rock-families.md)

@@ -82,5 +82,14 @@ Quartz veins, **gold**, sulfides (**pyrite, chalcopyrite, galena**) — fault zo
 
 *Figure II.B.11 — Fault slickensides on sheared (mylonitic) rock. Source: [ThoughtCo](https://www.thoughtco.com/gallery-of-slickensides-4122857).*
 
+
+![Mylonite (fault rock)](../../assets/images/rock-mylonite-c.jpg)
+
+*Figure II.B.11b — Mylonite (fault rock). Source: [Rubyglint](https://rubyglint.com/rocks/mylonite).*
+
+![Mylonite specimen](../../assets/images/rock-mylonite-d.jpg)
+
+*Figure II.B.11c — Mylonite specimen. Source: [Rubyglint](https://rubyglint.com/rocks/mylonite).*
+
 ## Related
 - [Structural controls](../../01-general-geology/01-06-structural-controls.md) · [Gold](../../03-mineral-resources/metallic/gold.md) · [Mica schist & Phyllite](mica-schist-phyllite.md)
