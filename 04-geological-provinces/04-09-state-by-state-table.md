@@ -1,5 +1,7 @@
 # 4.9 — State-by-State Rocks & Minerals Reference
 
+> **Quick reference:** At-a-glance geology & resources for the **36 states + FCT**. Filter by domain (Basement / Younger Granites / sedimentary basins) to see the target minerals. *Representative, not exhaustive — always confirm against the NGSA geological map and GSN bulletins.*
+
 A quick-lookup table for the **36 states + FCT**. Use it to see, at a glance, what
 geology and resources to expect in each state. *Representative, not exhaustive —
 always confirm against the NGGS geological map and GSN bulletins.*
