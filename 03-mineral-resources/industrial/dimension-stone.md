@@ -53,6 +53,14 @@ Massive, competent, and durable rock; attractive colour and pattern; takes a pol
 
 *Figure III.B.34 — Marble ornamental stone. Source: see [Marble](marble.md).*
 
+![Granite quarry](../../assets/images/min-dimension-stone-c.jpg)
+
+*Figure III.B.34b — Dimension stone: granite quarry. Source: [USGS](https://www.usgs.gov/centers/national-minerals-information-center/dimension-stone-statistics-and-information).*
+
+![Harvesting granite at quarry](../../assets/images/min-dimension-stone-d.jpg)
+
+*Figure III.B.34c — Dimension stone: cutting granite blocks. Source: [Vermont DEC](https://dec.vermont.gov/geological-survey/resources-energy/minres/granite).*
+
 ## Genesis
 - **Granite** — plutonic igneous (see [Granite](granite.md)).
 - **Marble** — metamorphosed limestone (see [Marble](marble.md)).

@@ -47,6 +47,14 @@ Massive, earthy, plastic when wet, and fissile (breaks into plates). Identified 
 
 *Figure III.B.28 — Clay specimen (fire clay is a refractory grade of clay). Source: see [Clay](clay.md).*
 
+![Fireclay refractory bricks](../../assets/images/min-fireclay-c.webp)
+
+*Figure III.B.28b — Fire-clay: refractory fireclay bricks. Source: [Made-in-China](https://m.made-in-china.com/product/Refractory-Brick-High-Temp-Fire-Clay-Brick-Sk34-Fireclay-Bricks-for-Sale-2006728512.html).*
+
+![Fireclay brick](../../assets/images/min-fireclay-d.webp)
+
+*Figure III.B.28c — Fire-clay refractory brick. Source: [Made-in-China](https://m.made-in-china.com/product/Refractory-Brick-High-Temp-Fire-Clay-Brick-Sk34-Fireclay-Bricks-for-Sale-2006728512.html).*
+
 *(Bulk industrial material — a single hand-specimen image is representative; pure ≈ in-rock.)*
 
 ## Genesis

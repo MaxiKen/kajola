@@ -55,6 +55,14 @@
 
 *Figure III.B.17 — Dark grey graphite on quartz. Source: [Cochise College geology](https://geology.cochise.edu/mineral-type/graphite/).*
 
+![Graphite specimen](../../assets/images/min-graphite-c.jpg)
+
+*Figure III.B.17b — Graphite (carbon) specimen. Source: [MyLostGems](https://mylostgems.com/product-category/crystals/e-i/graphite/).*
+
+![Graphite crystal](../../assets/images/min-graphite-d.webp)
+
+*Figure III.B.17c — Graphite specimen. Source: [eBay UK](https://www.ebay.co.uk/b/bn_18019919).*
+
 ## Genesis
 Metamorphism of **carbonaceous sediments** (graphite schist/gneiss), hydrothermal deposits, and rarely igneous sources. Often concentrated in schist belts — heat and pressure convert organic carbon to graphite.
 

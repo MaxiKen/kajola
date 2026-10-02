@@ -55,6 +55,14 @@
 
 *Figure III.B.27 — Dolomitic limestone (dolostone). Source: see [Limestone](limestone.md).*
 
+![Dolomite with calcite](../../assets/images/min-dolomite-c.jpg)
+
+*Figure III.B.27b — Dolomite (with calcite) crystal. Source: [Etsy](https://etsy.com/ca-fr/market/dolomite_crystal).*
+
+![Pink dolomite](../../assets/images/min-dolomite-d.jpg)
+
+*Figure III.B.27c — Pink dolomite crystal. Source: [Etsy](https://www.etsy.com/market/dolomite_crystal).*
+
 ## Genesis
 Mainly by **dolomitization** of limestone (Mg-rich fluids replacing calcite), plus hydrothermal and evaporite-associated origins. Dolomitization often improves porosity, making dolostone an important reservoir rock.
 
