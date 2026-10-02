@@ -86,5 +86,14 @@ Mostly minor in itself, but dike swarms can mark **structural pathways** and, ra
 
 *Figure II.A.14 — Lamprophyre (mafic dike rock). Source: [Geology Is The Way](https://geologyistheway.com/igneous/lamprophyres/).*
 
+
+![Minette (lamprophyre) dike](../../assets/images/rock-lamprophyre-c.jpg)
+
+*Figure II.A.14b — Minette (a lamprophyre) dike, Ship Rock, New Mexico. Source: [Flickr (James St. John)](https://www.flickr.com/photos/jsjgeology/29472579101).*
+
+![Lamprophyre (monchiquite) dike](../../assets/images/rock-lamprophyre-d.jpg)
+
+*Figure II.A.14c — Lamprophyre (monchiquite) dike. Source: [Geology Is The Way](https://geologyistheway.com/igneous/lamprophyres/).*
+
 ## Related
 - [Gabbro & Dolerite](gabbro-dolerite.md) · [Granite](granite.md) · [Kimberlite](kimberlite.md)

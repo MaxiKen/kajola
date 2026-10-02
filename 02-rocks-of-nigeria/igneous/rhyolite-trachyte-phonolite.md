@@ -93,6 +93,15 @@ The **Younger volcanics** of the **Jos Plateau** (trachyte/phonolite flows and n
 
 *Figure II.A.9 — Rhyolite: fine-grained, pale volcanic (extrusive) rock. Source: [Amazon EISCO](https://www.amazon.com/Eisco-Rhyolite-Specimen-Igneous-Approx/dp/B01J480HEC).*
 
+
+![Rhyolite porphyry](../../assets/images/rock-rhyolite-c.jpg)
+
+*Figure II.A.9b — Rhyolite porphyry. Source: [Geological Specimen Supply](https://geologicalspecimensupply.com/products/copy-of-rhyolite-porphyry-teaching-hand-specimen-of-rhyolite-with-small-phenocrysts).*
+
+![Rhyolite porphyry (pink)](../../assets/images/rock-rhyolite-d.jpg)
+
+*Figure II.A.9c — Rhyolite porphyry (light pink). Source: [Geological Specimen Supply](https://geologicalspecimensupply.com/products/rhyolite-porphyry-teaching-hand-display-specimen-of-rhyolite-with-small-phenocrysts).*
+
 ## Related
 - [Granite](granite.md) · [Syenite & Nepheline syenite](syenite-nepheline-syenite.md) · [Basalt](basalt.md) · [Obsidian](obsidian.md) · [Volcanic tuff & ignimbrite](volcanic-tuff-ignimbrite.md)
 - [Cenozoic volcanism](../../01-general-geology/01-05-cenozoic-volcanism.md)

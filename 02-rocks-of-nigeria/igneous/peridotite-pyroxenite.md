@@ -98,6 +98,15 @@ Uncommon but present in Nigeria — occur as **ultramafic / ophiolite fragments*
 
 *Figure II.A.5 — Peridotite: coarse olivine + pyroxene, an ultramafic rock. Source: [allschoolabs.com](https://allschoolabs.com/product/raw-peridotite-igneous-rock-specimen-approx-3-hand-sample/).*
 
+
+![Peridotite (wehrlite)](../../assets/images/rock-peridotite-c.webp)
+
+*Figure II.A.5b — Peridotite (wehrlite): olivine + clinopyroxene. Source: [GeologyIn](https://www.geologyin.com/2025/09/peridotite-composition-types.html).*
+
+![Peridotite (lherzolite)](../../assets/images/rock-peridotite-d.webp)
+
+*Figure II.A.5c — Peridotite (lherzolite). Source: [GeologyIn](https://www.geologyin.com/2025/09/peridotite-composition-types.html).*
+
 ## Related
 - [Gabbro & Dolerite](gabbro-dolerite.md) · [Serpentinite](../metamorphic/serpentinite.md) · [Talc/Chlorite schist](../metamorphic/talc-chlorite-schist.md) (alteration products)
 - **Part III** — [Chromite](../../03-mineral-resources/metallic/chromite.md)

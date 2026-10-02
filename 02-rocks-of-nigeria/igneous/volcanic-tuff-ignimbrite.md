@@ -87,5 +87,14 @@ Rhyolite, trachyte, phonolite, granite; crystals of **quartz, feldspar, sanidine
 
 *Figure II.A.11 — Welded ignimbrite (tuff). Source: [Geology Superstore](https://www.geologysuperstore.com/shop/product/ignimbrite-welded-tuff).*
 
+
+![Volcanic tuff](../../assets/images/rock-tuff-c.jpg)
+
+*Figure II.A.11b — Volcanic tuff. Source: [Eisco Labs](https://www.eiscolabs.com/products/esng0051pk12).*
+
+![Volcanic tuff specimen](../../assets/images/rock-tuff-d.jpg)
+
+*Figure II.A.11c — Volcanic tuff specimen. Source: [Amazon](https://www.amazon.com/Eisco-Volcanic-Specimen-Igneous-Approx/dp/B01J480K1M).*
+
 ## Related
 - [Rhyolite, Trachyte & Phonolite](rhyolite-trachyte-phonolite.md) · [Younger Granites](../../01-general-geology/01-03-younger-granite-ring-complexes.md) · [Microgranite / Porphyry](microgranite-porphyry.md) · [Basalt](basalt.md)
