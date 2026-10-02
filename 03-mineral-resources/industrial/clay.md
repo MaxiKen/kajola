@@ -47,6 +47,14 @@ A mixture of **clay minerals** — kaolinite, illite, smectite (montmorillonite)
 
 *Figure III.B.4 — Red brick clay (fired). Source: [eBay](https://www.ebay.com/shop/red-clay-bricks?_nkw=red+clay+bricks).*
 
+![Clay (kaolinite-rich) lump](../../assets/images/min-clay-c.jpg)
+
+*Figure III.B.4b — Clay (kaolinite-rich) lump. Source: [LibreTexts](https://geo.libretexts.org/Courses/Coalinga_College/GEOL_001:_Intro_to_Physical_Geology/03:_Minerals/3.05:_Identifying_Minerals).*
+
+![Grey-brown clay lump](../../assets/images/min-clay-d.jpg)
+
+*Figure III.B.4c — Clay: grey-brown lump. Source: [MyLearning](https://www.mylearning.org/stories/investigating-rocks-and-fossils/types-of-sedimentary-rock).*
+
 Widespread (see [Clay & Kaolin rock](../../02-rocks-of-nigeria/sedimentary/clay-kaolin.md)).
 
 ## Genesis

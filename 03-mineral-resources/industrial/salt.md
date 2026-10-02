@@ -49,6 +49,14 @@
 
 *Figure III.B.12 — Halite (rock salt) crystals. Source: [MyLostGems](https://mylostgems.com/product/halite-natural-rock-salt-crystal-genuine-healing-mineral-stone-certificated/).*
 
+![Halite (rock salt) crystal](../../assets/images/min-halite-c.jpg)
+
+*Figure III.B.12b — Halite (rock salt) crystal. Source: [MyLostGems](https://mylostgems.com/product/halite-natural-rock-salt-rock-crystal-power-mineral-authentic).*
+
+![Halite specimen](../../assets/images/min-halite-d.jpg)
+
+*Figure III.B.12c — Halite (rock salt) specimen. Source: [Etsy](https://www.etsy.com/listing/680980943/halite-natural-rock-salt-crystal-genuine).*
+
 Found in evaporite deposits (see [Rock salt rock](../../02-rocks-of-nigeria/sedimentary/rock-salt.md)).
 
 ## Genesis

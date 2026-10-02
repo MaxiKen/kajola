@@ -59,6 +59,14 @@ All share a layered structure that gives them perfect cleavage into sheets.
 
 *Figure III.B.19 — Mica schist: aligned mica flakes in a metamorphic rock. Source: [eBay (Eisco Labs)](https://www.ebay.com/shop/mica-schist?_nkw=mica+schist).*
 
+![Muscovite mica sheet](../../assets/images/min-muscovite-c.jpg)
+
+*Figure III.B.19b — Muscovite mica (sheet silicate). Source: [Etsy](https://www.etsy.com/market/muscovite_sheet).*
+
+![Muscovite mica specimen](../../assets/images/min-muscovite-d.jpg)
+
+*Figure III.B.19c — Muscovite mica specimen. Source: [UKGE](https://ukge.com/product/muscovite/).*
+
 ## Genesis
 Grows in **granites & pegmatites** (muscovite, lepidolite) and **metamorphic schists** (biotite, muscovite). Lepidolite marks lithium-rich pegmatites (see [Pegmatite](../../02-rocks-of-nigeria/igneous/pegmatite.md)).
 

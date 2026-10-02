@@ -49,6 +49,14 @@ Limestone is a **rock** — massive, bedded, granular, or fossiliferous. The **c
 
 *Figure III.B.1 — Fossiliferous limestone (the cement raw material). Source: [Amazon](https://www.amazon.com/Fossiliferous-Limestone-Sedimentary-Rock-Specimen/dp/B083TCRF28).*
 
+![Fossiliferous limestone](../../assets/images/min-limestone-c.jpg)
+
+*Figure III.B.1b — Fossiliferous limestone specimen. Source: [Amazon](https://www.amazon.com/Eisco-Limestone-Specimen-Sedimentary-Approx/dp/B01K2WI6JM).*
+
+![Oolitic limestone](../../assets/images/min-limestone-d.jpg)
+
+*Figure III.B.1c — Oolitic limestone specimen. Source: [Amazon](https://www.amazon.com/Eisco-Limestone-Specimen-Sedimentary-Approx/dp/B01K2WI6JM).*
+
 Found in sedimentary basins (see [Limestone rock](../../02-rocks-of-nigeria/sedimentary/limestone.md)).
 
 ## Genesis

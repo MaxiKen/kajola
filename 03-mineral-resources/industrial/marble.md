@@ -48,6 +48,14 @@
 
 *Figure III.B.7 — White marble: recrystallized calcite. Source: [eiscolabs.com](https://www.eiscolabs.com/products/esng0058).*
 
+![White marble specimen](../../assets/images/min-marble-c.jpg)
+
+*Figure III.B.7b — White marble specimen. Source: [Eisco Labs](https://www.eiscolabs.com/products/esng0058).*
+
+![Fine white marble](../../assets/images/min-marble-d.jpg)
+
+*Figure III.B.7c — Fine white marble specimen. Source: [Eisco Labs](https://www.eiscolabs.com/products/esng0058).*
+
 Found in metamorphosed limestone bodies (see [Marble rock](../../02-rocks-of-nigeria/metamorphic/marble-calc-silicate.md)).
 
 ## Genesis

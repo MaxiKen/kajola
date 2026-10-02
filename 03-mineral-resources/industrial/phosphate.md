@@ -48,6 +48,14 @@
 
 *Figure III.B.10 — Apatite: a phosphate mineral (fertilizer source). Source: [Mauritius Images](https://www.mauritius-images.com/en/asset/ME-PI-8885182_mauritius_images_bildnummer_09355381_apatite-specimen-apatite-is-a-phosphate-mineral-apatite-is-defined-to-have-hardness-of-5-in-the-mohs-scale).*
 
+![Phosphate rock (phosphorite)](../../assets/images/min-phosphate-c.jpg)
+
+*Figure III.B.10b — Phosphate rock (peloidal phosphorite). Source: [Geology.com](https://geology.com/minerals/apatite.shtml).*
+
+![Fossiliferous phosphate rock](../../assets/images/min-phosphate-d.jpg)
+
+*Figure III.B.10c — Fossiliferous phosphate rock. Source: [Geology.com](https://geology.com/minerals/apatite.shtml).*
+
 Found in sedimentary basins (see [The sedimentary basins](../../01-general-geology/01-04-sedimentary-basins.md)).
 
 ## Genesis

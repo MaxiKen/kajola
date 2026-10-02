@@ -66,6 +66,14 @@ Pyrite and marcasite share the same chemistry (FeS₂) but different crystal str
 
 *Figure III.B.37 — Iron sulfides within a mineralized ore matrix. Source: [eBay](https://www.ebay.com/b/Pyrite-Crystals/3225/bn_55192064).*
 
+![Pyrite (fool's gold) crystal](../../assets/images/min-pyrite-c.jpg)
+
+*Figure III.B.37b — Pyrite (fool's gold) crystal. Source: [OakRocks](https://www.oakrocks.net/pyrite-crystal-natural-mineral-specimen-fools-gold-peru-o8/).*
+
+![Marcasite specimen](../../assets/images/min-marcasite-c.jpg)
+
+*Figure III.B.37c — Marcasite specimen. Source: [Etsy](https://etsy.com/listing/1891273709/marcasite-specimen-25g-unique-mineral).*
+
 ## Genesis
 Ubiquitous — **hydrothermal veins**, sedimentary (marcasite, pyrrhotite), metamorphic, and magmatic (pyrrhotite in mafic rocks, often with nickel). Iron sulfides form in almost every geological setting.
 
