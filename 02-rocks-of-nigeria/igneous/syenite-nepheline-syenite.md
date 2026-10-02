@@ -92,6 +92,15 @@ Chiefly in the **Younger Granite ring complexes** of the **Jos Plateau** and env
 
 *Figure II.A.3 — Syenite: feldspar-rich, quartz-poor coarse-grained igneous rock. Source: [Amazon](https://www.amazon.com/Syenite-Igneous-Rock-Unpolished-Specimens/dp/B01FMLWE2S).*
 
+
+![Syenite specimen](../../assets/images/rock-syenite-c.jpg)
+
+*Figure II.A.3b — Syenite (igneous rock) specimen. Source: [Amazon](https://www.amazon.com/Syenite-Igneous-Rock-Unpolished-Specimens/dp/B01FMLWE2S).*
+
+![Nepheline syenite](../../assets/images/rock-syenite-d.jpg)
+
+*Figure II.A.3c — Nepheline syenite. Source: [Wikipedia](https://en.wikipedia.org/wiki/Nepheline_syenite).*
+
 ## Related
 - [Granite](granite.md) · [Rhyolite, Trachyte & Phonolite](rhyolite-trachyte-phonolite.md) · [Pegmatite](pegmatite.md) · [Carbonatite](carbonatite.md)
 - [Younger Granite ring complexes](../../01-general-geology/01-03-younger-granite-ring-complexes.md)

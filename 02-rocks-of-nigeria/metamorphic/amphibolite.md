@@ -82,5 +82,14 @@ Garnet, plagioclase; sometimes **gold** where in the schist belts. Associated ro
 
 *Figure II.B.5 — Amphibolite: dark, hornblende-rich metamorphic rock. Source: [Etsy](https://www.etsy.com/listing/738946785/amphibolite-metamorphic-rock-10).*
 
+
+![Amphibolite (metamorphic rock)](../../assets/images/rock-amphibolite-c.jpg)
+
+*Figure II.B.5b — Amphibolite (metamorphic rock). Source: [Etsy](https://www.etsy.com/listing/738946785/amphibolite-metamorphic-rock-10).*
+
+![Amphibolite specimen](../../assets/images/rock-amphibolite-d.jpg)
+
+*Figure II.B.5c — Amphibolite specimen. Source: [Beakers World](https://beakersworld.com/product/amphibolite-metamorphic-rock-10-unpolished-mineral-specimens/).*
+
 ## Related
 - [Banded gneiss](banded-gneiss.md) · [Gabbro & Dolerite](../igneous/gabbro-dolerite.md) · [Greenschist](greenschist.md)

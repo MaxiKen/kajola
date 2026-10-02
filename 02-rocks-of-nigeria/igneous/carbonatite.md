@@ -83,5 +83,14 @@ A major source of **rare-earth elements (REE)**, **niobium**, phosphate, fluorit
 
 *Figure II.A.17 — Carbonatite specimen. Source: [Etsy](https://www.etsy.com/market/carbonatite_rock).*
 
+
+![Carbonatite (carbonate igneous rock)](../../assets/images/rock-carbonatite-c.jpg)
+
+*Figure II.A.17b — Carbonatite (carbonate-rich igneous rock). Source: [Imagine Childhood](https://imaginechildhood.com/products/carbonatite).*
+
+![Betafite (carbonatite mineral)](../../assets/images/rock-carbonatite-d.jpg)
+
+*Figure II.A.17c — Betafite, a mineral typical of carbonatite complexes. Source: [Reddit r/Radioactive_Rocks](https://www.reddit.com/r/Radioactive_Rocks/comments/1najq5g/betafite_silver_crater_mine_ontario_canada/).*
+
 ## Related
 - [Syenite & Nepheline syenite](syenite-nepheline-syenite.md) · [Zircon & Monazite](../../03-mineral-resources/metallic/zircon-monazite.md) · [Fluorite](../../03-mineral-resources/industrial/fluorite.md) · [Younger Granite ring complexes](../../01-general-geology/01-03-younger-granite-ring-complexes.md)

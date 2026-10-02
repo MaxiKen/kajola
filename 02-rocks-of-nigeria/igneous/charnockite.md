@@ -90,6 +90,15 @@ Occurs as **charnockite massifs** in the **northern and north-central Basement**
 *Figure II.A.6 — Charnockite (a porphyritic quartz mangerite), a hypersthene-bearing
 granulite-facies rock widely sold as ornamental granite. Source: [Wikipedia](https://en.wikipedia.org/wiki/Charnockite).*
 
+
+![Charnockite (St Thomas Mount)](../../assets/images/rock-charnockite-c.jpg)
+
+*Figure II.A.6b — Charnockite, St Thomas Mount (type locality). Source: [Rangan Datta](https://rangandatta.wordpress.com/2025/08/24/charnockite-the-rock-of-job-charnock/).*
+
+![Charnockite outcrop](../../assets/images/rock-charnockite-d.jpg)
+
+*Figure II.A.6c — Charnockite outcrop, St Thomas Mount. Source: [Telegraph India](https://www.telegraphindia.com/my-kolkata/lifestyle/the-discovery-of-charnockite-the-rock-of-charnock/cid/1961292).*
+
 ## Related
 - [Granite](granite.md) · [Granulite](../metamorphic/granulite.md) · [Migmatite & Gneiss](../metamorphic/migmatite.md)
 - [Granitoids of the Basement](../../01-general-geology/01-02-basement-complex-and-pan-african.md)

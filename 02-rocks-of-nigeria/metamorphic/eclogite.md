@@ -81,5 +81,14 @@ Garnet (pyrope), omphacite, kyanite, quartz, glaucophane (see [Garnet](../../03-
 
 *Figure II.B.16 — Eclogite (red garnet + green omphacite). Source: [Etsy](https://www.etsy.com/listing/700683534/eclogite-redblackgreen-09-kg-2217-eurokg).*
 
+
+![Eclogite (high-P metamorphic rock)](../../assets/images/rock-eclogite-c.jpg)
+
+*Figure II.B.16b — Eclogite (high-pressure metamorphic rock). Source: [All-Geo](https://all-geo.org/metageologist/2011/09/what-you-ought-to-know-about-metamorphism).*
+
+![Eclogite hand specimen](../../assets/images/rock-eclogite-d.jpg)
+
+*Figure II.B.16c — Eclogite hand specimen (Norway). Source: [The Rock Gallery](https://www.therockgallery.co.uk/eclogite-hand-specimen---norway-12121-p.asp).*
+
 ## Related
 - [Granulite](granulite.md) · [Amphibolite](amphibolite.md) · [Garnet](../../03-mineral-resources/gemstones/garnet.md) · [Kyanite](../../03-mineral-resources/gemstones/kyanite.md)
