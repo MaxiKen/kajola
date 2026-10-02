@@ -54,6 +54,14 @@
 
 *Figure III.B.21 — Sillimanite in its host rock. Source: [MineralExpert](https://mineralexpert.org/article/andalusite-aluminosilicate-mineral-overview).*
 
+![Sillimanite specimen](../../assets/images/min-sillimanite-c.jpg)
+
+*Figure III.B.21b — Sillimanite specimen. Source: [Rubyglint](https://rubyglint.com/rocks/sillimanite).*
+
+![Fibrous sillimanite](../../assets/images/min-sillimanite-d.jpg)
+
+*Figure III.B.21c — Fibrous sillimanite aggregate. Source: [MineralExpert](https://mineralexpert.org/article/sillimanite-aluminosilicate-mineral-overview).*
+
 ## Genesis
 **High-grade metamorphism** of alumina-rich (pelitic) rocks — the "sillimanite zone" of regional metamorphism; also contact metamorphism (see [Mica schist & Phyllite](../../02-rocks-of-nigeria/metamorphic/mica-schist-phyllite.md)). Sillimanite marks higher grade than kyanite.
 

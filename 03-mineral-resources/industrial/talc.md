@@ -49,6 +49,14 @@
 
 *Figure III.B.6 — Soapstone: soft, greasy talc rock. Source: [MyLostGems](https://mylostgems.com/product/soapstone-2/).*
 
+![Talc mineral specimen](../../assets/images/min-talc-c.jpg)
+
+*Figure III.B.6b — Talc mineral specimen. Source: [MyLostGems](https://mylostgems.com/product-category/crystals/t-z/talc/).*
+
+![Talc crystals](../../assets/images/min-talc-d.jpg)
+
+*Figure III.B.6c — Talc crystals (Canada). Source: [iRocks](https://www.irocks.com/minerals/specimen/43043).*
+
 Found in altered **ultramafic zones** of the Basement (see [Talc/Chlorite schist rock](../../02-rocks-of-nigeria/metamorphic/talc-chlorite-schist.md)).
 
 ## Genesis

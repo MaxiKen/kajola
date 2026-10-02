@@ -49,6 +49,14 @@
 
 *Figure III.B.9 — Quartz: pure silica (here an amethyst variety). Source: [prettyrock.com](https://prettyrock.com/collections/quartz-specimens).*
 
+![Quartz glass sand](../../assets/images/min-quartz-sand-c.jpg)
+
+*Figure III.B.9b — Quartz glass sand (silica sand). Source: [Geology.com](https://geology.com/minerals/quartz.shtml).*
+
+![Quartz sand grains](../../assets/images/min-quartz-sand-d.jpg)
+
+*Figure III.B.9c — Quartz sand grains. Source: [Wikipedia](https://en.wikipedia.org/wiki/Sandstone).*
+
 Sourced from **quartz veins, quartzite, and pure quartz sands** (beaches, dunes, rivers).
 
 ## Genesis

@@ -48,6 +48,14 @@
 
 *Figure III.B.8 — Granite: durable ornamental/dimension stone. Source: [Amazon EISCO](https://www.amazon.com/Pink-Granite-Igneous-Rock-Specimen/dp/B083TJ9694).*
 
+![Porphyritic granite hand sample](../../assets/images/min-granite-c.jpg)
+
+*Figure III.B.8b — Porphyritic granite hand sample. Source: [Amazon](https://www.amazon.com/Pink-Granite-Igneous-Rock-Specimen/dp/B083TJ9694).*
+
+![Granite hand specimen](../../assets/images/min-granite-d.jpg)
+
+*Figure III.B.8c — Granite hand specimen. Source: [Amazon](https://www.amazon.com/Pink-Granite-Igneous-Rock-Specimen/dp/B083TJ9694).*
+
 Quarried from granite plutons (see [Granite rock](../../02-rocks-of-nigeria/igneous/granite.md)).
 
 ## Genesis
