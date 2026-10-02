@@ -53,6 +53,14 @@
 
 *Figure III.C.6 — Quartz crystal (amethyst variety). Source: [prettyrock.com](https://prettyrock.com/collections/quartz-specimens).*
 
+![Amethyst (purple quartz) specimen](../../assets/images/min-amethyst-c.jpg)
+
+*Figure III.C.6b — Amethyst (purple quartz) specimen. Source: [Grumbly Tumbleweed](https://www.grumblytumbleweed.com/products/amethyst-crystal-rock-specimen-purple-quartz-display-sample-from-brazil-39-91-grams).*
+
+![Amethyst geode cluster](../../assets/images/min-amethyst-d.jpg)
+
+*Figure III.C.6c — Amethyst geode cluster. Source: [Etsy](https://www.etsy.com/listing/1222747927/natural-amethyst-geode-cluster-purple).*
+
 Found in veins, pegmatites, and geodes across the Basement (see [Quartz, Silica & Glass sand](../industrial/quartz-glass-sand.md)).
 
 ## Genesis

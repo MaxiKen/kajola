@@ -53,6 +53,14 @@
 
 *Figure III.C.5 — Blue sapphire (corundum) rough. Source: [Amazon](https://www.amazon.com/Sapphire-Corundum-Sparkling-Gemstone-Specimen/dp/B09DQ6H7KJ).*
 
+![Corundum (ruby/sapphire) rough](../../assets/images/min-corundum-c.jpg)
+
+*Figure III.C.5b — Corundum (ruby/sapphire) rough. Source: [Amazon](https://www.amazon.com/HXSCOO-Sapphire-HealingStone-Gemstones-Decoration/dp/B0CPCWHM26).*
+
+![Corundum crystal](../../assets/images/min-corundum-d.jpg)
+
+*Figure III.C.5c — Corundum (ruby/sapphire) crystal. Source: [Etsy](https://etsy.com/listing/1854980436/ruby-sapphire-corrundum-crystal-41-grams).*
+
 Found in metamorphic rocks and alluvial placers (see [Placers & alluvium](../../02-rocks-of-nigeria/sedimentary/placers-alluvium.md)).
 
 ## Genesis

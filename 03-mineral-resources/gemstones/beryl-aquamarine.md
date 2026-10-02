@@ -54,6 +54,14 @@ The **beryl group** — a beryllium aluminium silicate with several gem varietie
 
 *Figure III.C.2 — Aquamarine (blue beryl) crystal cluster. Source: [Etsy](https://etsy.com/listing/655232678/aquamarine-blue-beryl-crystal-pegmatite).*
 
+![Aquamarine (beryl) crystals](../../assets/images/min-aquamarine-c.jpg)
+
+*Figure III.C.2b — Aquamarine (beryl) crystals. Source: [Amazon](https://www.amazon.com/Aquamarine-Gemstone-Specimen-Decoration-YICHENGYIN/dp/B0C6X65TFQ).*
+
+![Aquamarine (beryl) specimen](../../assets/images/min-aquamarine-d.jpg)
+
+*Figure III.C.2c — Aquamarine (beryl) specimen. Source: [Etsy](https://www.etsy.com/listing/1565047262/aquamarine-beryl-gemstone-marchs).*
+
 Found in zoned pegmatites (see [Pegmatite](../../02-rocks-of-nigeria/igneous/pegmatite.md)).
 
 ## Genesis
