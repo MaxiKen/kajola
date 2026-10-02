@@ -53,6 +53,14 @@
 
 *Figure III.C.3 — Green tourmaline crystal. Source: [eBay](https://www.ebay.com/b/Tourmaline-Crystal/3226/bn_55193417).*
 
+![Green tourmaline crystal](../../assets/images/min-tourmaline-c.webp)
+
+*Figure III.C.3b — Green tourmaline (elbaite) crystal. Source: [eBay](https://www.ebay.com/b/Tourmaline-Crystal/3226/bn_55193417).*
+
+![Tourmaline (schorl) specimen](../../assets/images/min-tourmaline-d.webp)
+
+*Figure III.C.3c — Tourmaline (schorl) specimen. Source: [eBay](https://www.ebay.com/b/Tourmaline-Specimen/3221/bn_7023262556).*
+
 **In rock:** black **schorl** is common in Nigerian **pegmatites** — see the pegmatite specimen in [Pegmatite](../../02-rocks-of-nigeria/igneous/pegmatite.md).
 
 ## Genesis

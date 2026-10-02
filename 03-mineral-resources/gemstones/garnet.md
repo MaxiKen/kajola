@@ -53,6 +53,14 @@ Garnets are **nesosilicates** with the general formula X₃Y₂(SiO₄)₃, wher
 
 *Figure III.C.7 — Garnet crystals on matrix. Source: [Etsy](https://etsy.com/listing/1291376678/rare-garnet-raw-garnet-specimen-with).*
 
+![Andradite garnet cluster](../../assets/images/min-garnet-c.jpg)
+
+*Figure III.C.7b — Andradite garnet cluster. Source: [Etsy](https://etsy.com/listing/1291376678/rare-garnet-raw-garnet-specimen-with).*
+
+![Green garnet (grossular)](../../assets/images/min-garnet-d.jpg)
+
+*Figure III.C.7c — Green garnet (grossular) specimen. Source: [Mineral Mike](https://www.mineralmike.com/collections/garnet).*
+
 Found in metamorphic rocks (see [Marble rock](../../02-rocks-of-nigeria/metamorphic/marble-calc-silicate.md)).
 
 ## Genesis

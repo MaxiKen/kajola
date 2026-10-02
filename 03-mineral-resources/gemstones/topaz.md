@@ -50,6 +50,14 @@
 
 *Figure III.C.4 — Topaz crystal. Source: [Pinterest](https://www.pinterest.com/mineralminers/topaz-crystals-mineral-specimens/).*
 
+![Imperial topaz (Brazil)](../../assets/images/min-topaz-c.jpg)
+
+*Figure III.C.4b — Imperial topaz (Brazil). Source: [Crystalarium](https://www.crystalarium.com/products/imperial-topaz-69-ct-natural-gem-crystal-specimen-brazil).*
+
+![Imperial topaz crystal](../../assets/images/min-topaz-d.webp)
+
+*Figure III.C.4c — Imperial topaz crystal. Source: [eBay](https://www.ebay.com/b/Topaz-Crystal/3226/bn_7023336033).*
+
 Found in pegmatites and greisens (see [Pegmatite](../../02-rocks-of-nigeria/igneous/pegmatite.md)).
 
 ## Genesis

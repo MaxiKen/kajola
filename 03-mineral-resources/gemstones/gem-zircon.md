@@ -51,6 +51,14 @@
 
 *Figure III.C.8 — Zircon crystal. Source: [eBay](https://www.ebay.com/itm/205307778447).*
 
+![Zircon gem crystal](../../assets/images/min-gemzircon-c.jpg)
+
+*Figure III.C.8b — Zircon gem crystal (Pakistan). Source: [Etsy](https://www.etsy.com/in-en/listing/1403801549/red-zircon-crystal-specimen-raw-gemstone).*
+
+![Zircon gem crystal](../../assets/images/min-gemzircon-d.jpg)
+
+*Figure III.C.8c — Zircon gem crystal. Source: [Etsy](https://www.etsy.com/in-en/listing/1403801549/red-zircon-crystal-specimen-raw-gemstone).*
+
 Found in heavy-mineral sands and pegmatites (see [Zircon & Monazite](../metallic/zircon-monazite.md)).
 
 ## Genesis

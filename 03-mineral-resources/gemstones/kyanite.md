@@ -51,6 +51,14 @@
 
 *Figure III.C.9 — Blue kyanite blades with quartz. Source: [eBay](https://www.ebay.com/b/Kyanite-In-Crystal-Mineral-Display-Specimens/3225/bn_7022998980).*
 
+![Blue kyanite specimen](../../assets/images/min-kyanite-c.jpg)
+
+*Figure III.C.9b — Blue kyanite specimen. Source: [Amazon](https://www.amazon.com/HXSCOO-Natural-Crystal-Specimen-Gemstone/dp/B0DB5VKZ6Y).*
+
+![Blue kyanite with quartz](../../assets/images/min-kyanite-d.jpg)
+
+*Figure III.C.9c — Blue kyanite with quartz. Source: [Amazon](https://www.amazon.com/Natural-Kyanite-Crystal-Mineral-Specimen/dp/B0BXSH3SVL).*
+
 Found in metamorphic rocks (see [Mica schist & Phyllite](../../02-rocks-of-nigeria/metamorphic/mica-schist-phyllite.md)).
 
 ## Genesis

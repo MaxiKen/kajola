@@ -58,6 +58,14 @@
 
 *Figure III.C.1b — Emerald in its rock matrix (green emerald in fuchsite). Source: [BMS Houston](https://bmshouston.com/products/emerald-in-fuchsite-rock-matrix).*
 
+![Emerald crystal in matrix](../../assets/images/min-emerald-c.jpg)
+
+*Figure III.C.1c — Emerald crystal in matrix (Swat, Pakistan). Source: [Etsy](https://www.etsy.com/listing/1203248225/654-carat-green-emerald-crystal-specimen).*
+
+![Emerald rough specimen](../../assets/images/min-emerald-d.jpg)
+
+*Figure III.C.1d — Emerald rough specimen (Colombia). Source: [JR Colombian Emeralds](https://jrcolombianemeralds.com/collections/raw-uncut-natural-emerald-crystal-specimens).*
+
 ## Genesis
 Forms in **pegmatites and mica schist** — beryllium-bearing fluids interact with chromium/vanadium-bearing rocks to crystallize green emerald. Nigerian emeralds occur in pegmatites and schist on the Jos Plateau.
 

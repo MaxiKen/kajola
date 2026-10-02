@@ -47,6 +47,14 @@ Massive, soft, blocky, and earthy — identified as a soft calcareous mud, not b
 
 *Figure III.B.29 — Marl, a calcareous mudstone. Source: [wiki.terraindex.com](https://wiki.terraindex.com/bin/view/Environmental%20Surveys/Rock%20types/Sedimentary%20rocks/Marl/).*
 
+![Fine-grained mudstone](../../assets/images/min-marl-c.jpg)
+
+*Figure III.B.29b — Marl is a calcareous, lime-rich mudstone; shown: fine-grained mudstone. Source: [Geological Specimen Supply](https://geologicalspecimensupply.com/products/mudstone-teaching-hand-speccimen-of-diatomaceous-mudstone-from-the-sisquoc-formation-santa-barbara-county-calif).*
+
+![Mudstone specimen](../../assets/images/min-marl-d.jpg)
+
+*Figure III.B.29c — Mudstone (marl's parent lithology). Source: [Geological Specimen Supply](https://geologicalspecimensupply.com/products/mudstone-teaching-hand-speccimen-of-diatomaceous-mudstone-from-the-sisquoc-formation-santa-barbara-county-calif).*
+
 *(Bulk material — a single representative image; pure ≈ in-rock.)*
 
 ## Genesis
