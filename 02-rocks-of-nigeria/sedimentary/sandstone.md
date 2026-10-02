@@ -97,5 +97,14 @@ Quartz, feldspar, iron oxides; fossils uncommon; may carry **uranium** in some s
 
 *Figure II.C.1 — Sandstone: cemented sand grains. Source: [Dreamstime](https://dreamstime.com/photos-images/sedimentary-rock.html).*
 
+
+![White sandstone](../../assets/images/rock-sandstone-c.jpg)
+
+*Figure II.C.1b — White sandstone. Source: [Amazon](https://www.amazon.com/White-Sandstone-Sedimentary-Rock-Specimen/dp/B083F4TC39).*
+
+![Red sandstone](../../assets/images/rock-sandstone-d.jpg)
+
+*Figure II.C.1c — Red sandstone. Source: [Amazon](https://www.amazon.com/Eisco-Sandstone-Specimen-Sedimentary-Approx/dp/B01J47ZX88).*
+
 ## Related
 - [Siltstone, Shale & Mudstone](siltstone-shale.md) · [Limestone & Dolomite](limestone.md) · [Conglomerate & Breccia](conglomerate-breccia.md) · [Quartzite](../metamorphic/quartzite-quartz-schist.md) (metamorphosed equivalent) · [Greywacke](greywacke.md)

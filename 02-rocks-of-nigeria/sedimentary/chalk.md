@@ -82,5 +82,14 @@ Limestone, marl, flint/nodules. Associated rocks: limestone, marl, shale (marine
 
 *Figure II.C.19 — Chalk (soft white limestone). Source: [Rock Identifier](https://rockidentifier.io/wiki/chalk).*
 
+
+![Soft white chalk](../../assets/images/rock-chalk-c.webp)
+
+*Figure II.C.19b — Soft white chalk specimen. Source: [Rock Identifier](https://rockidentifier.io/wiki/chalk).*
+
+![Chalk (limestone)](../../assets/images/rock-chalk-d.jpg)
+
+*Figure II.C.19c — Chalk (limestone) specimen. Source: [Amazon](https://www.amazon.com/Limestone-Chalk-Sedimentary-Rock-Specimen/dp/B0CC3QF8GK).*
+
 ## Related
 - [Limestone & Dolomite](limestone.md) · [Oolitic Limestone (Oolite)](oolitic-limestone.md) · [Calcite](../../03-mineral-resources/industrial/calcite.md) · [Marl](../../03-mineral-resources/industrial/marl.md) · [Marble](../metamorphic/marble-calc-silicate.md)

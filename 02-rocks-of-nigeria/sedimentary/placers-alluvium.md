@@ -86,5 +86,14 @@ Placers form where **flowing water slows and drops its heaviest load** — insid
 *Figure II.C.11 — Sand/gravel: the loose host in which heavy minerals are
 concentrated into placers. Source: [Dreamstime](https://dreamstime.com/photos-images/sedimentary-rock.html).*
 
+
+![Placer gold (alluvial) deposit](../../assets/images/rock-placer-c.jpg)
+
+*Figure II.C.11b — Placer gold (alluvial) deposit. Source: [NM Tech Geoinfo](https://geoinfo.nmt.edu/resources/minerals/metallic/gold/placer/home.html).*
+
+![Alluvial gravel bar](../../assets/images/rock-placer-d.jpg)
+
+*Figure II.C.11c — Alluvial gravel bar (river deposit). Source: [Geological Digressions](https://www.geological-digressions.com/atlas-of-fluvial-deposits-2/).*
+
 ## Related
 - [Sandstone](sandstone.md) · [Laterite & Ferricrete](laterite-ferricrete.md) · [Regolith & laterite](../../01-general-geology/01-07-regolith-and-laterite.md) · **Part III** — [cassiterite](../../03-mineral-resources/metallic/cassiterite.md), [gold](../../03-mineral-resources/metallic/gold.md), [ilmenite/rutile](../../03-mineral-resources/metallic/titanium-minerals.md), [zircon & monazite](../../03-mineral-resources/metallic/zircon-monazite.md)
