@@ -16,12 +16,12 @@ Massive, competent, and durable rock; attractive colour and pattern; takes a pol
 
 ## Occurrence
 **Granite (dimension stone)**
-![Granite](../..//assets/images/rock-granite.jpg)
+![Granite](../../assets/images/rock-granite.jpg)
 
 *Figure III.B.33 — Granite dimension stone. Source: see [Granite](granite.md).*
 
 **Marble (ornamental stone)**
-![Marble](../..//assets/images/rock-marble.jpg)
+![Marble](../../assets/images/rock-marble.jpg)
 
 *Figure III.B.34 — Marble ornamental stone. Source: see [Marble](marble.md).*
 

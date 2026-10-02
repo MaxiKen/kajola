@@ -15,12 +15,12 @@ carbon (vs diamond). Fixed-carbon content defines grade.
 
 ## Occurrence
 **Pure / hand specimen**
-![Graphite](../..//assets/images/min-graphite.jpg)
+![Graphite](../../assets/images/min-graphite.jpg)
 
 *Figure III.B.16 — Graphite with metallic lustre. Source: [InfoSeekersHub](https://infoseekershub.com/minerals-with-metallic-luster).*
 
 **In rock / ore**
-![Graphite on quartz](../..//assets/images/min-graphite-ore.jpg)
+![Graphite on quartz](../../assets/images/min-graphite-ore.jpg)
 
 *Figure III.B.17 — Dark grey graphite on quartz. Source: [Cochise College geology](https://geology.cochise.edu/mineral-type/graphite/).*
 

@@ -16,12 +16,12 @@ and one of the most common minerals on Earth.
 
 ## Occurrence
 **Pure / hand specimen**
-![Calcite](../..//assets/images/min-calcite.jpg)
+![Calcite](../../assets/images/min-calcite.jpg)
 
 *Figure III.B.24 — Calcite crystal showing cleavage planes. Source: [JoVE](https://www.jove.com/v/10007/mineral-crystals-unit-cells-lattices-and-cleavage-planes).*
 
 **In rock / ore**
-![Limestone](../..//assets/images/rock-limestone.jpg)
+![Limestone](../../assets/images/rock-limestone.jpg)
 
 *Figure III.B.25 — Limestone: the rock composed of calcite. Source: see [Limestone](limestone.md).*
 

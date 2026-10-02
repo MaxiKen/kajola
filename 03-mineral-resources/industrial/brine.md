@@ -16,7 +16,7 @@ deposits; harvested by solar evaporation.
 
 ## Occurrence
 **In the field**
-![Brine evaporation pond](../..//assets/images/brine-pond.jpg)
+![Brine evaporation pond](../../assets/images/brine-pond.jpg)
 
 *Figure III.B.32 — Brine drying in an evaporation pond beside salt mounds (illustrative). Source: [Getty Images](https://gettyimages.com/photos/evaporation-ponds).*
 

@@ -14,7 +14,7 @@ Octahedral and cubic crystals; rounded in alluvial ("placer") settings.
 
 ## Occurrence
 **Rough diamond (illustrative — *not* from Nigeria)**
-![Rough diamond](../..//assets/images/min-diamond.webp)
+![Rough diamond](../../assets/images/min-diamond.webp)
 
 *Figure III.C.10 — Rough natural diamond crystal (illustrative). Source: [eBay](https://www.ebay.com/b/Diamond-Rough-Loose-Natural-Diamonds/262026/bn_1521585).*
 

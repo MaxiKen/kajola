@@ -16,12 +16,12 @@ magnesium. The rock form is **dolostone** (dolomitic limestone).
 
 ## Occurrence
 **Pure / hand specimen**
-![Dolomite](../..//assets/images/min-dolomite.jpg)
+![Dolomite](../../assets/images/min-dolomite.jpg)
 
 *Figure III.B.26 — Pink dolomite crystals. Source: [Etsy](https://www.etsy.com/listing/1195453685/pink-dolomite-raw-crystal-natural).*
 
 **In rock / ore**
-![Dolomitic limestone](../..//assets/images/rock-limestone.jpg)
+![Dolomitic limestone](../../assets/images/rock-limestone.jpg)
 
 *Figure III.B.27 — Dolomitic limestone (dolostone). Source: see [Limestone](limestone.md).*
 

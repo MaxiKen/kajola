@@ -15,7 +15,7 @@ Massive, soft, blocky, and earthy.
 
 ## Occurrence
 **Hand specimen**
-![Marl](../..//assets/images/min-marl.jpg)
+![Marl](../../assets/images/min-marl.jpg)
 
 *Figure III.B.29 — Marl, a calcareous mudstone. Source: [wiki.terraindex.com](https://wiki.terraindex.com/bin/view/Environmental%20Surveys/Rock%20types/Sedimentary%20rocks/Marl/).*
 

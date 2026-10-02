@@ -17,12 +17,12 @@ distinctive pisolitic (berry-like) texture.
 
 ## Occurrence
 **Pure / hand specimen**
-![Bauxite ore specimen](../..//assets/images/min-bauxite.jpg)
+![Bauxite ore specimen](../../assets/images/min-bauxite.jpg)
 
 *Figure III.A.15 — Bauxite ore (pisolitic aluminium ore). Source: [USGS](https://usgs.gov/media/images/bauxite-aluminum-ore).*
 
 **In rock / ore**
-![Pisolitic bauxite ore](../..//assets/images/min-bauxite-ore.jpg)
+![Pisolitic bauxite ore](../../assets/images/min-bauxite-ore.jpg)
 
 *Figure III.A.16 — Bauxite aluminium ore showing pisolitic texture. Source: [beakersworld.com](https://beakersworld.com/product/bauxite-aluminum-ore-2-pieces-of-rock-unpolished-mineral-specimen).*
 

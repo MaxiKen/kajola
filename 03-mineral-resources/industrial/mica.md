@@ -18,12 +18,12 @@ A group of **phyllosilicate** sheet minerals:
 
 ## Occurrence
 **Pure / hand specimen**
-![Muscovite mica](../..//assets/images/min-muscovite.webp)
+![Muscovite mica](../../assets/images/min-muscovite.webp)
 
 *Figure III.B.18 — Muscovite mica showing stacked, platy cleavage sheets. Source: [Geoscopy](https://geoscopy.com/rock/muscovite).*
 
 **In rock / ore**
-![Mica schist](../..//assets/images/rock-schist.jpg)
+![Mica schist](../../assets/images/rock-schist.jpg)
 
 *Figure III.B.19 — Mica schist: aligned mica flakes in a metamorphic rock. Source: [eBay (Eisco Labs)](https://www.ebay.com/shop/mica-schist?_nkw=mica+schist).*
 

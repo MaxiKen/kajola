@@ -16,12 +16,12 @@ or massive, often replacing galena.
 
 ## Occurrence
 **Pure / hand specimen**
-![Native silver wire](../..//assets/images/min-silver.webp)
+![Native silver wire](../../assets/images/min-silver.webp)
 
 *Figure III.A.19 — Native silver wire specimen (Uchucchacua mine, Peru). Source: [eBay](https://www.ebay.com/b/native-silver/bn_7024858115).*
 
 **In rock / ore**
-![Silver on calcite](../..//assets/images/min-silver-ore.jpg)
+![Silver on calcite](../../assets/images/min-silver-ore.jpg)
 
 *Figure III.A.20 — Dendritic native silver on calcite matrix. Source: [Etsy](https://www.etsy.com/market/native_silver_ore_specimens).*
 

@@ -16,12 +16,12 @@ called **fibrolite**.
 
 ## Occurrence
 **Pure / hand specimen**
-![Sillimanite](../..//assets/images/min-sillimanite.jpg)
+![Sillimanite](../../assets/images/min-sillimanite.jpg)
 
 *Figure III.B.20 — Fibrous sillimanite (fibrolite) aggregate. Source: [MineralExpert](https://mineralexpert.org/article/sillimanite-aluminosilicate-mineral-overview).*
 
 **In rock / ore**
-![Sillimanite occurrence](../..//assets/images/min-sillimanite-ore.jpg)
+![Sillimanite occurrence](../../assets/images/min-sillimanite-ore.jpg)
 
 *Figure III.B.21 — Sillimanite in its host rock. Source: [MineralExpert](https://mineralexpert.org/article/andalusite-aluminosilicate-mineral-overview).*
 

@@ -20,17 +20,17 @@
 
 ## Occurrence
 **Pyrite (pure / hand specimen)**
-![Pyrite](../..//assets/images/mineral-pyrite.jpg)
+![Pyrite](../../assets/images/mineral-pyrite.jpg)
 
 *Figure III.B.35 — Pyrite (FeS₂), brassy-yellow cubic crystals — "fool's gold." Source: [cementl.com](https://www.cementl.com/what-is-pyrite-the-fools-gold-when-nature-wears-golds-disguise/).*
 
 **Pyrrhotite (pure / hand specimen)**
-![Pyrrhotite](../..//assets/images/min-pyrrhotite.jpg)
+![Pyrrhotite](../../assets/images/min-pyrrhotite.jpg)
 
 *Figure III.B.36 — Pyrrhotite, bronze and magnetic. Source: [livingrockstudios.org](https://www.livingrockstudios.org/pyrrhotite/).*
 
 **In rock / ore**
-![Sulfides in ore matrix](../..//assets/images/min-pyrite-ore.webp)
+![Sulfides in ore matrix](../../assets/images/min-pyrite-ore.webp)
 
 *Figure III.B.37 — Iron sulfides within a mineralized ore matrix. Source: [eBay](https://www.ebay.com/b/Pyrite-Crystals/3225/bn_55192064).*
 

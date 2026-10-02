@@ -16,7 +16,7 @@ Massive, earthy, plastic when wet, and fissile (breaks into plates).
 
 ## Occurrence
 **Hand specimen**
-![Clay](../..//assets/images/rock-clay.jpg)
+![Clay](../../assets/images/rock-clay.jpg)
 
 *Figure III.B.28 — Clay specimen (fire clay is a refractory grade of clay). Source: see [Clay](clay.md).*
 

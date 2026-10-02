@@ -14,12 +14,12 @@ Tabular to prismatic crystals, fibrous, or massive **evaporite beds**.
 
 ## Occurrence
 **Pure / hand specimen**
-![Trona](../..//assets/images/min-trona.jpg)
+![Trona](../../assets/images/min-trona.jpg)
 
 *Figure III.B.30 — Trona mineral specimen. Source: [Wikipedia — Trona (Mineral)](https://de.wikipedia.org/wiki/Trona_(Mineral)).*
 
 **In rock / ore**
-![Trona crystals](../..//assets/images/min-trona-ore.jpg)
+![Trona crystals](../../assets/images/min-trona-ore.jpg)
 
 *Figure III.B.31 — Trona crystals in matrix. Source: [Etsy](https://www.etsy.com/market/trona_crystals).*
 

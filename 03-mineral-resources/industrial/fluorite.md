@@ -15,12 +15,12 @@ well-formed cubes.
 
 ## Occurrence
 **Pure / hand specimen**
-![Fluorite](../..//assets/images/min-fluorite.jpg)
+![Fluorite](../../assets/images/min-fluorite.jpg)
 
 *Figure III.B.14 — Fluorite crystal cluster (Weardale, UK). Source: [Etsy](https://www.etsy.com/listing/1037386893/fluorite-crystal-mineral-specimen).*
 
 **In rock / ore**
-![Fluorite in matrix](../..//assets/images/min-fluorite-ore.jpg)
+![Fluorite in matrix](../../assets/images/min-fluorite-ore.jpg)
 
 *Figure III.B.15 — Fluorite crystals set in a grey matrix. Source: [Etsy](https://www.etsy.com/uk/market/fluorite_specimen).*
 

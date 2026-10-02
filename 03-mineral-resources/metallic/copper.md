@@ -17,12 +17,12 @@ carbonates **malachite** & **azurite**.
 
 ## Occurrence
 **Pure / hand specimen**
-![Chalcopyrite](../..//assets/images/min-chalcopyrite.jpg)
+![Chalcopyrite](../../assets/images/min-chalcopyrite.jpg)
 
 *Figure III.A.17 — Chalcopyrite, brassy tetragonal crystals (the main copper ore). Source: [Cochise College geology](https://geology.cochise.edu/mineral-type/chalcopyrite).*
 
 **In rock / ore**
-![Chalcopyrite in matrix](../..//assets/images/min-chalcopyrite-ore.jpg)
+![Chalcopyrite in matrix](../../assets/images/min-chalcopyrite-ore.jpg)
 
 *Figure III.A.18 — Chalcopyrite crystals on dolomite. Source: [Fossilera](https://fossilera.com/minerals/4-1-glimmering-chalcopyrite-calcite-missouri).*
 

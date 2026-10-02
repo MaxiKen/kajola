@@ -16,12 +16,12 @@ rainbow "hopper" bismuth is usually **lab-grown**; natural bismuth is rarer and 
 
 ## Occurrence
 **Pure / hand specimen**
-![Bismuth](../..//assets/images/min-bismuth.jpg)
+![Bismuth](../../assets/images/min-bismuth.jpg)
 
 *Figure III.A.21 — Bismuth hopper crystals (hopper form is commonly lab-grown). Source: [Etsy](https://www.etsy.com/market/bismuth_hopper_crystal).*
 
 **In rock / ore**
-![Bismuth specimen](../..//assets/images/min-bismuth-ore.jpg)
+![Bismuth specimen](../../assets/images/min-bismuth-ore.jpg)
 
 *Figure III.A.22 — Bismuth specimen. Source: [Etsy](https://www.etsy.com/market/bismuth_hopper_crystal).*
 
