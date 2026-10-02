@@ -50,6 +50,14 @@
 
 *Figure III.D.3 — Black coal: combustible organic sedimentary rock. Source: [Dreamstime](https://www.dreamstime.com/photos-images/natural-coal-rocks.html).*
 
+![Anthracite coal specimen](../../assets/images/min-coal-c.jpg)
+
+*Figure III.D.3b — Anthracite coal specimen. Source: [Amazon](https://www.amazon.com/Anthracite-Coal-Metamorphic-Rock-Specimen/dp/B08KJK6NML).*
+
+![Bituminous coal specimen](../../assets/images/min-coal-d.jpg)
+
+*Figure III.D.3c — Bituminous coal specimen. Source: [Amazon](https://www.amazon.com/Anthracite-Coal-Metamorphic-Rock-Specimen/dp/B08KJK6NML).*
+
 Found in the "coal measures" (see [Coal rock](../../02-rocks-of-nigeria/sedimentary/coal.md)).
 
 ## Genesis

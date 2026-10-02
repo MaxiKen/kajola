@@ -48,6 +48,14 @@ Uraninite forms cubic/octahedral crystals; **pitchblende** is massive/botryoidal
 
 *Figure III.D.5 — Pitchblende (uraninite): radioactive uranium ore. Source: [Fossilera](https://www.fossilera.com/minerals/1-3-uraninite-pitchblende-specimen-uranium-based--2).*
 
+![Carnotite (uranium-vanadium ore)](../../assets/images/min-carnotite-c.webp)
+
+*Figure III.D.5b — Carnotite (uranium-vanadium ore). Source: [AZ Uranium](https://azuranium.com/shop).*
+
+![Autunite (uranium mineral)](../../assets/images/min-autunite-c.webp)
+
+*Figure III.D.5c — Autunite (uranium mineral). Source: [GeologyIn](https://www.geologyin.com/2023/01/radioactive-autunite-crystals.html).*
+
 ## Genesis
 **Hydrothermal veins, pegmatites, and sandstone-hosted (roll-front) deposits** — see the full [Uranium mineral profile](../metallic/uranium.md). In Nigeria, occurrences are linked to pegmatites and certain sandstones.
 

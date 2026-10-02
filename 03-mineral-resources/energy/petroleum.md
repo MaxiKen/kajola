@@ -58,6 +58,14 @@ Not crystalline — crude oil is a **liquid** that occupies the pore spaces of r
 
 *Figure III.D.1b — Growth-fault structures that trap Niger Delta oil and gas. Source: [Wikipedia](https://en.wikipedia.org/wiki/Delta_Field_(Niger_Delta)).*
 
+![Crude oil sample (barrel)](../../assets/images/min-petroleum-c.webp)
+
+*Figure III.D.1c — Crude oil sample (barrel). Source: [PicClick](https://picclick.com/Popular/crude-oil-sample).*
+
+![Crude oil samples](../../assets/images/min-petroleum-d.jpg)
+
+*Figure III.D.1d — Crude oil samples (with derrick). Source: [eBay](https://www.ebay.com/itm/276667684222).*
+
 ## The petroleum system (Niger Delta)
 - **Source:** the marine **Akata Formation** shale (organic-rich).
 - **Reservoir:** the **Agbada Formation** (cyclic sandstones).

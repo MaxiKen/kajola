@@ -48,6 +48,14 @@ Not crystalline — natural gas is a **gas** occupying the pore spaces of reserv
 
 *Figure III.D.2 — Natural gas being flared. Source: [Getty Images](https://www.gettyimages.com/photos/natural-gas-flare).*
 
+![Natural gas compressor station](../../assets/images/min-natgas-c.jpg)
+
+*Figure III.D.2b — Natural gas compressor station. Source: [IF Solutions](https://www.ifsolutions.com/what-is-a-compressor-station-how-does-it-work/).*
+
+![Natural gas compressor station](../../assets/images/min-natgas-d.webp)
+
+*Figure III.D.2c — Natural gas pipeline/compressor station. Source: [Kotech Group](https://kotechgroup.net/industry-applications/pipeline-compressors-for-natural-gas-compressor-station/).*
+
 ## Genesis
 Forms by the **thermal maturation of organic matter** in sedimentary basins — the same process that generates oil. **Associated gas** comes out of solution with oil; **non-associated gas** forms independently in gas-prone source rocks.
 
