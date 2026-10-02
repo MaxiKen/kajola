@@ -94,5 +94,14 @@ Nigeria's **Younger Basalts**:
 *Figure II.A.10 — Basalt (porphyritic): fine-grained dark volcanic rock with
 phenocrysts. Source: [beakersworld.com](https://beakersworld.com/product/porphyritic-basalt-igneous-rock-10-pieces-mineral-specimen/).*
 
+
+![Basalt (vesicular volcanic rock)](../../assets/images/rock-basalt-c.jpg)
+
+*Figure II.A.10b — Basalt (vesicular volcanic rock). Source: [Etsy](https://www.etsy.com/market/volcanic_basalt_stone).*
+
+![Basalt specimen](../../assets/images/rock-basalt-d.jpg)
+
+*Figure II.A.10c — Basalt specimen. Source: [Amazon](https://www.amazon.com/Raw-Basalt-Igneous-Rock-Specimen/dp/B081BBKQGK).*
+
 ## Related
 - [Gabbro & Dolerite](gabbro-dolerite.md) (coarse equivalent) · [Cenozoic volcanism](../../01-general-geology/01-05-cenozoic-volcanism.md) · [The three rock families](../../00-fundamentals/00-04-three-rock-families.md) · [Volcanic tuff & ignimbrite](volcanic-tuff-ignimbrite.md)

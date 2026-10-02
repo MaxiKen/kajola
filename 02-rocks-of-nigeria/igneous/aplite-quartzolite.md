@@ -85,5 +85,14 @@ Minor in itself (a **silica source**), but a useful **indicator of granite/pegma
 
 *Figure II.A.13 — Aplite dike cutting granodioritic host rock. Source: [Sandatlas](https://sandatlas.org/aplite/).*
 
+
+![Aplite (fine-grained igneous rock)](../../assets/images/rock-aplite-c.jpg)
+
+*Figure II.A.13b — Aplite (fine-grained igneous rock). Source: [Rubyglint](https://rubyglint.com/rocks/aplite).*
+
+![Aplite specimen](../../assets/images/rock-aplite-d.jpg)
+
+*Figure II.A.13c — Aplite specimen. Source: [Rubyglint](https://rubyglint.com/rocks/aplite).*
+
 ## Related
 - [Pegmatite](pegmatite.md) · [Granite](granite.md) · [Quartz, Silica & Glass sand](../../03-mineral-resources/industrial/quartz-glass-sand.md) · [Microgranite & Porphyry](microgranite-porphyry.md)

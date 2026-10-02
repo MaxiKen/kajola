@@ -96,6 +96,15 @@ As **layers/lenses and dyke swarms** in the **Basement Complex** and around the 
 
 *Figure II.A.4 — Gabbro: coarse pyroxene + plagioclase, dark and dense. Source: [Amazon EISCO](https://www.amazon.com/Eisco-Gabbro-Specimen-Igneous-Approx/dp/B01J4807YC).*
 
+
+![Gabbro specimen](../../assets/images/rock-gabbro-c.jpg)
+
+*Figure II.A.4b — Gabbro specimen. Source: [Amazon](https://www.amazon.com/Eisco-Gabbro-Specimen-Igneous-Approx/dp/B01J4807YC).*
+
+![Gabbro (igneous rock)](../../assets/images/rock-gabbro-d.jpg)
+
+*Figure II.A.4c — Gabbro (igneous rock) specimen. Source: [Amazon](https://www.amazon.com/Raw-Gabbro-Igneous-Rock-Specimen/dp/B081BC7L2R).*
+
 ## Related
 - [Basalt](basalt.md) (fine-grained equivalent) · [Peridotite & Pyroxenite](peridotite-pyroxenite.md) · [Granodiorite & Diorite](granodiorite-diorite.md)
 - [Dykes & sills in the Basement](../../01-general-geology/01-06-structural-controls.md)

@@ -108,6 +108,15 @@ The **most abundant rock of the Nigerian Basement Complex** and the **Younger Gr
 
 *Figure II.A.1 — Coarse-grained granite: interlocking quartz (grey), feldspar (pink/white) and mica (black). Source: [Amazon EISCO](https://www.amazon.com/Pink-Granite-Igneous-Rock-Specimen/dp/B083TJ9694).*
 
+
+![Pink granite specimen](../../assets/images/rock-granite-c.jpg)
+
+*Figure II.A.1b — Pink granite specimen. Source: [Amazon](https://www.amazon.ca/Pink-Granite-Igneous-Rock-Specimens/dp/B083THD1BG).*
+
+![Pink granite (igneous rock)](../../assets/images/rock-granite-d.jpg)
+
+*Figure II.A.1c — Pink granite (igneous rock). Source: [Amazon](https://www.amazon.com/Pink-Granite-Igneous-Rock-Specimen/dp/B083TJ9694).*
+
 ## Related
 - [The three rock families](../../00-fundamentals/00-04-three-rock-families.md) · [Granitoids of the Basement](../../01-general-geology/01-02-basement-complex-and-pan-african.md)
 - [Charnockite](charnockite.md) · [Pegmatite](pegmatite.md) · [Granodiorite & Diorite](granodiorite-diorite.md) · [Rhyolite (equivalent)](rhyolite-trachyte-phonolite.md)

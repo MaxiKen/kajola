@@ -93,6 +93,15 @@ Common in the **Basement Complex** and as **marginal / mafic phases of the Young
 
 *Figure II.A.2 — Diorite: black hornblende + white plagioclase, little quartz. Source: [Amazon EISCO](https://www.amazon.com/Eisco-Diorite-Specimen-Igneous-Approx/dp/B01K2WJINA).*
 
+
+![Granodiorite hand specimen](../../assets/images/rock-granodiorite-c.jpg)
+
+*Figure II.A.2b — Granodiorite hand specimen. Source: [NPS](https://www.nps.gov/goga/learn/education/granite-and-granodiorite-faq.htm).*
+
+![Diorite specimen](../../assets/images/rock-diorite-c.jpg)
+
+*Figure II.A.2c — Diorite specimen. Source: [Eisco Labs](http://www.eiscolabs.com/products/esng0042).*
+
 ## Related
 - [Granite](granite.md) · [Gabbro & Dolerite](gabbro-dolerite.md) · [Andesite](andesite.md) (fine equivalent) · [Skarn](../metamorphic/skarn.md)
 - [Granitoids of the Basement](../../01-general-geology/01-02-basement-complex-and-pan-african.md)
