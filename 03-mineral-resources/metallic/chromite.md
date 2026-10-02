@@ -52,6 +52,14 @@ Usually **massive or granular**; rare octahedral crystals. Occurs as disseminate
 
 *Figure III.A.12 — Chromite: chromium ore in ultramafic rock. Source: [geologyscience.com](https://geologyscience.com/ore-minerals/chromium-cr-ore/).*
 
+![Chromite ore in hand](../../assets/images/min-chromite-c.jpg)
+
+*Figure III.A.12b — Chromite ore specimen (in a geologist's hand). Source: [ABPosters](https://www.abposters.com/chromite-ore-specimen-sample-raw-mineral-in-miner-geologyst-hand-f336013945).*
+
+![Chromite specimen](../../assets/images/min-chromite-d.jpg)
+
+*Figure III.A.12c — Chromite (chromium ore) specimen. Source: [Etsy](https://www.etsy.com/listing/4301321853/big-chromite-ore-raw-piece-from-mount).*
+
 Found in **ultramafic rocks** — peridotite and its altered form **serpentinite** (see [Peridotite & Pyroxenite](../../02-rocks-of-nigeria/igneous/peridotite-pyroxenite.md), [Serpentinite](../../02-rocks-of-nigeria/metamorphic/serpentinite.md)). *Chromite rarely forms displayable crystals; it is typically massive/granular, so a single ore image is representative.*
 
 ## Genesis

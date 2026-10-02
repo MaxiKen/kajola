@@ -56,6 +56,14 @@ Not a single mineral but an **ore mixture**: aluminium hydroxides — **gibbsite
 
 *Figure III.A.16 — Bauxite aluminium ore showing pisolitic texture. Source: [beakersworld.com](https://beakersworld.com/product/bauxite-aluminum-ore-2-pieces-of-rock-unpolished-mineral-specimen).*
 
+![Polished bauxite](../../assets/images/min-bauxite-c.jpg)
+
+*Figure III.A.15b — Polished bauxite (aluminium ore). Source: [Fossilera](https://www.fossilera.com/minerals/3-38-polished-bauxite-aluminum-ore-sphere-russia).*
+
+![Bauxite section](../../assets/images/min-bauxite-d.jpg)
+
+*Figure III.A.15c — Bauxite (aluminium ore) section. Source: [Fossilera](https://www.fossilera.com/minerals/6-3-polished-bauxite-aluminum-ore-section-australia).*
+
 ## Genesis
 Forms by intense **tropical lateritic weathering** of alumina-rich rocks — silica is leached away, leaving aluminium (and iron) concentrated near the surface (see [Regolith & laterite](../../01-general-geology/01-07-regolith-and-laterite.md)). Warm, wet climates and good drainage are essential.
 

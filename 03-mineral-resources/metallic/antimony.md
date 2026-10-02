@@ -50,6 +50,14 @@
 
 *Figure III.A.13 — Stibnite: bladed antimony sulfide. Source: [iRocks](https://www.irocks.com/minerals/specimen/46164).*
 
+![Stibnite specimen](../../assets/images/min-stibnite-c.jpg)
+
+*Figure III.A.13b — Stibnite (antimony ore) specimen. Source: [Etsy](https://www.etsy.com/market/stibnite_mineral).*
+
+![Stibnite crystals](../../assets/images/min-stibnite-d.jpg)
+
+*Figure III.A.13c — Stibnite (antimony sulfide) crystals. Source: [Etsy](https://www.etsy.com/market/antimonite).*
+
 **In rock:** low-temperature **hydrothermal veins**, often with **galena, sphalerite, and tungsten** minerals (see [Galena & Sphalerite](galena-sphalerite.md)).
 
 ## Genesis

@@ -52,6 +52,14 @@
 
 *Figure III.A.11 — Barite (desert-rose habit): heavy barium sulfate. Source: [Etsy](https://www.etsy.com/listing/4337130780/huge-rare-desert-rose-barite-gypsum).*
 
+![Barite desert rose](../../assets/images/min-barite-c.jpg)
+
+*Figure III.B.11b — Barite "desert rose." Source: [Etsy](https://www.etsy.com/listing/1403085441/barite-desert-rose-barite-crystal-desert).*
+
+![Barite desert rose specimen](../../assets/images/min-barite-d.jpg)
+
+*Figure III.B.11c — Barite desert rose (specimen). Source: [Etsy](https://www.etsy.com/listing/1403085441/barite-desert-rose-barite-crystal-desert).*
+
 **In rock:** hydrothermal **veins** and **replacements**, often with **galena–sphalerite** in the Benue limestones and shales (see [Limestone](../../02-rocks-of-nigeria/sedimentary/limestone.md), [Galena & Sphalerite](galena-sphalerite.md)).
 
 ## Genesis

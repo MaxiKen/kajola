@@ -57,6 +57,14 @@
 
 *Figure III.A.22 — Bismuth specimen. Source: [Etsy](https://www.etsy.com/market/bismuth_hopper_crystal).*
 
+![Bismuth hopper crystal](../../assets/images/min-bismuth-c.jpg)
+
+*Figure III.A.21b — Bismuth hopper crystal (iridescent; hopper form commonly lab-grown). Source: [Etsy](https://www.etsy.com/market/bismuth_hopper_crystal).*
+
+![Bismuth hopper specimen](../../assets/images/min-bismuth-d.jpg)
+
+*Figure III.A.21c — Bismuth hopper crystal (specimen). Source: [Etsy](https://www.etsy.com/market/bismuth_hopper_crystal).*
+
 ## Genesis
 Hydrothermal veins and pegmatites, commonly associated with **cobalt, nickel, silver, lead, tin and tungsten** ores (e.g. the Jos Plateau pegmatites). Bismuth is typically a minor, by-product-type element.
 

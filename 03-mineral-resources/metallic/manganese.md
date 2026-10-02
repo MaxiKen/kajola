@@ -55,6 +55,14 @@ Chiefly **pyrolusite** (MnO₂) and related oxides/hydroxides (psilomelane, mang
 
 *Figure III.A.7b — Manganese ore: black Mn-oxide rock. Source: [Dreamstime](https://www.dreamstime.com/photos-images/manganese.html).*
 
+![Psilomelane manganese ore](../../assets/images/min-pyrolusite-c.jpg)
+
+*Figure III.A.7c — Psilomelane (manganese ore) specimen. Source: [Etsy](https://etsy.com/market/pyrolusite_stone).*
+
+![Psilomelane specimen](../../assets/images/min-pyrolusite-d.jpg)
+
+*Figure III.A.7d — Psilomelane (manganese ore). Source: [Etsy](https://www.etsy.com/market/pyrolusite_mineral_specimen).*
+
 ## Genesis
 **Sedimentary, residual (lateritic), and hydrothermal** — Mn oxides concentrate in weathered zones, veins, and sedimentary beds. Tropical weathering (lateritization) is a key concentrator of manganese in Nigeria.
 

@@ -57,11 +57,11 @@ Copper occurs as **native copper** (Cu) and, more importantly, sulfide ores: **c
 
 ![Chalcopyrite ore with quartz](../../assets/images/min-chalcopyrite-c.jpg)
 
-*Figure III.A.19 — Chalcopyrite (copper ore) with quartz. Source: [iStock](https://istockphoto.com/photos/chalcopyrite).*
+*Figure III.A.17b — Chalcopyrite (copper ore) with quartz. Source: [iStock](https://istockphoto.com/photos/chalcopyrite).*
 
 ![Native copper](../../assets/images/min-native-copper.jpg)
 
-*Figure III.A.20 — Native copper. Source: [Amazon](https://www.amazon.com/RaeGan-Natural-Specimen-Chalcopyrite-Collection/dp/B0CP96XBKF).*
+*Figure III.A.17c — Native copper. Source: [Amazon](https://www.amazon.com/RaeGan-Natural-Specimen-Chalcopyrite-Collection/dp/B0CP96XBKF).*
 
 ## Genesis
 Hydrothermal veins, **volcanogenic massive sulfide (VMS)** and **porphyry** systems, with **secondary enrichment** (chalcocite) near the surface. In Nigeria, copper occurs in Younger Granite-related and schist-belt settings.

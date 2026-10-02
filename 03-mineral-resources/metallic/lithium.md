@@ -53,6 +53,14 @@ Both are important **lithium ore minerals**, hosted in rare-element **pegmatites
 
 *Figure III.A.14b — Lepidolite: lithium-rich mica. Source: [Etsy](https://www.etsy.com/listing/902572170/black-mica-on-quartz-black-lepidolite).*
 
+![Kunzite (spodumene)](../../assets/images/min-spodumene-c.jpg)
+
+*Figure III.A.14c — Kunzite (pink spodumene, a lithium mineral). Source: [MyLostGems](https://mylostgems.com/product/kunzite-crystal-mineral-specimen-from-brazil-natural-pink-spodumene-gemstone-high-grade-authentic-raw-collectable-crystal-3/).*
+
+![Kunzite crystal](../../assets/images/min-spodumene-d.jpg)
+
+*Figure III.A.14d — Kunzite (spodumene) crystal. Source: [Home Again Vintage](https://homeagainvintage.com/products/spodumene-crystal-mineral-specimen-copy).*
+
 **In rock:** in **zoned rare-element pegmatites**, alongside **columbite, tantalite, tourmaline, and beryl** (see [Pegmatite](../../02-rocks-of-nigeria/igneous/pegmatite.md)).
 
 ## Genesis
