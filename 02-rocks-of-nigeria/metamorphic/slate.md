@@ -82,5 +82,14 @@ Shale, phyllite, quartzite (grades upward into [Mica schist & Phyllite](mica-sch
 
 *Figure II.B.14 — Slate showing fine slaty cleavage. Source: [Geology Science](https://geologyscience.com/rocks/metamorphic-rocks/slate/).*
 
+
+![Slate showing slaty cleavage](../../assets/images/rock-slate-c.webp)
+
+*Figure II.B.14b — Slate showing fine slaty cleavage. Source: [Geology Science](https://geologyscience.com/rocks/metamorphic-rocks/slate/).*
+
+![Slate (slaty cleavage)](../../assets/images/rock-slate-d.jpg)
+
+*Figure II.B.14c — Slate: smooth planar slaty cleavage. Source: [Geology Science](https://geologyscience.com/rocks/metamorphic-rocks/slate/).*
+
 ## Related
 - [Siltstone, Shale & Mudstone](../sedimentary/siltstone-shale.md) · [Mica schist & Phyllite](mica-schist-phyllite.md) · [Metasediments](metasediments.md)

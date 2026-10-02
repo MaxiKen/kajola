@@ -82,5 +82,14 @@ Peridotite, talc, chlorite, magnesite, **chromite**, **nickel** minerals (see [T
 
 *Figure II.B.10 — Serpentinite (altered ultramafic rock). Source: [Etsy](https://www.etsy.com/market/serpentinite_specimens).*
 
+
+![Serpentinite (metamorphic rock)](../../assets/images/rock-serpentinite-c.jpg)
+
+*Figure II.B.10b — Serpentinite (metamorphic rock). Source: [Amazon](https://www.amazon.in/Serpentinite-Specimen-Metamorphic-Rock-Approx/dp/B06WLKPXJF).*
+
+![Serpentinite specimen](../../assets/images/rock-serpentinite-d.jpg)
+
+*Figure II.B.10c — Serpentinite specimen. Source: [Thomas Sci](https://www.thomassci.com/p/serpentinite-raw-metamorphic-rock-specimens-approx-1-inch-pk12).*
+
 ## Related
 - [Peridotite & Pyroxenite](../igneous/peridotite-pyroxenite.md) · [Talc / Chlorite schist](talc-chlorite-schist.md) · [Chromite](../../03-mineral-resources/metallic/chromite.md)
