@@ -86,5 +86,14 @@ Plagioclase, hornblende, pyroxene, biotite; associated with basalt/dacite/rhyoli
 
 *Figure II.A.15 — Andesite (intermediate volcanic rock). Source: [Amazon](https://www.amazon.com/Andesite-Extrusive-Ingeous-Rock-Unpolished/dp/B01FMKZVW4).*
 
+
+![Porphyritic andesite](../../assets/images/rock-andesite-c.jpg)
+
+*Figure II.A.15b — Porphyritic andesite. Source: [Rock.ID](https://rock.id/encyclopedia/andesite).*
+
+![Porphyritic andesite (volcanic rock)](../../assets/images/rock-andesite-d.jpg)
+
+*Figure II.A.15c — Porphyritic andesite (volcanic rock). Source: [Rock.ID](https://rock.id/encyclopedia/andesite).*
+
 ## Related
 - [Basalt](basalt.md) · [Rhyolite, Trachyte & Phonolite](rhyolite-trachyte-phonolite.md) · [Gabbro & Dolerite](gabbro-dolerite.md) · [Granodiorite & Diorite](granodiorite-diorite.md)

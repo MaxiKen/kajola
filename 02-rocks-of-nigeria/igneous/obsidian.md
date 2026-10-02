@@ -85,5 +85,14 @@ Rhyolite, pumice, perlite; spherulites may be present. Associated rocks: rhyolit
 
 *Figure II.A.16 — Obsidian (volcanic glass). Source: [eBay](https://www.ebay.com/b/volcanic-glass/bn_7024762122).*
 
+
+![Obsidian (volcanic glass)](../../assets/images/rock-obsidian-c.jpg)
+
+*Figure II.A.16b — Obsidian (volcanic glass). Source: [Etsy](https://www.etsy.com/listing/1125677465/black-obsidian-volcanic-glass-with).*
+
+![Black obsidian specimen](../../assets/images/rock-obsidian-d.webp)
+
+*Figure II.A.16c — Black obsidian specimen. Source: [eBay](https://www.ebay.com/b/volcanic-glass/bn_7024762122).*
+
 ## Related
 - [Rhyolite, Trachyte & Phonolite](rhyolite-trachyte-phonolite.md) · [Volcanic Tuff, Ignimbrite & Agglomerate](volcanic-tuff-ignimbrite.md) · [Quartz, Silica & Glass sand](../../03-mineral-resources/industrial/quartz-glass-sand.md)

@@ -87,6 +87,15 @@ A hallmark of the **Younger Granites (Jos Plateau)** and many Basement granites:
 *Figure II.A.7 — Pegmatite: very coarse feldspar + quartz with large black tourmaline
 crystals. Source: [Etsy](https://www.etsy.com/market/pegmatite_crystals).*
 
+
+![Pegmatite (coarse-grained igneous rock)](../../assets/images/rock-pegmatite-c.jpg)
+
+*Figure II.A.7b — Pegmatite (very coarse-grained igneous rock). Source: [Etsy](https://www.etsy.com/listing/750687996/pegmatite-intrusive-igneous-rock-10).*
+
+![Pegmatite specimen](../../assets/images/rock-pegmatite-d.jpg)
+
+*Figure II.A.7c — Pegmatite specimen. Source: [Fisher Scientific](https://www.fishersci.com/shop/products/pegmatite-igneous-rock-specimen-2/S27590).*
+
 ## Related
 - [Granite](granite.md) (parent rock) · [Aplite & Quartzolite](aplite-quartzolite.md) · [The Younger Granite ring complexes](../../01-general-geology/01-03-younger-granite-ring-complexes.md)
 - **Part III** — [Cassiterite](../../03-mineral-resources/metallic/cassiterite.md), [Columbite–Tantalite](../../03-mineral-resources/metallic/columbite-tantalite.md), [Wolframite & Scheelite](../../03-mineral-resources/metallic/wolframite-scheelite.md), gems.

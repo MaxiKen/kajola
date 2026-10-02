@@ -87,5 +87,14 @@ Margins and **dykes of the Younger Granite complexes** and Basement intrusions: 
 
 *Figure II.A.8 — Porphyritic granite (porphyry): large feldspar phenocrysts in a fine groundmass — the porphyritic texture. Source: [Amazon EISCO](https://www.amazon.com/Porphyritic-Granite-Igneous-Rock-Specimen/dp/B0CC3PDWRF).*
 
+
+![Porphyritic granite (microgranite)](../../assets/images/rock-microgranite-c.jpg)
+
+*Figure II.A.8b — Porphyritic granite (microgranite). Source: [Thomas Sci](https://www.thomassci.com/p/porphyritic-granite-raw-igneous-rock-specimens-approx-1-inch-pk12).*
+
+![Porphyritic granite specimen](../../assets/images/rock-microgranite-d.jpg)
+
+*Figure II.A.8c — Porphyritic granite specimen. Source: [Amazon](https://www.amazon.com/Porphyritic-Granite-Igneous-Rock-Specimen/dp/B0CC3PDWRF).*
+
 ## Related
 - [Granite](granite.md) · [Rhyolite, Trachyte & Phonolite](rhyolite-trachyte-phonolite.md) · [Basalt](basalt.md) · [Aplite & Quartzolite](aplite-quartzolite.md)

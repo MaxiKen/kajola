@@ -82,5 +82,14 @@ The world's main source of **diamond** (primary). In Nigeria, an **exploration t
 
 *Figure II.A.12 — Kimberlite (diamond-bearing volcanic rock). Source: [Etsy](https://www.etsy.com/listing/1556680341/kimberlite-raw-stone-diamond-ore-rough).*
 
+
+![Kimberlite (diamond-bearing rock)](../../assets/images/rock-kimberlite-c.jpg)
+
+*Figure II.A.12b — Kimberlite (diamond-bearing igneous rock). Source: [MyLostGems](https://mylostgems.com/product/certified-igneous-kimberlite-rock-spiritual-healing-crystal-diamond-stone/).*
+
+![Kimberlite specimen](../../assets/images/rock-kimberlite-d.jpg)
+
+*Figure II.A.12c — Kimberlite specimen. Source: [MyLostGems](https://mylostgems.com/product/kimberlite-2/).*
+
 ## Related
 - [Peridotite & Pyroxenite](peridotite-pyroxenite.md) · [Diamond](../../03-mineral-resources/gemstones/diamond.md) · [Ore deposits 101](../../00-fundamentals/00-07-ore-deposits-101.md) · [Lamprophyre](lamprophyre.md)
