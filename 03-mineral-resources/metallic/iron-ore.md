@@ -64,11 +64,11 @@ Both are iron oxides; together they are the world's main **iron ores**. Goethite
 
 ![Hematite iron ore](../../assets/images/min-hematite-c.jpg)
 
-*Figure III.A.4d — Hematite (iron ore) specimen. Source: [Dreamstime](https://www.dreamstime.com/photos-images/hematite-iron-ore.html).*
+*Figure III.A.4d — Botryoidal hematite (kidney ore). Source: [Fossilera Minerals](https://www.fossilageminerals.com/products/2-1-hematite-botryoidal-kidney-ore-rock-mineral-specimen-irhoud-mine-morocco-03aaa226).*
 
 ![Botryoidal hematite](../../assets/images/min-hematite-d.jpg)
 
-*Figure III.A.4e — Botryoidal ("kidney") hematite iron ore. Source: [Dreamstime](https://www.dreamstime.com/photos-images/hematite-iron-ore.html).*
+*Figure III.A.4e — Hematite botryoidal specimen (Morocco). Source: [Fossilera Minerals](https://www.fossilageminerals.com/products/2-1-hematite-botryoidal-kidney-ore-rock-mineral-specimen-irhoud-mine-morocco-03aaa226).*
 
 ## Genesis
 - **Sedimentary** — banded iron formations (BIF) and oolitic ironstones.

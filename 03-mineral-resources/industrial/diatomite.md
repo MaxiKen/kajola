@@ -54,7 +54,7 @@
 
 ![Diatomite rock](../../assets/images/min-diatomite-d.jpg)
 
-*Figure III.B.4d — Diatomite rock (diatomaceous earth). Source: [Dreamstime](https://dreamstime.com/porous-mineral-called-diatomaceous-earth-there-noise-grain-caused-texture-stone-soft-focus-diatomite-rock-image180017820).*
+*Figure III.B.4d — Diatomite (diatomaceous earth) hand specimen. Source: [Geological Specimen Supply](https://geologicalspecimensupply.com/products/diatomite-teaching-hand-specimen-of-lacustrine-diatomite).*
 
 Forms in lakes and lagoons (see [The Chad Basin](../../01-general-geology/01-04-sedimentary-basins.md)).
 

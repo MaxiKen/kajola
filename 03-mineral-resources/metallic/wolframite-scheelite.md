@@ -57,11 +57,11 @@ Both are **ores of tungsten**. Chemically a tungstate (WO₄) combined with iron
 
 ![Wolframite vein](../../assets/images/min-wolframite-c.jpg)
 
-*Figure III.A.6c — Wolframite (tungsten ore) vein in rock. Source: [Dreamstime](https://www.dreamstime.com/photos-images/tungsten-ore.html).*
+*Figure III.A.6c — Wolframite (tungsten ore) crystal. Source: [Reddit r/Minerals](https://www.reddit.com/r/Minerals/comments/13fo75v/tungsten_ore_from_china_wolframite_crystal/).*
 
-![Wolframite specimen](../../assets/images/min-wolframite-d.jpg)
+![Wolframite specimen](../../assets/images/min-scheelite-c.jpg)
 
-*Figure III.A.6d — Wolframite (tungsten ore) specimen. Source: [Dreamstime](https://www.dreamstime.com/photos-images/tungsten-ore.html).*
+*Figure III.A.6d — Scheelite (tungsten ore) on mica. Source: [Etsy](https://www.etsy.com/listing/4307179785/1780g-178kg-scheelite-tungsten-ore).*
 
 **In rock:** hydrothermal **veins and greisens** in and around the tin granites and pegmatites (see [Pegmatite](../../02-rocks-of-nigeria/igneous/pegmatite.md)); scheelite in **skarns** at granite–limestone contacts (see [Skarn](../../02-rocks-of-nigeria/metamorphic/skarn.md)).
 

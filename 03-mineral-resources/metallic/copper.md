@@ -57,7 +57,7 @@ Copper occurs as **native copper** (Cu) and, more importantly, sulfide ores: **c
 
 ![Chalcopyrite ore with quartz](../../assets/images/min-chalcopyrite-c.jpg)
 
-*Figure III.A.17b — Chalcopyrite (copper ore) with quartz. Source: [iStock](https://istockphoto.com/photos/chalcopyrite).*
+*Figure III.A.17b — Chalcopyrite (copper iron sulfide) specimen. Source: [Amazon](https://www.amazon.com/HXSCOO-Natural-Specimen-Chalcopyrite-Collection/dp/B0BN22QQGK).*
 
 ![Native copper](../../assets/images/min-native-copper.jpg)
 

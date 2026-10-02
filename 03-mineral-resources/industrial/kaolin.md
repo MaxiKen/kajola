@@ -49,6 +49,14 @@ Kaolinite crystals are **microscopic platy** (hexagonal) sheets — invisible to
 
 *Figure III.B.3 — Kaolin: soft white china clay. Source: [Geological Specimen Supply](https://geologicalspecimensupply.com/products/kaolinite-teaching-student-specimens-of-the-primary-constituent-of-kaolin-clay-unit-of-5-specimens).*
 
+![Kaolinite (kaolin) hand specimen](../../assets/images/min-kaolin-c.jpg)
+
+*Figure III.B.3b — Kaolinite (kaolin) hand specimen. Source: [Geological Specimen Supply](https://geologicalspecimensupply.com/products/kaolinite-soft-kaolin-teaching-hand-display-specimen-of-the-primary-constituent-of-kaolin-clay).*
+
+![Kaolinite (kaolin) display specimen](../../assets/images/min-kaolin-d.jpg)
+
+*Figure III.B.3c — Kaolinite (kaolin) display specimen. Source: [Geological Specimen Supply](https://geologicalspecimensupply.com/products/kaolinite-soft-white-kaolin-large-display-specimen-of-the-primary-constituent-of-kaolin-clay).*
+
 Found in deep tropical weathering profiles across the Basement (see [Clay/Kaolin rock](../../02-rocks-of-nigeria/sedimentary/clay-kaolin.md), [Laterite](../../02-rocks-of-nigeria/sedimentary/laterite-ferricrete.md)).
 
 ## Genesis

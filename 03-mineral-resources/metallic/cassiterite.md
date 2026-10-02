@@ -60,7 +60,7 @@
 
 ![Cassiterite ore in matrix](../../assets/images/min-cassiterite-c.jpg)
 
-*Figure III.A.1c — Cassiterite ore in rock matrix. Source: [Dreamstime](https://www.dreamstime.com/rough-cassiterite-metallic-ore-tin-stuck-rock-natural-mineral-geological-has-many-uses-takes-high-polish-image253389262).*
+*Figure III.A.1c — Cassiterite (tin ore) crystal specimen. Source: [Etsy](https://www.etsy.com/market/cassiterite_crystals).*
 
 ![Cassiterite crystals](../../assets/images/min-cassiterite-d.jpg)
 
