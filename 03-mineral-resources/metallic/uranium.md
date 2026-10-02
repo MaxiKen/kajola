@@ -54,6 +54,14 @@
 
 *Figure III.A.8b — Uranium ore with yellow secondary uranium minerals. Source: [Azuranium](https://azuranium.com/shop/p/high-grade-uranium-ore-colorado-plateau-50000-cpm).*
 
+![Uraninite (pitchblende)](../../assets/images/min-uraninite-c.jpg)
+
+*Figure III.A.8c — Uraninite (pitchblende) specimen. Source: [Fossilera](https://www.fossilera.com/minerals/1-3-uraninite-pitchblende-specimen-uranium-based--2).*
+
+![Uraninite specimen](../../assets/images/min-uraninite-d.jpg)
+
+*Figure III.A.8d — Uraninite (pitchblende) specimen. Source: [Fossilera](https://www.fossilera.com/minerals/1-3-uraninite-pitchblende-specimen-uranium-based).*
+
 ## Genesis
 **Hydrothermal veins**, **pegmatites**, and **sandstone-hosted (roll-front)** deposits. In Nigeria, occurrences are linked to **pegmatites** and certain **sandstones**.
 

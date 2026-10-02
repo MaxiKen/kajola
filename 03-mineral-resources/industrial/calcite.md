@@ -55,6 +55,14 @@
 
 *Figure III.B.25 — Limestone: the rock composed of calcite. Source: see [Limestone](limestone.md).*
 
+![Calcite with quartz](../../assets/images/min-calcite-c.jpg)
+
+*Figure III.B.2c — Calcite with quartz crystals. Source: [Old Earth Minerals](https://oldearthminerals.com/collections/calcite).*
+
+![Calcite with pyrite](../../assets/images/min-calcite-d.jpg)
+
+*Figure III.B.2d — Calcite with pyrite specimen. Source: [Mineral Mike](https://www.mineralmike.com/collections/calcite).*
+
 ## Genesis
 Sedimentary (limestone, chalk), biogenic (shells), hydrothermal veins, and metamorphic (marble). Very widespread — calcite forms in almost every geological setting.
 

@@ -48,6 +48,14 @@
 
 *Figure III.B.11 — Diatomite: light, porous siliceous rock. Source: [Geological Specimen Supply](https://geologicalspecimensupply.com/products/diatomite-teaching-hand-specimen-of-lacustrine-diatomite).*
 
+![Diatomite specimens](../../assets/images/min-diatomite-c.jpg)
+
+*Figure III.B.4c — Diatomite (diatomaceous earth) specimens. Source: [Geological Specimen Supply](https://geologicalspecimensupply.com/products/diatomite-teaching-student-specimens-of-diatomaceous-earth-unit-of-5-specimens).*
+
+![Diatomite rock](../../assets/images/min-diatomite-d.jpg)
+
+*Figure III.B.4d — Diatomite rock (diatomaceous earth). Source: [Dreamstime](https://dreamstime.com/porous-mineral-called-diatomaceous-earth-there-noise-grain-caused-texture-stone-soft-focus-diatomite-rock-image180017820).*
+
 Forms in lakes and lagoons (see [The Chad Basin](../../01-general-geology/01-04-sedimentary-basins.md)).
 
 ## Genesis

@@ -56,6 +56,14 @@
 
 *Figure III.A.20 — Dendritic native silver on calcite matrix. Source: [Etsy](https://www.etsy.com/market/native_silver_ore_specimens).*
 
+![Native silver wire](../../assets/images/min-silver-c.webp)
+
+*Figure III.A.19b — Native silver wire. Source: [eBay](https://www.ebay.com/b/native-silver/bn_7024858115).*
+
+![Native silver wire specimen](../../assets/images/min-silver-d.jpg)
+
+*Figure III.A.19c — Native silver wire specimen. Source: [Distinction Crystals and Fossils](https://distinctioncrystalsandfossils.com/collections/native-silver).*
+
 ## Genesis
 Hydrothermal veins, especially the **enriched / oxidized zones** of lead–zinc and gold systems (see [Galena & Sphalerite](galena-sphalerite.md), [Gold](gold.md)). Silver enrichment often sits just above the main Pb–Zn zone (the "supergene" zone).
 
