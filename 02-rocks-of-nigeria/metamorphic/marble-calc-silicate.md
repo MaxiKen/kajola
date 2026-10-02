@@ -88,5 +88,14 @@ Garnet, diopside, wollastonite, quartz, talc, graphite. Associated rocks: skarn,
 
 *Figure II.B.6 — White marble: recrystallized calcite. Source: [eiscolabs.com](https://www.eiscolabs.com/products/esng0058).*
 
+
+![Calc-silicate rock (skarn)](../../assets/images/rock-calsilicate-c.jpg)
+
+*Figure II.B.6b — Calc-silicate rock (skarn). Source: [Virtual Microscope](https://www.virtualmicroscope.org/content/calc-silicate-skarn).*
+
+![Calc-silicate rock](../../assets/images/rock-calsilicate-d.jpg)
+
+*Figure II.B.6c — Calc-silicate rock. Source: [Virtual Microscope](https://www.virtualmicroscope.org/content/calc-silicate-skarn).*
+
 ## Related
 - [Quartzite & Quartz schist](quartzite-quartz-schist.md) · [Skarn](skarn.md) · [Limestone & Dolomite](../sedimentary/limestone.md) (parent rock) · [Marble (industrial)](../../03-mineral-resources/industrial/marble.md)

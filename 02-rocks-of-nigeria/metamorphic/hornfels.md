@@ -81,5 +81,14 @@ Granite, skarn, marble (in the contact zone) (see [Skarn](skarn.md), [Marble & C
 
 *Figure II.B.12 — Hornfels (contact-metamorphic rock). Source: [Eisco Labs](http://www.eiscolabs.com/products/esng0056pk12).*
 
+
+![Hornfels (contact metamorphic rock)](../../assets/images/rock-hornfels-c.jpg)
+
+*Figure II.B.12b — Hornfels (contact metamorphic rock). Source: [Etsy](https://www.etsy.com/listing/748886066/hornfels-metamorphic-rock-10-unpolished).*
+
+![Hornfels specimen](../../assets/images/rock-hornfels-d.jpg)
+
+*Figure II.B.12c — Hornfels specimen. Source: [Eisco Labs](http://www.eiscolabs.com/products/esng0056pk12).*
+
 ## Related
 - [Skarn](skarn.md) · [Granite](../igneous/granite.md) · [Metasediments](metasediments.md) · [Marble & Calc-silicate](marble-calc-silicate.md)
