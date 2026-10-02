@@ -47,6 +47,14 @@ Octahedral and cubic crystals; rounded in alluvial ("placer") settings. Rough di
 
 *Figure III.C.10 — Rough natural diamond crystal (illustrative). Source: [eBay](https://www.ebay.com/b/Diamond-Rough-Loose-Natural-Diamonds/262026/bn_1521585).*
 
+![Rough diamond (octahedron)](../../assets/images/min-diamond-c.jpg)
+
+*Figure III.C.10b — Rough diamond (octahedral crystal). Source: [Shree Diamond Mfg](https://www.shreediamondmfg.com/blogs/our-blog/what-is-rough-uncut-and-raw-diamond).*
+
+![Rough diamond crystal](../../assets/images/min-diamond-d.jpg)
+
+*Figure III.C.10c — Rough diamond crystal. Source: [Shree Diamond Mfg](https://www.shreediamondmfg.com/blogs/our-blog/what-is-rough-uncut-and-raw-diamond).*
+
 ## Genesis
 Primary diamonds form in **kimberlite and lamproite pipes** at mantle depths; secondary diamonds concentrate in **alluvial placers**. Both require very specific conditions.
 
