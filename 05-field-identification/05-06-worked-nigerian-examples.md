@@ -1,5 +1,19 @@
 # 5.6 — Worked Nigerian Examples
 
+> **What it is:** The full method applied to real Nigerian play types.
+> **The pattern:** know the play → recognize the surface clue → confirm with a field test → sample systematically → interpret against geology.
+
+## At a glance — play types at a glance
+
+| Example | Play type | Key surface clue | Key test | State |
+|---|---|---|---|---|
+| Lode gold (Ilesa) | Schist-belt lode | Quartz veins, gossans | Gold = soft/malleable | Osun |
+| Alluvial cassiterite (Jos) | Placer tin | Heavy black/brown grains | Heft + hardness | Plateau |
+| Lead–zinc (Abakaliki) | Benue MVT/skarn | Gossans, calcite veins | Galena = cubic + heavy | Ebonyi/Enugu |
+| Ironstone (Itakpe) | BIF/lateritic iron | Red-brown ridges | Red streak / magnetic | Kogi |
+| Bitumen (Ondo) | Tar-sand (unconventional) | Black sticky oily sand | Stains hands | Ondo |
+| Cement limestone (Ewekoro) | Sedimentary carbonate | Grey bedded carbonate | **Fizzes** in HCl | Ogun |
+
 Tying the method to real Nigerian play types — *look → test → sample → interpret*.
 
 ## 1. Lode gold in the Ilesa schist belt (Osun)
@@ -45,8 +59,13 @@ Tying the method to real Nigerian play types — *look → test → sample → i
 - **Interpret:** thick, low-impurity limestone = cement feed (see [Limestone](../03-mineral-resources/industrial/limestone.md)).
 
 ## The pattern
-Every example follows the same logic: **know the play → recognize the surface clue →
-confirm with a field test → sample systematically → interpret against geology.**
+Every example follows the same logic: **know the play → recognize the surface clue → confirm with a field test → sample systematically → interpret against geology.**
+
+## Facts
+- Every Nigerian play follows the **look → test → sample → interpret** pattern.
+- **Gossans + veins** point to sulfide ores (gold, Pb–Zn).
+- **Heft + hardness** quickly flag dense ores (cassiterite, galena).
+- The **acid-fizz test** confirms carbonate (limestone for cement).
 
 ## Related
-- [Hand-specimen tests](05-02-hand-specimen-tests.md) · [Alteration & gossans](05-03-alteration-gossans.md) · [Part IV provinces](../04-geological-provinces/README.md)
+- [Hand-specimen tests](05-02-hand-specimen-tests.md) · [Alteration & gossans](05-03-alteration-gossans.md) · [Part IV provinces](../04-geological-provinces/README.md) · [Panning](05-05-panning-stream-sediment.md) · [The field workflow](05-01-field-workflow.md)
