@@ -82,5 +82,14 @@ Clay and alluvial/mangrove deposits; grades into [Coal & Lignite](coal.md) with 
 
 *Figure II.C.14 — Peat being cut from a bog. Source: [Getty Images](https://www.gettyimages.com/photos/peat-harvesting).*
 
+
+![Peat sediment core](../../assets/images/rock-peat-c.jpg)
+
+*Figure II.C.14b — Peat sediment core. Source: [USGS](https://usgs.gov/media/images/marsh-peat-auger-sediment-core-containing-peat-above-a-gray-clayey-silt).*
+
+![Peat/organic sediment](../../assets/images/rock-peat-d.jpg)
+
+*Figure II.C.14c — Peat (organic sediment) sample. Source: [Radiocarbon](https://www.radiocarbon.com/ams-dating-sediments.htm).*
+
 ## Related
 - [Coal & Lignite](coal.md) · [Clay & Kaolin](clay-kaolin.md) · [Alluvium & beach/river sands](placers-alluvium.md) · [Siltstone, Shale & Mudstone](siltstone-shale.md)

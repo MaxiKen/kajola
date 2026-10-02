@@ -82,5 +82,14 @@ Limestone, calcite (see [Calcite](../../03-mineral-resources/industrial/calcite.
 
 *Figure II.C.16 — Travertine (calcareous tufa). Source: [Eisco Labs](https://www.eiscolabs.com/products/eisco-travertine-specimen-3cm-in-size).*
 
+
+![Travertine (calcareous sinter)](../../assets/images/rock-travertine-c.jpg)
+
+*Figure II.C.16b — Travertine (calcareous sinter). Source: [TopGeo](https://www.topgeo.com/pseudo_aragonite_calcareous_sinter.html).*
+
+![Calcareous sinter (travertine)](../../assets/images/rock-travertine-d.jpg)
+
+*Figure II.C.16c — Calcareous sinter (travertine). Source: [TopGeo](https://www.topgeo.com/pseudo_aragonite_calcareous_sinter.html).*
+
 ## Related
 - [Limestone & Dolomite](limestone.md) · [Calcite](../../03-mineral-resources/industrial/calcite.md) · [Marble & Calc-silicate](../metamorphic/marble-calc-silicate.md) · [Calcrete & silcrete](calcrete-silcrete.md)

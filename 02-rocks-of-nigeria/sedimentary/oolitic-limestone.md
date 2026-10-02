@@ -81,5 +81,14 @@ Limestone, dolomite, calcite (see [Calcite](../../03-mineral-resources/industria
 
 *Figure II.C.13 — Oolitic limestone (ooids). Source: [Eisco Labs](https://www.eiscolabs.com/products/eisco-oolitic-limestone-specimen-3cm-in-size-pack-of-12).*
 
+
+![Oolitic limestone](../../assets/images/rock-oolite-c.jpg)
+
+*Figure II.C.13b — Oolitic limestone. Source: [Eisco Labs](https://www.eiscolabs.com/products/eisco-oolitic-limestone-specimen-3cm-in-size-pack-of-12).*
+
+![Oolitic limestone (ooids)](../../assets/images/rock-oolite-d.jpg)
+
+*Figure II.C.13c — Oolitic limestone (ooids). Source: [Thomas Sci](https://www.thomassci.com/p/oolitic-limestone-raw-sedimentary-rock-specimens-approx-1-inch-pk12).*
+
 ## Related
 - [Limestone & Dolomite](limestone.md) · [Calcite](../../03-mineral-resources/industrial/calcite.md) · [Ironstone](ironstone.md) · [Chalk](chalk.md)

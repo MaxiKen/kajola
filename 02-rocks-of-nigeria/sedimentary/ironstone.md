@@ -92,5 +92,14 @@ Hematite, magnetite, goethite/limonite, quartz, chamosite; phosphorus in some or
 
 *Figure II.C.4 — Banded iron formation: alternating iron-rich and silica layers. Source: [iStock](https://www.istockphoto.com/photos/banded-iron).*
 
+
+![Sedimentary ironstone](../../assets/images/rock-ironstone-c.png)
+
+*Figure II.C.4b — Sedimentary ironstone specimen. Source: [Geo Supplies](https://www.geosupplies.co.uk/acatalog/Single-Specimen-of-Sedimentary-Ironstone-779.html).*
+
+![Ironstone hand specimen](../../assets/images/rock-ironstone-d.jpg)
+
+*Figure II.C.4c — Ironstone hand specimen. Source: [Virtual Microscope](https://virtualmicroscope.org/content/sw17-ironstone).*
+
 ## Related
 - [Sandstone](sandstone.md) · [Laterite & Ferricrete](laterite-ferricrete.md) · **Part III** — [iron ore](../../03-mineral-resources/metallic/iron-ore.md)
