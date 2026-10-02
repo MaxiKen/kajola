@@ -85,4 +85,4 @@ The fuel for **nuclear power** (and, historically, weapons). Strategically impor
 - ⚠️ **Radiation safety** is essential: avoid dust inhalation/ingestion.
 
 ## Related
-- [Columbite–Tantalite](columbite-tantalite.md) · [Zircon & Monazite](zircon-monazite.md) · [The sedimentary basins](../../01-general-geology/01-04-sedimentary-basins.md) · [Field safety](../../05-field-identification/05-08-field-safety.md)
+- [Columbite–Tantalite](columbite-tantalite.md) · [Zircon & Monazite](zircon-monazite.md) · [The sedimentary basins](../../01-general-geology/01-04-sedimentary-basins.md) · [Field safety](../../05-field-identification/05-07-safety-asm.md)

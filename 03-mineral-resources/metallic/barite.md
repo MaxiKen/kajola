@@ -85,4 +85,4 @@ The main use is as **weighting agent in oil/gas drilling mud**; also a filler in
 - Barite is used in **radiation shielding** (concrete) because barium absorbs radiation.
 
 ## Related
-- [Galena & Sphalerite](galena-sphalerite.md) · [The Benue Trough](../../01-general-geology/01-04-sedimentary-basins.md) · [Ore deposits 101](../../00-fundamentals/00-07-ore-deposits-101.md) · [Barite (industrial)](../industrial/barite.md)
+- [Galena & Sphalerite](galena-sphalerite.md) · [The Benue Trough](../../01-general-geology/01-04-sedimentary-basins.md) · [Ore deposits 101](../../00-fundamentals/00-07-ore-deposits-101.md) · [Fluorite](../industrial/fluorite.md)
