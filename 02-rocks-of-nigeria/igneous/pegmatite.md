@@ -20,6 +20,11 @@ Essentially **granitic** (quartz, feldspar, mica) but formed from the **water- a
 
 **Types:** *simple* pegmatites (just feldspar, quartz, mica) and *rare-element / complex* pegmatites (rich in Li, Be, Ta, Sn, gems) — the latter are the economically important ones.
 
+## Geochemistry
+- **Major oxides:** broadly granitic (SiO₂ 70–77%) but with high **volatiles** (H₂O, F, B, P, Cl) that drive giant-crystal growth.
+- **Trace elements:** strongly enriched in **Li, Be, Rb, Cs, Sn, Nb, Ta, W, U, Th, REE, Zr, Hf** — the "incompatible" elements excluded from common granite minerals.
+- **Nature in Nigeria:** the **Jos Plateau** pegmatites are classic **LCT-type** (Lithium–Cesium–Tantalum) rare-element pegmatites, enriched in Sn–Nb–Ta–Li — a world-class tin-tantalum province.
+
 ## Texture
 **Extremely coarse-grained** — crystals from **centimetres to several metres**. Often **zoned** (minerals change from the wall to the centre) and may show **graphic texture** — quartz wedges intergrown with feldspar, resembling ancient cuneiform writing. Giant crystals form because the watery fluid lets atoms migrate far and build huge minerals.
 
@@ -29,6 +34,16 @@ Essentially **granitic** (quartz, feldspar, mica) but formed from the **water- a
 - Occurs as **veins, dykes, and pods** cutting through granite — not as large masses.
 - **Zoned**: sample across the whole body, as different minerals concentrate in different zones (outer wall zone → intermediate → core).
 - May contain **hollow crystal-lined cavities (miarolitic cavities)** with beautiful gem crystals.
+
+## Identification tests — step by step
+1. **Grain size:** if individual crystals exceed several centimetres, it is a pegmatite.
+2. **Mineralogy:** look for feldspar + quartz + mica, plus the markers — **black tourmaline, beryl, lepidolite**.
+3. **Heavy dark grains:** dense, black **cassiterite** or **columbite** may be visible in tin-bearing bodies.
+4. **Geometry:** veins/dykes/pods cross-cutting granite, not uniform plutons.
+5. **Zoning:** note how minerals change across the body — sample every zone.
+
+## Genesis & tectonic setting
+Pegmatites form from the **residual, water-rich melt and fluids** left after a granite has mostly crystallised. Because these fluids are rich in water and rare elements and cool slowly, they grow **giant crystals**. **LCT pegmatites** (like Nigeria's) form in **anorogenic granite cupolas** — the tops of fertile granite plutons — and are the source of most of the world's Li, Ta, Be, and Sn.
 
 ## Host states / localities
 A hallmark of the **Younger Granites (Jos Plateau)** and many Basement granites: **Plateau, Bauchi, Kaduna, Nasarawa, Oyo, Kwara, Niger**, and gem-bearing pegmatites in several states. The **Jos–Bukuru** area is famous for its tin-bearing pegmatite fields.
@@ -46,6 +61,13 @@ A hallmark of the **Younger Granites (Jos Plateau)** and many Basement granites:
 | **Granite** | Pegmatite has **giant crystals** (cm–m) and occurs in veins/dykes; granite is uniformly coarse. |
 | **Quartz vein** | Quartz veins are nearly all quartz; pegmatites have abundant feldspar + mica. |
 | **Aplite** | Aplite is the opposite — very fine-grained, sugary. |
+
+## Field checklist
+- [ ] Giant crystals (cm–m)?
+- [ ] Occurs as vein/dyke/pod, not pluton?
+- [ ] Markers present (tourmaline, beryl, lepidolite)?
+- [ ] Heavy dark grains (cassiterite/columbite)?
+- [ ] Zoned body — sample every zone?
 
 ## Field tips
 - **Huge crystals + zoning** = pegmatite.

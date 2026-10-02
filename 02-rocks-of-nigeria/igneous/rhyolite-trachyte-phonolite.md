@@ -1,7 +1,7 @@
 # Rhyolite, Trachyte & Phonolite (Younger Volcanics)
 
 > **Family:** Igneous — extrusive (volcanic) · **Composition:** Felsic to intermediate-alkaline
-> **Plutonic equivalents:** Rhyolite → granite; Trachyte → syenite; Phonolite → nepheline syenite
+> **Plutonic equivalents:** Rhyolite → granite; Trachyte → syenite; Phonolite → nepheline syenite · **Mean density:** 2.4–2.7 g/cm³
 > **Quick ID:** Fine-grained, pale volcanic rocks; rhyolite flow-banded; **phonolite rings when struck**.
 
 ## At a glance
@@ -22,6 +22,11 @@ The **fine-grained volcanic equivalents** of the plutonic rocks:
 
 Chemically felsic to alkaline: rhyolite SiO₂ ≈ 69–78%; phonolite ≈ 55–62% with high alkalis and low silica (hence the feldspathoid).
 
+## Geochemistry
+- **Major oxides:** rhyolite SiO₂ 69–78%, high alkalis; phonolite SiO₂ 55–62% with very high Na₂O+K₂O and low silica (feldspathoid-normative).
+- **Trace elements:** alkaline volcanics are enriched in **Zr, Nb, REE, F, Cl**; rhyolites can carry **Li, Be, Sn, U**.
+- **Nature in Nigeria:** the Jos/Biu volcanics are **alkaline** (trachyte–phonolite–basanite) — an anorogenic, within-plate signature of the Cenozoic volcanic episode.
+
 ## Texture
 **Fine-grained (aphanitic)** to **glassy**; commonly **porphyritic** and **flow-banded** (bands produced as lava flowed). May contain **obsidian** or **pumice**. The fine texture records rapid cooling at the surface.
 
@@ -30,6 +35,16 @@ Chemically felsic to alkaline: rhyolite SiO₂ ≈ 69–78%; phonolite ≈ 55–
 - **Trachyte:** pale, with tiny **alkali-feldspar phenocrysts** visible with a lens.
 - **Phonolite:** darker grey; **rings like a bell when struck with a hammer** — a neat and distinctive field test caused by its dense, uniform, slightly glassy texture.
 - All may contain **cavities (vesicles)** sometimes filled with zeolites or calcite.
+
+## Identification tests — step by step
+1. **Hand lens:** fine groundmass; identify phenocrysts — quartz (rhyolite), alkali feldspar (trachyte), feldspathoid (phonolite).
+2. **Flow banding:** streaky alignment of minerals → extrusive lava.
+3. **Phonolite ring test:** strike a fresh piece — a clear ring indicates phonolite.
+4. **Colour:** pale (rhyolite/trachyte) vs darker grey (phonolite).
+5. **Vesicles/pumice:** gas bubbles confirm volcanic origin.
+
+## Genesis & tectonic setting
+These are **lava flows, domes, and volcanic plugs** erupted onto the surface. Rhyolite comes from viscous, silica-rich magma; phonolite/trachyte from fluid **alkaline magma**. In Nigeria they belong to the **Cenozoic (Tertiary–Quaternary) alkaline volcanic episode** of the Jos Plateau and Biu — far younger than the granites they rest on.
 
 ## Host states / localities
 The **Younger volcanics** of the **Jos Plateau** (trachyte/phonolite flows and necks) and associated with the **Biu Plateau** and other volcanic fields: **Plateau, Bauchi, Borno, Kaduna, Nasarawa**. These are part of Nigeria's **Cenozoic volcanic episode**.
@@ -49,9 +64,17 @@ The **Younger volcanics** of the **Jos Plateau** (trachyte/phonolite flows and n
 
 | Looks like | How to tell it apart |
 |---|---|
-| **Basalt** | Basalt is **dark/mafic**; rhyolite/trachte/phonolite are pale or lighter. |
+| **Basalt** | Basalt is **dark/mafic**; rhyolite/trachyte/phonolite are pale or lighter. |
 | **Microgranite** | Same composition but microgranite is **intrusive** (cross-cuts); volcanic rocks show flow banding/vesicles. |
 | **Trachyte vs rhyolite** | Rhyolite has **quartz** phenocrysts; trachyte has alkali feldspar and little/no quartz. |
+
+## Field checklist
+- [ ] Fine-grained volcanic texture?
+- [ ] Flow banding / vesicles?
+- [ ] Pale (rhyolite/trachyte) or darker (phonolite)?
+- [ ] Phenocrysts: quartz / feldspar / feldspathoid?
+- [ ] Phonolite rings when struck?
+- [ ] Lies on older granite/ Basement (Cenozoic cap)?
 
 ## Field tips
 - **Fine-grained + flow banding** → volcanic (extrusive).

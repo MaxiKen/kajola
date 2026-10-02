@@ -21,6 +21,10 @@
 
 Chemically, microgranite is felsic (SiO₂ ≈ 68–75%); the wider porphyry family spans the whole silica range.
 
+## Geochemistry
+- **Microgranite:** felsic, like granite (SiO₂ 68–75%, high alkalis and alumina).
+- **Porphyry systems:** in mineralised porphyries, look for **Cu–Mo–Au** enrichment plus **alteration** signatures — potassic (K-feldspar/biotite), phyllic (sericite–quartz–pyrite), and propylitic (chlorite–epidote) zones, and a geochemical halo of Cu, Mo, Au, Ag.
+
 ## Texture
 **Fine-grained (aphanitic)** with visible **phenocrysts** — the classic **porphyritic texture**: big early-formed crystals floating in a fine matrix. This records a **two-stage cooling history**: large crystals grew slowly deep down, then the magma rose and chilled rapidly, freezing the rest as a fine groundmass.
 
@@ -29,6 +33,15 @@ Chemically, microgranite is felsic (SiO₂ ≈ 68–75%); the wider porphyry fam
 - **Microgranite:** pale, fine-grained, of granite composition.
 - **Porphyry:** prominent phenocrysts (often **feldspar**, sometimes quartz) in a compact groundmass.
 - The groundmass is usually **even, dense, and hard**.
+
+## Identification tests — step by step
+1. **Hand lens:** confirm **phenocrysts** (big crystals) in a **fine groundmass** — the porphyritic texture.
+2. **Phenocryst type:** feldspar (pale) → felsic/intermediate; hornblende/biotite (dark) → intermediate/mafic.
+3. **Colour:** pale overall → microgranite/porphyry (felsic); dark → porphyritic basalt.
+4. **Context:** cross-cutting dyke → intrusive (microgranite); flow banding → extrusive.
+
+## Genesis & tectonic setting
+The porphyritic texture records a **two-stage history**: phenocrysts grew slowly at depth, then the magma rose and quenched. **Microgranite** forms in shallow dykes/sills at the chilled margins of granite plutons. **Porphyry** (the texture) is famous worldwide as the host of **porphyry copper–gold–molybdenum deposits**, which form above subduction-zone magma chambers.
 
 ## Host states / localities
 Margins and **dykes of the Younger Granite complexes** and Basement intrusions: **Plateau, Bauchi, Kaduna, Nasarawa**, and elsewhere as dykes. Porphyritic textures are extremely common in the **margins of granite plutons** and in **volcanic necks/plugs**.
@@ -40,7 +53,7 @@ Margins and **dykes of the Younger Granite complexes** and Basement intrusions: 
 
 ## Economic relevance
 - **Aggregate** and **building stone** (microgranite makes good roadstone and fill).
-- Recognising **porphyritic texture** is key to spotting potential **porphyry-style mineralisation** (Cu–Au–Mo) when combined with alteration (e.g., potassic/phylllic) and geochemistry.
+- Recognising **porphyritic texture** is key to spotting potential **porphyry-style mineralisation** (Cu–Au–Mo) when combined with alteration (e.g., potassic/phyllic) and geochemistry.
 - Some porphyritic rhyolites host **gem-bearing cavities**.
 
 ## Lookalikes & how to distinguish
@@ -50,6 +63,13 @@ Margins and **dykes of the Younger Granite complexes** and Basement intrusions: 
 | **Rhyolite** | Both fine + felsic; microgranite is **intrusive** (hypabyssal), rhyolite is **extrusive** (volcanic) — often hard to tell in a hand specimen. |
 | **Basalt (porphyritic)** | Basalt porphyry is **dark/mafic**; microgranite porphyry is **pale/felsic**. |
 | **Granite** | Granite is uniformly coarse; microgranite has a fine groundmass with scattered phenocrysts. |
+
+## Field checklist
+- [ ] Phenocrysts in a fine groundmass?
+- [ ] Phenocrysts feldspar (pale) or mafic (dark)?
+- [ ] Pale overall (→ microgranite) vs dark (→ basalt)?
+- [ ] Cross-cutting dyke (intrusive) vs flow banding (extrusive)?
+- [ ] Any alteration / quartz veins (porphyry-system flag)?
 
 ## Field tips
 - **Porphyritic texture** = phenocrysts in a fine matrix — look for it with a hand lens (see the porphyritic basalt image in [Basalt](basalt.md) for a clear example).
