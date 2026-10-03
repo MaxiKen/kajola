@@ -56,6 +56,15 @@
 
 *Figure III.B.7c — Fine white marble specimen. Source: [Eisco Labs](https://www.eiscolabs.com/products/esng0058).*
 
+
+![Marble dimension stone](../../assets/images/illustrations/illus-marble-ind-1.jpg)
+
+*Figure III.B.7d — Labeled illustration: polished marble dimension stone. Original diagram prepared for this guide.*
+
+![Veined marble](../../assets/images/illustrations/illus-marble-ind-2.jpg)
+
+*Figure III.B.7e — Labeled illustration: veined calcite marble. Original diagram prepared for this guide.*
+
 Found in metamorphosed limestone bodies (see [Marble rock](../../02-rocks-of-nigeria/metamorphic/marble-calc-silicate.md)).
 
 ## Genesis

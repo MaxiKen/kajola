@@ -55,6 +55,15 @@ Massive, soft, blocky, and earthy — identified as a soft calcareous mud, not b
 
 *Figure III.B.29c — Mudstone (marl's parent lithology). Source: [Geological Specimen Supply](https://geologicalspecimensupply.com/products/mudstone-teaching-hand-speccimen-of-diatomaceous-mudstone-from-the-sisquoc-formation-santa-barbara-county-calif).*
 
+
+![Marl](../../assets/images/illustrations/illus-marl-1.jpg)
+
+*Figure III.B.29d — Labeled illustration: marl calcareous mudstone. Original diagram prepared for this guide.*
+
+![Lime-rich marl](../../assets/images/illustrations/illus-marl-2.jpg)
+
+*Figure III.B.29e — Labeled illustration: marl lime-rich mudstone. Original diagram prepared for this guide.*
+
 *(Bulk material — a single representative image; pure ≈ in-rock.)*
 
 ## Genesis

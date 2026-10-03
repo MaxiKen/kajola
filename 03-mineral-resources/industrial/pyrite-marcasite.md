@@ -74,6 +74,15 @@ Pyrite and marcasite share the same chemistry (FeS₂) but different crystal str
 
 *Figure III.B.37c — Marcasite specimen. Source: [Etsy](https://etsy.com/listing/1891273709/marcasite-specimen-25g-unique-mineral).*
 
+
+![Pyrite](../../assets/images/illustrations/illus-pyrite-1.jpg)
+
+*Figure III.B.37d — Labeled illustration: pyrite brassy cubic crystals. Original diagram prepared for this guide.*
+
+![Marcasite](../../assets/images/illustrations/illus-pyrite-2.jpg)
+
+*Figure III.B.37e — Labeled illustration: marcasite orthorhombic crystals. Original diagram prepared for this guide.*
+
 ## Genesis
 Ubiquitous — **hydrothermal veins**, sedimentary (marcasite, pyrrhotite), metamorphic, and magmatic (pyrrhotite in mafic rocks, often with nickel). Iron sulfides form in almost every geological setting.
 

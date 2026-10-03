@@ -67,6 +67,15 @@ All share a layered structure that gives them perfect cleavage into sheets.
 
 *Figure III.B.19c — Muscovite mica specimen. Source: [UKGE](https://ukge.com/product/muscovite/).*
 
+
+![Muscovite mica](../../assets/images/illustrations/illus-mica-1.jpg)
+
+*Figure III.B.19d — Labeled illustration: muscovite sheet mica. Original diagram prepared for this guide.*
+
+![Biotite mica](../../assets/images/illustrations/illus-mica-2.jpg)
+
+*Figure III.B.19e — Labeled illustration: biotite flaky mica. Original diagram prepared for this guide.*
+
 ## Genesis
 Grows in **granites & pegmatites** (muscovite, lepidolite) and **metamorphic schists** (biotite, muscovite). Lepidolite marks lithium-rich pegmatites (see [Pegmatite](../../02-rocks-of-nigeria/igneous/pegmatite.md)).
 

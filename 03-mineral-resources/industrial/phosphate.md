@@ -56,6 +56,15 @@
 
 *Figure III.B.10c — Fossiliferous phosphate rock. Source: [Geology.com](https://geology.com/minerals/apatite.shtml).*
 
+
+![Apatite](../../assets/images/illustrations/illus-phosphate-1.jpg)
+
+*Figure III.B.10d — Labeled illustration: apatite phosphate crystal. Original diagram prepared for this guide.*
+
+![Rock phosphate](../../assets/images/illustrations/illus-phosphate-2.jpg)
+
+*Figure III.B.10e — Labeled illustration: rock phosphate (phosphorite). Original diagram prepared for this guide.*
+
 Found in sedimentary basins (see [The sedimentary basins](../../01-general-geology/01-04-sedimentary-basins.md)).
 
 ## Genesis
