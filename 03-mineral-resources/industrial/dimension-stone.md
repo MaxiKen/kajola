@@ -61,6 +61,15 @@ Massive, competent, and durable rock; attractive colour and pattern; takes a pol
 
 *Figure III.B.34c — Dimension stone: cutting granite blocks. Source: [Vermont DEC](https://dec.vermont.gov/geological-survey/resources-energy/minres/granite).*
 
+
+![Dimension stone slab](../../assets/images/illustrations/illus-dimstone-1.jpg)
+
+*Figure III.B.34d — Labeled illustration: polished granite dimension stone slab. Original diagram prepared for this guide.*
+
+![Cut stone block](../../assets/images/illustrations/illus-dimstone-2.jpg)
+
+*Figure III.B.34e — Labeled illustration: rough cut building stone block. Original diagram prepared for this guide.*
+
 ## Genesis
 - **Granite** — plutonic igneous (see [Granite](granite.md)).
 - **Marble** — metamorphosed limestone (see [Marble](marble.md)).

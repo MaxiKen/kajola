@@ -63,6 +63,15 @@ Cubic and octahedral crystals, cleavable masses, and banded aggregates; often we
 
 *Figure III.B.15c — Fluorite (Weardale, UK). Source: [Etsy](https://www.etsy.com/listing/1037386893/fluorite-crystal-mineral-specimen).*
 
+
+![Fluorite cube](../../assets/images/illustrations/illus-fluorite-1.jpg)
+
+*Figure III.B.15d — Labeled illustration: fluorite cubic crystal. Original diagram prepared for this guide.*
+
+![Fluorite octahedron](../../assets/images/illustrations/illus-fluorite-2.jpg)
+
+*Figure III.B.15e — Labeled illustration: fluorite octahedral crystal. Original diagram prepared for this guide.*
+
 ## Genesis
 **Low–medium-temperature hydrothermal veins**, typically in limestone/dolomite hosts; also a gangue mineral in some Pb–Zn and tin deposits. Fluorite is deposited from fluorine-rich hydrothermal fluids.
 

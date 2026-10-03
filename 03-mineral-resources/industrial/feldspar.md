@@ -61,6 +61,15 @@ Feldspars make up ~60% of the Earth's crust — they are the most abundant miner
 
 *Figure III.B.5d — Orthoclase feldspar crystal on matrix. Source: [Mineral At Minerals](https://www.mineratminerals.com/archive/orthoclase-feldspar-crystal-on-matrix,-new-mexico-detail).*
 
+
+![Orthoclase feldspar](../../assets/images/illustrations/illus-feldspar-1.jpg)
+
+*Figure III.B.5e — Labeled illustration: orthoclase K-feldspar crystal. Original diagram prepared for this guide.*
+
+![Plagioclase feldspar](../../assets/images/illustrations/illus-feldspar-2.jpg)
+
+*Figure III.B.5f — Labeled illustration: plagioclase striated crystal. Original diagram prepared for this guide.*
+
 A major constituent of granites and pegmatites (see [Granite (dimension)](granite.md), [Pegmatite](../../02-rocks-of-nigeria/igneous/pegmatite.md)).
 
 ## Genesis

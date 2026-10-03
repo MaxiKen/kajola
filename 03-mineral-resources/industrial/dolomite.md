@@ -63,6 +63,15 @@
 
 *Figure III.B.27c — Pink dolomite crystal. Source: [Etsy](https://www.etsy.com/market/dolomite_crystal).*
 
+
+![Dolomite crystals](../../assets/images/illustrations/illus-dolomite-1.jpg)
+
+*Figure III.B.27d — Labeled illustration: dolomite rhombohedral crystals. Original diagram prepared for this guide.*
+
+![Dolomite rock](../../assets/images/illustrations/illus-dolomite-2.jpg)
+
+*Figure III.B.27e — Labeled illustration: dolomite rock (sugary texture). Original diagram prepared for this guide.*
+
 ## Genesis
 Mainly by **dolomitization** of limestone (Mg-rich fluids replacing calcite), plus hydrothermal and evaporite-associated origins. Dolomitization often improves porosity, making dolostone an important reservoir rock.
 

@@ -55,6 +55,15 @@ Massive, earthy, plastic when wet, and fissile (breaks into plates). Identified 
 
 *Figure III.B.28c — Fire-clay refractory brick. Source: [Made-in-China](https://m.made-in-china.com/product/Refractory-Brick-High-Temp-Fire-Clay-Brick-Sk34-Fireclay-Bricks-for-Sale-2006728512.html).*
 
+
+![Fire clay](../../assets/images/illustrations/illus-fireclay-1.jpg)
+
+*Figure III.B.28d — Labeled illustration: fire clay (refractory clay). Original diagram prepared for this guide.*
+
+![Fireclay underclay](../../assets/images/illustrations/illus-fireclay-2.jpg)
+
+*Figure III.B.28e — Labeled illustration: pale fireclay underclay. Original diagram prepared for this guide.*
+
 *(Bulk industrial material — a single hand-specimen image is representative; pure ≈ in-rock.)*
 
 ## Genesis
