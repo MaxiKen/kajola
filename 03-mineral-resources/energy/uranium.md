@@ -56,6 +56,15 @@ Uraninite forms cubic/octahedral crystals; **pitchblende** is massive/botryoidal
 
 *Figure III.D.5c — Autunite (uranium mineral). Source: [GeologyIn](https://www.geologyin.com/2023/01/radioactive-autunite-crystals.html).*
 
+
+![Pitchblende ore](../../assets/images/illustrations/illus-uranium-en-1.jpg)
+
+*Figure III.D.5d — Labeled illustration: pitchblende uranium ore. Original diagram prepared for this guide.*
+
+![Uraninite](../../assets/images/illustrations/illus-uranium-en-2.jpg)
+
+*Figure III.D.5e — Labeled illustration: uraninite uranium oxide. Original diagram prepared for this guide.*
+
 ## Genesis
 **Hydrothermal veins, pegmatites, and sandstone-hosted (roll-front) deposits** — see the full [Uranium mineral profile](../metallic/uranium.md). In Nigeria, occurrences are linked to pegmatites and certain sandstones.
 

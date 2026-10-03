@@ -56,6 +56,15 @@ Not crystalline — natural gas is a **gas** occupying the pore spaces of reserv
 
 *Figure III.D.2c — Natural gas pipeline/compressor station. Source: [Kotech Group](https://kotechgroup.net/industry-applications/pipeline-compressors-for-natural-gas-compressor-station/).*
 
+
+![Natural gas flame](../../assets/images/illustrations/illus-natgas-1.jpg)
+
+*Figure III.D.2d — Labeled illustration: natural gas flame (methane). Original diagram prepared for this guide.*
+
+![Gas seep](../../assets/images/illustrations/illus-natgas-2.jpg)
+
+*Figure III.D.2e — Labeled illustration: natural gas seep/vent. Original diagram prepared for this guide.*
+
 ## Genesis
 Forms by the **thermal maturation of organic matter** in sedimentary basins — the same process that generates oil. **Associated gas** comes out of solution with oil; **non-associated gas** forms independently in gas-prone source rocks.
 

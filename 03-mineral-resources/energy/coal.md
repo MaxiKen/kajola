@@ -58,6 +58,15 @@
 
 *Figure III.D.3c — Bituminous coal specimen. Source: [Amazon](https://www.amazon.com/Anthracite-Coal-Metamorphic-Rock-Specimen/dp/B08KJK6NML).*
 
+
+![Anthracite coal](../../assets/images/illustrations/illus-coal-1.jpg)
+
+*Figure III.D.3d — Labeled illustration: anthracite coal (lustrous black). Original diagram prepared for this guide.*
+
+![Bituminous coal](../../assets/images/illustrations/illus-coal-2.jpg)
+
+*Figure III.D.3e — Labeled illustration: bituminous coal (banded). Original diagram prepared for this guide.*
+
 Found in the "coal measures" (see [Coal rock](../../02-rocks-of-nigeria/sedimentary/coal.md)).
 
 ## Genesis

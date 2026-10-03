@@ -66,6 +66,15 @@ Not crystalline — crude oil is a **liquid** that occupies the pore spaces of r
 
 *Figure III.D.1d — Crude oil samples (with derrick). Source: [eBay](https://www.ebay.com/itm/276667684222).*
 
+
+![Crude oil](../../assets/images/illustrations/illus-petroleum-1.jpg)
+
+*Figure III.D.1e — Labeled illustration: crude oil petroleum. Original diagram prepared for this guide.*
+
+![Oil seep](../../assets/images/illustrations/illus-petroleum-2.jpg)
+
+*Figure III.D.1f — Labeled illustration: petroleum oil seep. Original diagram prepared for this guide.*
+
 ## The petroleum system (Niger Delta)
 - **Source:** the marine **Akata Formation** shale (organic-rich).
 - **Reservoir:** the **Agbada Formation** (cyclic sandstones).

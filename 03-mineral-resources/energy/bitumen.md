@@ -57,6 +57,15 @@
 
 *Figure III.D.4c — Natural asphalt (gilsonite). Source: [Gilsonite Co](https://gilsoniteco.com/gilsonite-bitumen/).*
 
+
+![Bitumen](../../assets/images/illustrations/illus-bitumen-1.jpg)
+
+*Figure III.D.4d — Labeled illustration: bitumen natural asphalt. Original diagram prepared for this guide.*
+
+![Bitumen seep](../../assets/images/illustrations/illus-bitumen-2.jpg)
+
+*Figure III.D.4e — Labeled illustration: bitumen tar seep from rock. Original diagram prepared for this guide.*
+
 Found in tar-sand deposits (see [Bitumen rock](../../02-rocks-of-nigeria/sedimentary/bitumen.md)).
 
 ## Genesis
