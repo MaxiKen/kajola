@@ -96,5 +96,14 @@ Pyrite, quartz, clay, siderite; **methane** (coal-bed gas); plant fossils. Assoc
 
 *Figure II.C.5c — Bituminous coal. Source: [Amazon](https://www.amazon.com/Anthracite-Coal-Metamorphic-Rock-Specimen/dp/B08KJK6NML).*
 
+
+![Coal layers](../../assets/images/illustrations/illus-coal-sed-1.jpg)
+
+*Figure II.C.5d — Labeled illustration: coal organic rock layers. Original diagram prepared for this guide.*
+
+![Coal seam](../../assets/images/illustrations/illus-coal-sed-2.jpg)
+
+*Figure II.C.5e — Labeled illustration: coal seam with partings. Original diagram prepared for this guide.*
+
 ## Related
 - [Siltstone, Shale & Mudstone](siltstone-shale.md) · [Bitumen](bitumen.md) · [Peat](peat.md) · **Part III, III.D** — [coal](../../03-mineral-resources/energy/coal.md) (energy minerals)

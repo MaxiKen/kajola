@@ -91,5 +91,14 @@ Shale and metasediments; with metamorphism becomes **metagreywacke/quartz schist
 
 *Figure II.C.17c — Greywacke. Source: [Bubbly Professor](https://bubblyprofessor.com/2016/08/12/greywacke-and-greywacke-jones/).*
 
+
+![Greywacke](../../assets/images/illustrations/illus-greywacke-1.jpg)
+
+*Figure II.C.17d — Labeled illustration: greywacke gritty sandstone. Original diagram prepared for this guide.*
+
+![Greywacke matrix](../../assets/images/illustrations/illus-greywacke-2.jpg)
+
+*Figure II.C.17e — Labeled illustration: greywacke immature sandstone. Original diagram prepared for this guide.*
+
 ## Related
 - [Sandstone, Grit & Arkose](sandstone.md) · [Metasediments](../metamorphic/metasediments.md) · [Siltstone, Shale & Mudstone](siltstone-shale.md) · [Conglomerate & Breccia](conglomerate-breccia.md)

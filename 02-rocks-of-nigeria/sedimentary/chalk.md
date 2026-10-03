@@ -91,5 +91,14 @@ Limestone, marl, flint/nodules. Associated rocks: limestone, marl, shale (marine
 
 *Figure II.C.19c — Chalk (limestone) specimen. Source: [Amazon](https://www.amazon.com/Limestone-Chalk-Sedimentary-Rock-Specimen/dp/B0CC3QF8GK).*
 
+
+![Chalk](../../assets/images/illustrations/illus-chalk-1.jpg)
+
+*Figure II.C.19d — Labeled illustration: chalk soft porous limestone. Original diagram prepared for this guide.*
+
+![Fine chalk](../../assets/images/illustrations/illus-chalk-2.jpg)
+
+*Figure II.C.19e — Labeled illustration: chalk fine biogenic carbonate. Original diagram prepared for this guide.*
+
 ## Related
 - [Limestone & Dolomite](limestone.md) · [Oolitic Limestone (Oolite)](oolitic-limestone.md) · [Calcite](../../03-mineral-resources/industrial/calcite.md) · [Marl](../../03-mineral-resources/industrial/marl.md) · [Marble](../metamorphic/marble-calc-silicate.md)

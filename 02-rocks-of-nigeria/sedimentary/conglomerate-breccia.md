@@ -95,5 +95,14 @@ Sandstone and grit (they interfinger with); **placer gold and tin** can concentr
 
 *Figure II.C.12c — Breccia specimen. Source: [Amazon](https://www.amazon.com/Raw-Breccia-Sedimentary-Rock-Specimen/dp/B084BTWWXC).*
 
+
+![Conglomerate](../../assets/images/illustrations/illus-conglomerate-1.jpg)
+
+*Figure II.C.12d — Labeled illustration: conglomerate rounded pebbles. Original diagram prepared for this guide.*
+
+![Breccia](../../assets/images/illustrations/illus-conglomerate-2.jpg)
+
+*Figure II.C.12e — Labeled illustration: breccia angular fragments. Original diagram prepared for this guide.*
+
 ## Related
 - [Sandstone, Grit & Arkose](sandstone.md) · [Placers & Alluvium](placers-alluvium.md) · [Metaconglomerate](../metamorphic/metasediments.md) · [Sedimentary basins](../../01-general-geology/01-04-sedimentary-basins.md)
