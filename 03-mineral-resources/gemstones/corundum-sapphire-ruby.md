@@ -61,6 +61,15 @@
 
 *Figure III.C.5c — Corundum (ruby/sapphire) crystal. Source: [Etsy](https://etsy.com/listing/1854980436/ruby-sapphire-corrundum-crystal-41-grams).*
 
+
+![Ruby](../../assets/images/illustrations/illus-corundum-1.jpg)
+
+*Figure III.C.5d — Labeled illustration: ruby red corundum crystal. Original diagram prepared for this guide.*
+
+![Sapphire](../../assets/images/illustrations/illus-corundum-2.jpg)
+
+*Figure III.C.5e — Labeled illustration: sapphire blue corundum crystal. Original diagram prepared for this guide.*
+
 Found in metamorphic rocks and alluvial placers (see [Placers & alluvium](../../02-rocks-of-nigeria/sedimentary/placers-alluvium.md)).
 
 ## Genesis

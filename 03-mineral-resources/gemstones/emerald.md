@@ -66,6 +66,15 @@
 
 *Figure III.C.1d — Emerald rough specimen (Colombia). Source: [JR Colombian Emeralds](https://jrcolombianemeralds.com/collections/raw-uncut-natural-emerald-crystal-specimens).*
 
+
+![Emerald](../../assets/images/illustrations/illus-emerald-1.jpg)
+
+*Figure III.C.1e — Labeled illustration: emerald green beryl crystal. Original diagram prepared for this guide.*
+
+![Emerald in matrix](../../assets/images/illustrations/illus-emerald-2.jpg)
+
+*Figure III.C.1f — Labeled illustration: emerald hexagonal crystal in matrix. Original diagram prepared for this guide.*
+
 ## Genesis
 Forms in **pegmatites and mica schist** — beryllium-bearing fluids interact with chromium/vanadium-bearing rocks to crystallize green emerald. Nigerian emeralds occur in pegmatites and schist on the Jos Plateau.
 

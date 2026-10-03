@@ -61,6 +61,15 @@
 
 *Figure III.C.6c — Amethyst geode cluster. Source: [Etsy](https://www.etsy.com/listing/1222747927/natural-amethyst-geode-cluster-purple).*
 
+
+![Amethyst crystals](../../assets/images/illustrations/illus-amethyst-1.jpg)
+
+*Figure III.C.6d — Labeled illustration: amethyst purple quartz crystals. Original diagram prepared for this guide.*
+
+![Amethyst geode](../../assets/images/illustrations/illus-amethyst-2.jpg)
+
+*Figure III.C.6e — Labeled illustration: amethyst geode purple quartz lining. Original diagram prepared for this guide.*
+
 Found in veins, pegmatites, and geodes across the Basement (see [Quartz, Silica & Glass sand](../industrial/quartz-glass-sand.md)).
 
 ## Genesis

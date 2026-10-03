@@ -63,6 +63,15 @@ Both are dense "heavy minerals" that concentrate in sands.
 
 *Figure III.A.10d — Zircon crystals (Astor Valley, Pakistan). Source: [eBay](https://www.ebay.com/itm/205307778447).*
 
+
+![Zircon crystal](../../assets/images/illustrations/illus-zircon-1.jpg)
+
+*Figure III.A.10e — Labeled illustration: zircon zirconium silicate crystal. Original diagram prepared for this guide.*
+
+![Monazite](../../assets/images/illustrations/illus-zircon-2.jpg)
+
+*Figure III.A.10f — Labeled illustration: monazite rare-earth phosphate. Original diagram prepared for this guide.*
+
 **In rock:** concentrated in **heavy-mineral beach and river sands**, alongside ilmenite, rutile, and magnetite (see [Placers & alluvium](../../02-rocks-of-nigeria/sedimentary/placers-alluvium.md)). Zircon also occurs in **pegmatites** (see [Pegmatite](../../02-rocks-of-nigeria/igneous/pegmatite.md)).
 
 ## Genesis
