@@ -99,6 +99,15 @@ granulite-facies rock widely sold as ornamental granite. Source: [Wikipedia](htt
 
 *Figure II.A.6c — Charnockite outcrop, St Thomas Mount. Source: [Telegraph India](https://www.telegraphindia.com/my-kolkata/lifestyle/the-discovery-of-charnockite-the-rock-of-charnock/cid/1961292).*
 
+
+![Charnockite](../../assets/images/illustrations/illus-charnockite-1.jpg)
+
+*Figure II.A.6d — Labeled illustration: charnockite hypersthene granite. Original diagram prepared for this guide.*
+
+![Charnockite texture](../../assets/images/illustrations/illus-charnockite-2.jpg)
+
+*Figure II.A.6e — Labeled illustration: charnockite orthopyroxene texture. Original diagram prepared for this guide.*
+
 ## Related
 - [Granite](granite.md) · [Granulite](../metamorphic/granulite.md) · [Migmatite & Gneiss](../metamorphic/migmatite.md)
 - [Granitoids of the Basement](../../01-general-geology/01-02-basement-complex-and-pan-african.md)

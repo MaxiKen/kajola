@@ -95,5 +95,14 @@ Mostly minor in itself, but dike swarms can mark **structural pathways** and, ra
 
 *Figure II.A.14c — Lamprophyre (monchiquite) dike. Source: [Geology Is The Way](https://geologyistheway.com/igneous/lamprophyres/).*
 
+
+![Lamprophyre](../../assets/images/illustrations/illus-lamprophyre-1.jpg)
+
+*Figure II.A.14d — Labeled illustration: lamprophyre porphyritic dyke rock. Original diagram prepared for this guide.*
+
+![Lamprophyre phenocrysts](../../assets/images/illustrations/illus-lamprophyre-2.jpg)
+
+*Figure II.A.14e — Labeled illustration: lamprophyre mafic dyke with phenocrysts. Original diagram prepared for this guide.*
+
 ## Related
 - [Gabbro & Dolerite](gabbro-dolerite.md) · [Granite](granite.md) · [Kimberlite](kimberlite.md)

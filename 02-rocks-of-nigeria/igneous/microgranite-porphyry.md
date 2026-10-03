@@ -96,5 +96,14 @@ Margins and **dykes of the Younger Granite complexes** and Basement intrusions: 
 
 *Figure II.A.8c — Porphyritic granite specimen. Source: [Amazon](https://www.amazon.com/Porphyritic-Granite-Igneous-Rock-Specimen/dp/B0CC3PDWRF).*
 
+
+![Microgranite](../../assets/images/illustrations/illus-microgranite-1.jpg)
+
+*Figure II.A.8d — Labeled illustration: microgranite fine-grained granite. Original diagram prepared for this guide.*
+
+![Porphyry](../../assets/images/illustrations/illus-microgranite-2.jpg)
+
+*Figure II.A.8e — Labeled illustration: porphyry with phenocrysts. Original diagram prepared for this guide.*
+
 ## Related
 - [Granite](granite.md) · [Rhyolite, Trachyte & Phonolite](rhyolite-trachyte-phonolite.md) · [Basalt](basalt.md) · [Aplite & Quartzolite](aplite-quartzolite.md)

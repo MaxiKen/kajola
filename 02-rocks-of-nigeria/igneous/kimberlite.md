@@ -91,5 +91,14 @@ The world's main source of **diamond** (primary). In Nigeria, an **exploration t
 
 *Figure II.A.12c — Kimberlite specimen. Source: [MyLostGems](https://mylostgems.com/product/kimberlite-2/).*
 
+
+![Kimberlite](../../assets/images/illustrations/illus-kimberlite-1.jpg)
+
+*Figure II.A.12d — Labeled illustration: kimberlite brecciated ultramafic rock. Original diagram prepared for this guide.*
+
+![Kimberlite diamond host](../../assets/images/illustrations/illus-kimberlite-2.jpg)
+
+*Figure II.A.12e — Labeled illustration: kimberlite with indicator minerals. Original diagram prepared for this guide.*
+
 ## Related
 - [Peridotite & Pyroxenite](peridotite-pyroxenite.md) · [Diamond](../../03-mineral-resources/gemstones/diamond.md) · [Ore deposits 101](../../00-fundamentals/00-07-ore-deposits-101.md) · [Lamprophyre](lamprophyre.md)
