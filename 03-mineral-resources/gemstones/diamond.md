@@ -55,6 +55,15 @@ Octahedral and cubic crystals; rounded in alluvial ("placer") settings. Rough di
 
 *Figure III.C.10c — Rough diamond crystal. Source: [Shree Diamond Mfg](https://www.shreediamondmfg.com/blogs/our-blog/what-is-rough-uncut-and-raw-diamond).*
 
+
+![Octahedral diamond](../../assets/images/illustrations/illus-diamond-1.jpg)
+
+*Figure III.C.10d — Labeled illustration: octahedral diamond crystal with adamantine luster. Original diagram prepared for this guide.*
+
+![Rough diamond crystal faces](../../assets/images/illustrations/illus-diamond-2.jpg)
+
+*Figure III.C.10e — Labeled illustration: rough diamond showing flat crystal faces. Original diagram prepared for this guide.*
+
 ## Genesis
 Primary diamonds form in **kimberlite and lamproite pipes** at mantle depths; secondary diamonds concentrate in **alluvial placers**. Both require very specific conditions.
 

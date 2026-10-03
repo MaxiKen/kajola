@@ -97,5 +97,14 @@ Calcite, dolomite, quartz, chert, clay; may host **lead-zinc** (MVT-type) and **
 
 *Figure II.C.3c — Oolitic limestone. Source: [Amazon](https://www.amazon.com/Eisco-Limestone-Specimen-Sedimentary-Approx/dp/B01K2WI6JM).*
 
+
+![Fossiliferous limestone](../../assets/images/illustrations/illus-limestone-1.jpg)
+
+*Figure II.C.3d — Labeled illustration: fossiliferous limestone (fossil fragment in carbonate matrix). Original diagram prepared for this guide.*
+
+![Limestone calcite grains](../../assets/images/illustrations/illus-limestone-2.jpg)
+
+*Figure II.C.3e — Labeled illustration: limestone calcite grains with a vug (cavity). Original diagram prepared for this guide.*
+
 ## Related
 - [Marble & Calc-silicate](../metamorphic/marble-calc-silicate.md) (metamorphosed equivalent) · [Gypsum & evaporites](gypsum-evaporites.md) · [Sandstone](sandstone.md) · [Oolitic Limestone](oolitic-limestone.md) · **Part III** — [limestone](../../03-mineral-resources/industrial/limestone.md)

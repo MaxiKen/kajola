@@ -117,6 +117,15 @@ The **most abundant rock of the Nigerian Basement Complex** and the **Younger Gr
 
 *Figure II.A.1c — Pink granite (igneous rock). Source: [Amazon](https://www.amazon.com/Pink-Granite-Igneous-Rock-Specimen/dp/B083TJ9694).*
 
+
+![Granite mineral grains](../../assets/images/illustrations/illus-granite-1.jpg)
+
+*Figure II.A.1d — Labeled illustration: granite showing feldspar, quartz and biotite mica. Original diagram prepared for this guide.*
+
+![Granite coarse texture](../../assets/images/illustrations/illus-granite-2.jpg)
+
+*Figure II.A.1e — Labeled illustration: granite coarse-grained interlocking crystal texture. Original diagram prepared for this guide.*
+
 ## Related
 - [The three rock families](../../00-fundamentals/00-04-three-rock-families.md) · [Granitoids of the Basement](../../01-general-geology/01-02-basement-complex-and-pan-african.md)
 - [Charnockite](charnockite.md) · [Pegmatite](pegmatite.md) · [Granodiorite & Diorite](granodiorite-diorite.md) · [Rhyolite (equivalent)](rhyolite-trachyte-phonolite.md)

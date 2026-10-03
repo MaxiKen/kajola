@@ -67,6 +67,15 @@ Well-formed crystals are **rare**; gold usually appears as **nuggets, flakes, gr
 
 *Figure III.A.3d — Crystalline native gold (wire / nugget form). Source: [iRocks](https://www.irocks.com/minerals/specimen/45325).*
 
+
+![Native gold in quartz vein](../../assets/images/illustrations/illus-gold-1.jpg)
+
+*Figure III.A.3e — Labeled illustration: native gold (nuggets/flakes) in a white quartz vein. Original diagram prepared for this guide.*
+
+![Crystalline native gold wire](../../assets/images/illustrations/illus-gold-2.jpg)
+
+*Figure III.A.3f — Labeled illustration: crystalline native gold wire with metallic luster. Original diagram prepared for this guide.*
+
 ## Genesis
 Two main settings in Nigeria:
 - **Hydrothermal quartz veins** in the **schist belts** (hard-rock/lode gold) — the primary target.
