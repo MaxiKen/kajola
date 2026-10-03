@@ -61,6 +61,15 @@
 
 *Figure III.C.3c — Tourmaline (schorl) specimen. Source: [eBay](https://www.ebay.com/b/Tourmaline-Specimen/3221/bn_7023262556).*
 
+
+![Tourmaline (schorl)](../../assets/images/illustrations/illus-tourmaline-1.jpg)
+
+*Figure III.C.3d — Labeled illustration: tourmaline schorl striated crystal. Original diagram prepared for this guide.*
+
+![Tourmaline (elbaite)](../../assets/images/illustrations/illus-tourmaline-2.jpg)
+
+*Figure III.C.3e — Labeled illustration: tourmaline green prismatic crystal. Original diagram prepared for this guide.*
+
 **In rock:** black **schorl** is common in Nigerian **pegmatites** — see the pegmatite specimen in [Pegmatite](../../02-rocks-of-nigeria/igneous/pegmatite.md).
 
 ## Genesis

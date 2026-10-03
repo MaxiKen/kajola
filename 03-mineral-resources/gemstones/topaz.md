@@ -58,6 +58,15 @@
 
 *Figure III.C.4c — Imperial topaz crystal. Source: [eBay](https://www.ebay.com/b/Topaz-Crystal/3226/bn_7023336033).*
 
+
+![Topaz crystal](../../assets/images/illustrations/illus-topaz-1.jpg)
+
+*Figure III.C.4d — Labeled illustration: topaz orthorhombic crystal. Original diagram prepared for this guide.*
+
+![Topaz prism](../../assets/images/illustrations/illus-topaz-2.jpg)
+
+*Figure III.C.4e — Labeled illustration: topaz prismatic gem crystal. Original diagram prepared for this guide.*
+
 Found in pegmatites and greisens (see [Pegmatite](../../02-rocks-of-nigeria/igneous/pegmatite.md)).
 
 ## Genesis

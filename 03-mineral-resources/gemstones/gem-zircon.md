@@ -59,6 +59,15 @@
 
 *Figure III.C.8c — Zircon gem crystal. Source: [Etsy](https://www.etsy.com/in-en/listing/1403801549/red-zircon-crystal-specimen-raw-gemstone).*
 
+
+![Gem zircon crystal](../../assets/images/illustrations/illus-gemzircon-1.jpg)
+
+*Figure III.C.8d — Labeled illustration: gem zircon tetragonal crystal. Original diagram prepared for this guide.*
+
+![Zircon gemstone](../../assets/images/illustrations/illus-gemzircon-2.jpg)
+
+*Figure III.C.8e — Labeled illustration: zircon gemstone (faceted). Original diagram prepared for this guide.*
+
 Found in heavy-mineral sands and pegmatites (see [Zircon & Monazite](../metallic/zircon-monazite.md)).
 
 ## Genesis

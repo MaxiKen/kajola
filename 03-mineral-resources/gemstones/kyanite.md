@@ -59,6 +59,15 @@
 
 *Figure III.C.9c — Blue kyanite with quartz. Source: [Amazon](https://www.amazon.com/Natural-Kyanite-Crystal-Mineral-Specimen/dp/B0BXSH3SVL).*
 
+
+![Kyanite crystal](../../assets/images/illustrations/illus-kyanite-1.jpg)
+
+*Figure III.C.9d — Labeled illustration: kyanite bladed aluminum silicate. Original diagram prepared for this guide.*
+
+![Kyanite blade](../../assets/images/illustrations/illus-kyanite-2.jpg)
+
+*Figure III.C.9e — Labeled illustration: kyanite elongated blade crystal. Original diagram prepared for this guide.*
+
 Found in metamorphic rocks (see [Mica schist & Phyllite](../../02-rocks-of-nigeria/metamorphic/mica-schist-phyllite.md)).
 
 ## Genesis
