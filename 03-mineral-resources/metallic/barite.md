@@ -60,6 +60,15 @@
 
 *Figure III.B.11c — Barite desert rose (specimen). Source: [Etsy](https://www.etsy.com/listing/1403085441/barite-desert-rose-barite-crystal-desert).*
 
+
+![Barite tabular crystals](../../assets/images/illustrations/illus-barite-1.jpg)
+
+*Figure III.B.11d — Labeled illustration: barite tabular crystals (barium sulfate). Original diagram prepared for this guide.*
+
+![Barite rosette](../../assets/images/illustrations/illus-barite-2.jpg)
+
+*Figure III.B.11e — Labeled illustration: barite bladed rosette aggregate. Original diagram prepared for this guide.*
+
 **In rock:** hydrothermal **veins** and **replacements**, often with **galena–sphalerite** in the Benue limestones and shales (see [Limestone](../../02-rocks-of-nigeria/sedimentary/limestone.md), [Galena & Sphalerite](galena-sphalerite.md)).
 
 ## Genesis

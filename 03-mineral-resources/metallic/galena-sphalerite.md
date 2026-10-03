@@ -63,6 +63,15 @@
 
 *Figure III.A.5d — Galena crystals showing bright cleavage planes. Source: [eBay](https://www.ebay.com/itm/306731310964).*
 
+
+![Galena cubic crystals](../../assets/images/illustrations/illus-galena-1.jpg)
+
+*Figure III.A.5e — Labeled illustration: galena cubic crystals with perfect cleavage. Original diagram prepared for this guide.*
+
+![Sphalerite with galena](../../assets/images/illustrations/illus-galena-2.jpg)
+
+*Figure III.A.5f — Labeled illustration: sphalerite (ZnS) with associated galena. Original diagram prepared for this guide.*
+
 **In rock:** hydrothermal **veins and replacements** in the **Benue Trough**, hosted by limestone and shale (see [Limestone](../../02-rocks-of-nigeria/sedimentary/limestone.md)).
 
 ## Genesis

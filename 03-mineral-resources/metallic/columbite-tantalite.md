@@ -66,6 +66,15 @@ A **solid-solution series**: **columbite** (Nb-rich) → **tantalite** (Ta-rich)
 
 *Figure III.A.2d — Columbite–tantalite (coltan) hand specimen. Source: [eBay](https://www.ebay.com/b/columbite/bn_7024865223).*
 
+
+![Columbite-tantalite crystals](../../assets/images/illustrations/illus-columbite-1.jpg)
+
+*Figure III.A.2e — Labeled illustration: columbite-tantalite (coltan) crystals in granite. Original diagram prepared for this guide.*
+
+![Coltan aggregate](../../assets/images/illustrations/illus-columbite-2.jpg)
+
+*Figure III.A.2f — Labeled illustration: coltan aggregate of columbite and tantalite. Original diagram prepared for this guide.*
+
 ## Genesis
 Concentrated by **magmatic and hydrothermal processes** in **rare-element pegmatites** — typically in the zoned interiors of pegmatites, alongside cassiterite, tourmaline, and lithium minerals. The zoned structure of pegmatites concentrates Nb–Ta in specific zones.
 

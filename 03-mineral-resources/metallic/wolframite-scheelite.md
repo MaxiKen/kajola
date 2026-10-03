@@ -63,6 +63,15 @@ Both are **ores of tungsten**. Chemically a tungstate (WO₄) combined with iron
 
 *Figure III.A.6d — Scheelite (tungsten ore) on mica. Source: [Etsy](https://www.etsy.com/listing/4307179785/1780g-178kg-scheelite-tungsten-ore).*
 
+
+![Wolframite crystals](../../assets/images/illustrations/illus-wolframite-1.jpg)
+
+*Figure III.A.6e — Labeled illustration: wolframite tabular crystals (tungsten ore). Original diagram prepared for this guide.*
+
+![Scheelite crystals](../../assets/images/illustrations/illus-wolframite-2.jpg)
+
+*Figure III.A.6f — Labeled illustration: scheelite calcium tungstate crystals. Original diagram prepared for this guide.*
+
 **In rock:** hydrothermal **veins and greisens** in and around the tin granites and pegmatites (see [Pegmatite](../../02-rocks-of-nigeria/igneous/pegmatite.md)); scheelite in **skarns** at granite–limestone contacts (see [Skarn](../../02-rocks-of-nigeria/metamorphic/skarn.md)).
 
 ## Genesis

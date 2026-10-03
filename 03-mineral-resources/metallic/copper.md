@@ -63,6 +63,15 @@ Copper occurs as **native copper** (Cu) and, more importantly, sulfide ores: **c
 
 *Figure III.A.17c — Native copper. Source: [Amazon](https://www.amazon.com/RaeGan-Natural-Specimen-Chalcopyrite-Collection/dp/B0CP96XBKF).*
 
+
+![Native copper (dendritic)](../../assets/images/illustrations/illus-copper-1.jpg)
+
+*Figure III.A.17d — Labeled illustration: native copper dendritic growth with metallic luster. Original diagram prepared for this guide.*
+
+![Native copper (massive)](../../assets/images/illustrations/illus-copper-2.jpg)
+
+*Figure III.A.17e — Labeled illustration: massive native copper with green oxide tarnish. Original diagram prepared for this guide.*
+
 ## Genesis
 Hydrothermal veins, **volcanogenic massive sulfide (VMS)** and **porphyry** systems, with **secondary enrichment** (chalcocite) near the surface. In Nigeria, copper occurs in Younger Granite-related and schist-belt settings.
 
