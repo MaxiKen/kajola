@@ -91,5 +91,14 @@ Limestone, calcite (see [Calcite](../../03-mineral-resources/industrial/calcite.
 
 *Figure II.C.16c — Calcareous sinter (travertine). Source: [TopGeo](https://www.topgeo.com/pseudo_aragonite_calcareous_sinter.html).*
 
+
+![Travertine](../../assets/images/illustrations/illus-travertine-1.jpg)
+
+*Figure II.C.16d — Labeled illustration: travertine banded calcareous sinter. Original diagram prepared for this guide.*
+
+![Porous travertine](../../assets/images/illustrations/illus-travertine-2.jpg)
+
+*Figure II.C.16e — Labeled illustration: travertine porous carbonate deposit. Original diagram prepared for this guide.*
+
 ## Related
 - [Limestone & Dolomite](limestone.md) · [Calcite](../../03-mineral-resources/industrial/calcite.md) · [Marble & Calc-silicate](../metamorphic/marble-calc-silicate.md) · [Calcrete & silcrete](calcrete-silcrete.md)

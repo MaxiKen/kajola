@@ -95,5 +95,14 @@ concentrated into placers. Source: [Dreamstime](https://dreamstime.com/photos-im
 
 *Figure II.C.11c — Alluvial gravel bar (river deposit). Source: [Geological Digressions](https://www.geological-digressions.com/atlas-of-fluvial-deposits-2/).*
 
+
+![Placer alluvium](../../assets/images/illustrations/illus-placer-1.jpg)
+
+*Figure II.C.11d — Labeled illustration: placer alluvial sand/gravel with heavy minerals. Original diagram prepared for this guide.*
+
+![Placer deposit](../../assets/images/illustrations/illus-placer-2.jpg)
+
+*Figure II.C.11e — Labeled illustration: placer heavy-mineral concentration. Original diagram prepared for this guide.*
+
 ## Related
 - [Sandstone](sandstone.md) · [Laterite & Ferricrete](laterite-ferricrete.md) · [Regolith & laterite](../../01-general-geology/01-07-regolith-and-laterite.md) · **Part III** — [cassiterite](../../03-mineral-resources/metallic/cassiterite.md), [gold](../../03-mineral-resources/metallic/gold.md), [ilmenite/rutile](../../03-mineral-resources/metallic/titanium-minerals.md), [zircon & monazite](../../03-mineral-resources/metallic/zircon-monazite.md)

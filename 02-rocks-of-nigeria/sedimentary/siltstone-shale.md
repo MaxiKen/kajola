@@ -97,5 +97,14 @@ Clay minerals, quartz, organic matter; **fossils** (plant and marine); pyrite so
 
 *Figure II.C.2c — Carbonaceous shale. Source: [Eisco Labs](https://www.eiscolabs.com/products/esng0038).*
 
+
+![Siltstone](../../assets/images/illustrations/illus-siltstone-1.jpg)
+
+*Figure II.C.2d — Labeled illustration: siltstone fine-grained silt rock. Original diagram prepared for this guide.*
+
+![Shale](../../assets/images/illustrations/illus-siltstone-2.jpg)
+
+*Figure II.C.2e — Labeled illustration: shale fissile mudrock. Original diagram prepared for this guide.*
+
 ## Related
 - [Sandstone, Grit & Arkose](sandstone.md) · [Clay & Kaolin](clay-kaolin.md) · [Metasediments](../metamorphic/metasediments.md) · [Slate](../metamorphic/slate.md) (metamorphosed equivalent)

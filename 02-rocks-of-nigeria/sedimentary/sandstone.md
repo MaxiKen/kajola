@@ -106,5 +106,14 @@ Quartz, feldspar, iron oxides; fossils uncommon; may carry **uranium** in some s
 
 *Figure II.C.1c — Red sandstone. Source: [Amazon](https://www.amazon.com/Eisco-Sandstone-Specimen-Sedimentary-Approx/dp/B01J47ZX88).*
 
+
+![Sandstone](../../assets/images/illustrations/illus-sandstone-1.jpg)
+
+*Figure II.C.1d — Labeled illustration: sandstone quartz grains cemented. Original diagram prepared for this guide.*
+
+![Red sandstone](../../assets/images/illustrations/illus-sandstone-2.jpg)
+
+*Figure II.C.1e — Labeled illustration: red iron-stained sandstone. Original diagram prepared for this guide.*
+
 ## Related
 - [Siltstone, Shale & Mudstone](siltstone-shale.md) · [Limestone & Dolomite](limestone.md) · [Conglomerate & Breccia](conglomerate-breccia.md) · [Quartzite](../metamorphic/quartzite-quartz-schist.md) (metamorphosed equivalent) · [Greywacke](greywacke.md)

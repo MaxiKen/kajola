@@ -94,5 +94,14 @@ Gypsum, anhydrite, sylvite (potash), other evaporite minerals. Associated rocks:
 
 *Figure II.C.8c — Halite (rock salt) specimen. Source: [Etsy](https://www.etsy.com/listing/680980943/halite-natural-rock-salt-crystal-genuine).*
 
+
+![Rock salt](../../assets/images/illustrations/illus-rocksalt-1.jpg)
+
+*Figure II.C.8d — Labeled illustration: rock salt (halite mass). Original diagram prepared for this guide.*
+
+![Granular halite](../../assets/images/illustrations/illus-rocksalt-2.jpg)
+
+*Figure II.C.8e — Labeled illustration: rock salt coarse granular halite. Original diagram prepared for this guide.*
+
 ## Related
 - [Gypsum & evaporites](gypsum-evaporites.md) · [Anhydrite](anhydrite.md) · **Part III** — [salt](../../03-mineral-resources/industrial/salt.md)
