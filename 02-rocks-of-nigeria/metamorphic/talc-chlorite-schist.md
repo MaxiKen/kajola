@@ -91,5 +91,14 @@ Talc, chlorite, serpentine, magnesite; sometimes **asbestos (chrysotile)**, **ni
 
 *Figure II.B.7c — Chlorite-rich (greenstone) schist. Source: [Geological Specimen Supply](https://geologicalspecimensupply.com/products/schist-teaching-hand-display-specimens-of-a-greenstone-schist).*
 
+
+![Talc-chlorite schist](../../assets/images/illustrations/illus-talkschist-1.jpg)
+
+*Figure II.B.7d — Labeled illustration: talc-chlorite schist (soft green schist). Original diagram prepared for this guide.*
+
+![Chlorite schist](../../assets/images/illustrations/illus-talkschist-2.jpg)
+
+*Figure II.B.7e — Labeled illustration: chlorite schist foliated rock. Original diagram prepared for this guide.*
+
 ## Related
 - [Peridotite & Pyroxenite](../igneous/peridotite-pyroxenite.md) (parent rock) · [Serpentinite](serpentinite.md) · [Greenschist](greenschist.md) · **Part III** — [talc](../../03-mineral-resources/industrial/talc.md)

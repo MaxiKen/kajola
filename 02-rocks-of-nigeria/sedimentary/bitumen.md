@@ -91,5 +91,14 @@ Sand, clay, heavy oil, sulfur; associated with conventional oil source systems. 
 
 *Figure II.C.9c — Natural asphalt (gilsonite). Source: [Gilsonite Co](https://gilsoniteco.com/gilsonite-bitumen/).*
 
+
+![Bitumen sandstone](../../assets/images/illustrations/illus-bitumen-sed-1.jpg)
+
+*Figure II.C.9d — Labeled illustration: bitumen-impregnated (tar) sandstone. Original diagram prepared for this guide.*
+
+![Oil sand](../../assets/images/illustrations/illus-bitumen-sed-2.jpg)
+
+*Figure II.C.9e — Labeled illustration: oil sand with bitumen. Original diagram prepared for this guide.*
+
 ## Related
 - [Coal & Lignite](coal.md) · [Sandstone](sandstone.md) · **Part III, III.D** — [bitumen](../../03-mineral-resources/energy/bitumen.md) & [petroleum](../../03-mineral-resources/energy/petroleum.md). **Part IV, §4.6** — the SW bitumen belt ([Dahomey–Sokoto basins](../../04-geological-provinces/04-06-dahomey-sokoto-basins.md)).

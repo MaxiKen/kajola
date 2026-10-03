@@ -91,5 +91,14 @@ Gypsum, halite, calcite, dolomite, polyhalite (evaporite minerals). Associated r
 
 *Figure II.C.18c — Anhydrite (evaporite mineral) specimen. Source: [Gem Rock Auctions](https://gemrockauctions.com/learn/a-z-of-gemstones/anhydrite).*
 
+
+![Anhydrite](../../assets/images/illustrations/illus-anhydrite-1.jpg)
+
+*Figure II.C.18d — Labeled illustration: anhydrite calcium sulfate. Original diagram prepared for this guide.*
+
+![Anhydrite evaporite](../../assets/images/illustrations/illus-anhydrite-2.jpg)
+
+*Figure II.C.18e — Labeled illustration: anhydrite granular evaporite. Original diagram prepared for this guide.*
+
 ## Related
 - [Gypsum & evaporites](gypsum-evaporites.md) · [Rock Salt (Halite)](rock-salt.md) · [Calcite](../../03-mineral-resources/industrial/calcite.md) · [Trona](../../03-mineral-resources/industrial/trona.md)

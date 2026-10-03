@@ -91,5 +91,14 @@ Shale, phyllite, quartzite (grades upward into [Mica schist & Phyllite](mica-sch
 
 *Figure II.B.14c — Slate: smooth planar slaty cleavage. Source: [Geology Science](https://geologyscience.com/rocks/metamorphic-rocks/slate/).*
 
+
+![Slate](../../assets/images/illustrations/illus-slate-1.jpg)
+
+*Figure II.B.14d — Labeled illustration: slate with slaty cleavage. Original diagram prepared for this guide.*
+
+![Slate surface](../../assets/images/illustrations/illus-slate-2.jpg)
+
+*Figure II.B.14e — Labeled illustration: slate fine-grained cleavage surface. Original diagram prepared for this guide.*
+
 ## Related
 - [Siltstone, Shale & Mudstone](../sedimentary/siltstone-shale.md) · [Mica schist & Phyllite](mica-schist-phyllite.md) · [Metasediments](metasediments.md)

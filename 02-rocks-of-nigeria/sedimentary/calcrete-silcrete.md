@@ -95,5 +95,14 @@ Sand, laterite, and near-surface groundwater; paleoclimate indicators. Associate
 
 *Figure II.C.15c — Silcrete duricrust (profile). Source: [Academia.edu](https://academia.edu/2765754/Silcrete).*
 
+
+![Calcrete](../../assets/images/illustrations/illus-calcrete-1.jpg)
+
+*Figure II.C.15d — Labeled illustration: calcrete carbonate duricrust. Original diagram prepared for this guide.*
+
+![Silcrete](../../assets/images/illustrations/illus-calcrete-2.jpg)
+
+*Figure II.C.15e — Labeled illustration: silcrete silica duricrust. Original diagram prepared for this guide.*
+
 ## Related
 - [Laterite & Ferricrete](laterite-ferricrete.md) · [Sandstone, Grit & Arkose](sandstone.md) · [Regolith & laterite](../../01-general-geology/01-07-regolith-and-laterite.md) · [Limestone & Dolomite](limestone.md)
