@@ -62,6 +62,15 @@
 
 *Figure III.A.8d — Uraninite (pitchblende) specimen. Source: [Fossilera](https://www.fossilera.com/minerals/1-3-uraninite-pitchblende-specimen-uranium-based).*
 
+
+![Uraninite](../../assets/images/illustrations/illus-uranium-1.jpg)
+
+*Figure III.A.8e — Labeled illustration: uraninite uranium oxide. Original diagram prepared for this guide.*
+
+![Pitchblende](../../assets/images/illustrations/illus-uranium-2.jpg)
+
+*Figure III.A.8f — Labeled illustration: pitchblende uranium ore. Original diagram prepared for this guide.*
+
 ## Genesis
 **Hydrothermal veins**, **pegmatites**, and **sandstone-hosted (roll-front)** deposits. In Nigeria, occurrences are linked to **pegmatites** and certain **sandstones**.
 

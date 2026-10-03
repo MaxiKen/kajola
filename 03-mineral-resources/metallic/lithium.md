@@ -61,6 +61,15 @@ Both are important **lithium ore minerals**, hosted in rare-element **pegmatites
 
 *Figure III.A.14d — Kunzite (spodumene) crystal. Source: [Home Again Vintage](https://homeagainvintage.com/products/spodumene-crystal-mineral-specimen-copy).*
 
+
+![Spodumene crystal](../../assets/images/illustrations/illus-lithium-1.jpg)
+
+*Figure III.A.14e — Labeled illustration: spodumene lithium pyroxene crystal. Original diagram prepared for this guide.*
+
+![Lepidolite](../../assets/images/illustrations/illus-lithium-2.jpg)
+
+*Figure III.A.14f — Labeled illustration: lepidolite lithium mica. Original diagram prepared for this guide.*
+
 **In rock:** in **zoned rare-element pegmatites**, alongside **columbite, tantalite, tourmaline, and beryl** (see [Pegmatite](../../02-rocks-of-nigeria/igneous/pegmatite.md)).
 
 ## Genesis

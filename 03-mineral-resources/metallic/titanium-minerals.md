@@ -63,6 +63,15 @@ Titanium is abundant in the Earth's crust but concentrated economically only in 
 
 *Figure III.A.9d — Ilmenite (titanium ore) specimen. Source: [Anglo Pacific Minerals](https://angpacmin.com/products/ilmenite/).*
 
+
+![Ilmenite](../../assets/images/illustrations/illus-titanium-1.jpg)
+
+*Figure III.A.9e — Labeled illustration: ilmenite iron-titanium oxide. Original diagram prepared for this guide.*
+
+![Rutile](../../assets/images/illustrations/illus-titanium-2.jpg)
+
+*Figure III.A.9f — Labeled illustration: rutile titanium dioxide needles. Original diagram prepared for this guide.*
+
 **In rock:** concentrated in **heavy-mineral beach and river sands ("black sands")** (see [Placers & alluvium](../../02-rocks-of-nigeria/sedimentary/placers-alluvium.md)).
 
 ## Genesis

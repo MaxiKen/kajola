@@ -64,6 +64,15 @@
 
 *Figure III.A.19c — Native silver wire specimen. Source: [Distinction Crystals and Fossils](https://distinctioncrystalsandfossils.com/collections/native-silver).*
 
+
+![Native silver wires](../../assets/images/illustrations/illus-silver-1.jpg)
+
+*Figure III.A.19d — Labeled illustration: native silver wires (metallic). Original diagram prepared for this guide.*
+
+![Dendritic silver](../../assets/images/illustrations/illus-silver-2.jpg)
+
+*Figure III.A.19e — Labeled illustration: wiry dendritic native silver. Original diagram prepared for this guide.*
+
 ## Genesis
 Hydrothermal veins, especially the **enriched / oxidized zones** of lead–zinc and gold systems (see [Galena & Sphalerite](galena-sphalerite.md), [Gold](gold.md)). Silver enrichment often sits just above the main Pb–Zn zone (the "supergene" zone).
 
