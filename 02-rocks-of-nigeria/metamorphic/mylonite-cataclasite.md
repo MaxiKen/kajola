@@ -91,5 +91,14 @@ Quartz veins, **gold**, sulfides (**pyrite, chalcopyrite, galena**) — fault zo
 
 *Figure II.B.11c — Mylonite specimen. Source: [Rubyglint](https://rubyglint.com/rocks/mylonite).*
 
+
+![Mylonite](../../assets/images/illustrations/illus-mylonite-1.jpg)
+
+*Figure II.B.11d — Labeled illustration: mylonite sheared rock. Original diagram prepared for this guide.*
+
+![Cataclasite](../../assets/images/illustrations/illus-mylonite-2.jpg)
+
+*Figure II.B.11e — Labeled illustration: cataclasite fragmented rock. Original diagram prepared for this guide.*
+
 ## Related
 - [Structural controls](../../01-general-geology/01-06-structural-controls.md) · [Gold](../../03-mineral-resources/metallic/gold.md) · [Mica schist & Phyllite](mica-schist-phyllite.md)

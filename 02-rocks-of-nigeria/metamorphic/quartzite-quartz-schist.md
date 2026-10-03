@@ -94,5 +94,14 @@ Common in the **schist belts**: **Osun (Ilesa–Ife), Oyo, Kwara (Egbe–Isanlu)
 
 *Figure II.B.3c — Quartzite specimen. Source: [Eisco Labs](http://www.eiscolabs.com/products/eisco-white-quartzite-specimen-3cm-in-size).*
 
+
+![Quartzite](../../assets/images/illustrations/illus-quartzite-1.jpg)
+
+*Figure II.B.3d — Labeled illustration: quartzite (metamorphosed sandstone). Original diagram prepared for this guide.*
+
+![Quartz schist](../../assets/images/illustrations/illus-quartzite-2.jpg)
+
+*Figure II.B.3e — Labeled illustration: quartz schist (quartz + mica). Original diagram prepared for this guide.*
+
 ## Related
 - [Mica schist & Phyllite](mica-schist-phyllite.md) · [Marble & Calc-silicate](marble-calc-silicate.md) · [Sandstone](../sedimentary/sandstone.md) · [Quartz, Silica & Glass sand](../../03-mineral-resources/industrial/quartz-glass-sand.md)

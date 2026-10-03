@@ -88,5 +88,14 @@ An important **ore host** — **iron**, **tungsten (scheelite)**, **copper, zinc
 
 *Figure II.B.13c — Skarn (calc-silicate rock). Source: [Virtual Microscope](https://www.virtualmicroscope.org/content/calc-silicate-skarn).*
 
+
+![Skarn](../../assets/images/illustrations/illus-skarn-1.jpg)
+
+*Figure II.B.13d — Labeled illustration: skarn (garnet + pyroxene). Original diagram prepared for this guide.*
+
+![Garnet skarn](../../assets/images/illustrations/illus-skarn-2.jpg)
+
+*Figure II.B.13e — Labeled illustration: skarn coarse calc-silicate rock. Original diagram prepared for this guide.*
+
 ## Related
 - [Marble & Calc-silicate](marble-calc-silicate.md) · [Granite](../igneous/granite.md) · [Limestone](../sedimentary/limestone.md) · [Wolframite & Scheelite](../../03-mineral-resources/metallic/wolframite-scheelite.md) · [Hornfels](hornfels.md)

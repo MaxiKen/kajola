@@ -97,5 +97,14 @@ Garnet, sillimanite, cordierite, kyanite; quartz and feldspar (industrial). Asso
 
 *Figure II.B.1c — Migmatite specimen. Source: [Etsy](https://www.etsy.com/in-en/listing/4304285418/migmatite-rough-stone-migmatite-rock).*
 
+
+![Migmatite](../../assets/images/illustrations/illus-migmatite-1.jpg)
+
+*Figure II.B.1d — Labeled illustration: migmatite (leucosome + melanosome). Original diagram prepared for this guide.*
+
+![Migmatite veins](../../assets/images/illustrations/illus-migmatite-2.jpg)
+
+*Figure II.B.1e — Labeled illustration: migmatite partial-melting veins. Original diagram prepared for this guide.*
+
 ## Related
 - [Banded gneiss](banded-gneiss.md) · [Charnockite](../igneous/charnockite.md) · [The three rock families](../../00-fundamentals/00-04-three-rock-families.md)
