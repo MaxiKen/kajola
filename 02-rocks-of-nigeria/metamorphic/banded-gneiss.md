@@ -91,5 +91,14 @@ Garnet, kyanite, sillimanite; **gold** in some gneissic belts; quartz and feldsp
 
 *Figure II.B.2c — Banded gneiss. Source: [Etsy](https://www.etsy.com/market/gneiss_rock_specimen).*
 
+
+![Banded gneiss](../../assets/images/illustrations/illus-gneiss-1.jpg)
+
+*Figure II.B.2d — Labeled illustration: gneiss banded metamorphic rock. Original diagram prepared for this guide.*
+
+![Gneiss banding](../../assets/images/illustrations/illus-gneiss-2.jpg)
+
+*Figure II.B.2e — Labeled illustration: gneiss mineral banding (light + dark). Original diagram prepared for this guide.*
+
 ## Related
 - [Migmatite](migmatite.md) · [Mica schist & Phyllite](mica-schist-phyllite.md) · [Charnockite](../igneous/charnockite.md)

@@ -91,5 +91,14 @@ Garnet, plagioclase; sometimes **gold** where in the schist belts. Associated ro
 
 *Figure II.B.5c — Amphibolite specimen. Source: [Beakers World](https://beakersworld.com/product/amphibolite-metamorphic-rock-10-unpolished-mineral-specimens/).*
 
+
+![Amphibolite](../../assets/images/illustrations/illus-amphibolite-1.jpg)
+
+*Figure II.B.5d — Labeled illustration: amphibolite (hornblende + plagioclase). Original diagram prepared for this guide.*
+
+![Foliated amphibolite](../../assets/images/illustrations/illus-amphibolite-2.jpg)
+
+*Figure II.B.5e — Labeled illustration: amphibolite foliated texture. Original diagram prepared for this guide.*
+
 ## Related
 - [Banded gneiss](banded-gneiss.md) · [Gabbro & Dolerite](../igneous/gabbro-dolerite.md) · [Greenschist](greenschist.md)

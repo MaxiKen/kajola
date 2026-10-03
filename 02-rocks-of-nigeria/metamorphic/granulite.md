@@ -91,5 +91,14 @@ Charnockite, gneiss, migmatite, pyroxene, garnet (see [Banded gneiss](banded-gne
 
 *Figure II.B.15c — Granulite/charnockite (thin section). Source: [Virtual Microscope](https://www.virtualmicroscope.org/content/myrmekitic-granulitecharnockite).*
 
+
+![Granulite](../../assets/images/illustrations/illus-granulite-1.jpg)
+
+*Figure II.B.15d — Labeled illustration: granulite high-grade metamorphic rock. Original diagram prepared for this guide.*
+
+![Granoblastic granulite](../../assets/images/illustrations/illus-granulite-2.jpg)
+
+*Figure II.B.15e — Labeled illustration: granulite granoblastic texture. Original diagram prepared for this guide.*
+
 ## Related
 - [Charnockite](../igneous/charnockite.md) · [Banded gneiss](banded-gneiss.md) · [Migmatite](migmatite.md) · [Amphibolite](amphibolite.md)

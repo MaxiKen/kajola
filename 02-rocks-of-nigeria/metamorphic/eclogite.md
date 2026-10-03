@@ -90,5 +90,14 @@ Garnet (pyrope), omphacite, kyanite, quartz, glaucophane (see [Garnet](../../03-
 
 *Figure II.B.16c — Eclogite hand specimen (Norway). Source: [The Rock Gallery](https://www.therockgallery.co.uk/eclogite-hand-specimen---norway-12121-p.asp).*
 
+
+![Eclogite](../../assets/images/illustrations/illus-eclogite-1.jpg)
+
+*Figure II.B.16d — Labeled illustration: eclogite (garnet + omphacite). Original diagram prepared for this guide.*
+
+![High-pressure eclogite](../../assets/images/illustrations/illus-eclogite-2.jpg)
+
+*Figure II.B.16e — Labeled illustration: eclogite garnet + pyroxene. Original diagram prepared for this guide.*
+
 ## Related
 - [Granulite](granulite.md) · [Amphibolite](amphibolite.md) · [Garnet](../../03-mineral-resources/gemstones/garnet.md) · [Kyanite](../../03-mineral-resources/gemstones/kyanite.md)

@@ -96,5 +96,14 @@ Rhyolite, trachyte, phonolite, granite; crystals of **quartz, feldspar, sanidine
 
 *Figure II.A.11c — Volcanic tuff specimen. Source: [Amazon](https://www.amazon.com/Eisco-Volcanic-Specimen-Igneous-Approx/dp/B01J480K1M).*
 
+
+![Volcanic tuff](../../assets/images/illustrations/illus-tuff-1.jpg)
+
+*Figure II.A.11d — Labeled illustration: volcanic tuff (lithified ash). Original diagram prepared for this guide.*
+
+![Ignimbrite](../../assets/images/illustrations/illus-tuff-2.jpg)
+
+*Figure II.A.11e — Labeled illustration: ignimbrite welded ash-flow rock. Original diagram prepared for this guide.*
+
 ## Related
 - [Rhyolite, Trachyte & Phonolite](rhyolite-trachyte-phonolite.md) · [Younger Granites](../../01-general-geology/01-03-younger-granite-ring-complexes.md) · [Microgranite / Porphyry](microgranite-porphyry.md) · [Basalt](basalt.md)
