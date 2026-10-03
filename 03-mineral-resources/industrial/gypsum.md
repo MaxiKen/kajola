@@ -58,6 +58,15 @@ A soft **evaporite mineral** (hydrated calcium sulfate), deposited by the evapor
 
 *Figure III.B.2c — Gypsum crystals (China). Source: [Etsy](https://www.etsy.com/listing/4349966144/gypsum-cluster-specimen-o-raw-crystals).*
 
+
+![Gypsum selenite](../../assets/images/illustrations/illus-gypsum-1.jpg)
+
+*Figure III.B.2d — Labeled illustration: gypsum selenite crystals. Original diagram prepared for this guide.*
+
+![Gypsum alabaster](../../assets/images/illustrations/illus-gypsum-2.jpg)
+
+*Figure III.B.2e — Labeled illustration: gypsum alabaster (fine-grained). Original diagram prepared for this guide.*
+
 Found in evaporite beds (see [Gypsum/Evaporites rock](../../02-rocks-of-nigeria/sedimentary/gypsum-evaporites.md)).
 
 ## Genesis

@@ -57,6 +57,15 @@ Limestone is a **rock** — massive, bedded, granular, or fossiliferous. The **c
 
 *Figure III.B.1c — Oolitic limestone specimen. Source: [Amazon](https://www.amazon.com/Eisco-Limestone-Specimen-Sedimentary-Approx/dp/B01K2WI6JM).*
 
+
+![Limestone building stone](../../assets/images/illustrations/illus-limestone-ind-1.jpg)
+
+*Figure III.B.1d — Labeled illustration: limestone building blocks. Original diagram prepared for this guide.*
+
+![Crushed limestone](../../assets/images/illustrations/illus-limestone-ind-2.jpg)
+
+*Figure III.B.1e — Labeled illustration: crushed limestone aggregate/lime. Original diagram prepared for this guide.*
+
 Found in sedimentary basins (see [Limestone rock](../../02-rocks-of-nigeria/sedimentary/limestone.md)).
 
 ## Genesis

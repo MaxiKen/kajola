@@ -56,6 +56,15 @@
 
 *Figure III.B.8c — Granite hand specimen. Source: [Amazon](https://www.amazon.com/Pink-Granite-Igneous-Rock-Specimen/dp/B083TJ9694).*
 
+
+![Granite dimension stone](../../assets/images/illustrations/illus-granite-ind-1.jpg)
+
+*Figure III.B.8d — Labeled illustration: polished granite dimension stone. Original diagram prepared for this guide.*
+
+![Granite aggregate](../../assets/images/illustrations/illus-granite-ind-2.jpg)
+
+*Figure III.B.8e — Labeled illustration: crushed granite aggregate. Original diagram prepared for this guide.*
+
 Quarried from granite plutons (see [Granite rock](../../02-rocks-of-nigeria/igneous/granite.md)).
 
 ## Genesis

@@ -63,6 +63,15 @@
 
 *Figure III.B.17c — Graphite specimen. Source: [eBay UK](https://www.ebay.co.uk/b/bn_18019919).*
 
+
+![Graphite](../../assets/images/illustrations/illus-graphite-1.jpg)
+
+*Figure III.B.17d — Labeled illustration: graphite metallic carbon. Original diagram prepared for this guide.*
+
+![Foliated graphite](../../assets/images/illustrations/illus-graphite-2.jpg)
+
+*Figure III.B.17e — Labeled illustration: foliated flaky graphite. Original diagram prepared for this guide.*
+
 ## Genesis
 Metamorphism of **carbonaceous sediments** (graphite schist/gneiss), hydrothermal deposits, and rarely igneous sources. Often concentrated in schist belts — heat and pressure convert organic carbon to graphite.
 
