@@ -57,6 +57,15 @@
 
 *Figure III.B.6c — Talc crystals (Canada). Source: [iRocks](https://www.irocks.com/minerals/specimen/43043).*
 
+
+![Talc](../../assets/images/illustrations/illus-talc-1.jpg)
+
+*Figure III.B.6d — Labeled illustration: talc soft magnesium silicate. Original diagram prepared for this guide.*
+
+![Soapstone](../../assets/images/illustrations/illus-talc-2.jpg)
+
+*Figure III.B.6e — Labeled illustration: soapstone talc-rich rock. Original diagram prepared for this guide.*
+
 Found in altered **ultramafic zones** of the Basement (see [Talc/Chlorite schist rock](../../02-rocks-of-nigeria/metamorphic/talc-chlorite-schist.md)).
 
 ## Genesis

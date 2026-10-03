@@ -62,6 +62,15 @@ Tabular to prismatic crystals, fibrous, or massive **evaporite beds**. It common
 
 *Figure III.B.31c — Trona specimen. Source: [Reddit r/geology](https://www.reddit.com/r/geology/comments/1htd3q/one_of_the_rarest_yet_most_useful_minerals_in_the/).*
 
+
+![Trona](../../assets/images/illustrations/illus-trona-1.jpg)
+
+*Figure III.B.31d — Labeled illustration: trona sodium carbonate mineral. Original diagram prepared for this guide.*
+
+![Trona crystals](../../assets/images/illustrations/illus-trona-2.jpg)
+
+*Figure III.B.31e — Labeled illustration: trona prismatic crystals. Original diagram prepared for this guide.*
+
 ## Genesis
 **Evaporite deposits of alkaline saline lakes** — the same setting as the Lake Chad (Borno) evaporite belt (see [Salt](salt.md), [Brine](brine.md)). Trona precipitates in alkaline (soda) lakes as they evaporate.
 

@@ -57,6 +57,15 @@
 
 *Figure III.B.12c — Halite (rock salt) specimen. Source: [Etsy](https://www.etsy.com/listing/680980943/halite-natural-rock-salt-crystal-genuine).*
 
+
+![Halite crystals](../../assets/images/illustrations/illus-salt-1.jpg)
+
+*Figure III.B.12d — Labeled illustration: halite cubic salt crystals. Original diagram prepared for this guide.*
+
+![Rock salt](../../assets/images/illustrations/illus-salt-2.jpg)
+
+*Figure III.B.12e — Labeled illustration: rock salt evaporite mass. Original diagram prepared for this guide.*
+
 Found in evaporite deposits (see [Rock salt rock](../../02-rocks-of-nigeria/sedimentary/rock-salt.md)).
 
 ## Genesis

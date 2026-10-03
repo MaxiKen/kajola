@@ -57,6 +57,15 @@
 
 *Figure III.B.9c — Quartz sand grains. Source: [Wikipedia](https://en.wikipedia.org/wiki/Sandstone).*
 
+
+![Glass sand](../../assets/images/illustrations/illus-glasssand-1.jpg)
+
+*Figure III.B.9d — Labeled illustration: glass sand (pure silica). Original diagram prepared for this guide.*
+
+![Silica sand](../../assets/images/illustrations/illus-glasssand-2.jpg)
+
+*Figure III.B.9e — Labeled illustration: silica sand rounded quartz grains. Original diagram prepared for this guide.*
+
 Sourced from **quartz veins, quartzite, and pure quartz sands** (beaches, dunes, rivers).
 
 ## Genesis

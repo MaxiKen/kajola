@@ -62,6 +62,15 @@
 
 *Figure III.B.21c — Fibrous sillimanite aggregate. Source: [MineralExpert](https://mineralexpert.org/article/sillimanite-aluminosilicate-mineral-overview).*
 
+
+![Sillimanite](../../assets/images/illustrations/illus-sillimanite-1.jpg)
+
+*Figure III.B.21d — Labeled illustration: sillimanite fibrous aluminum silicate. Original diagram prepared for this guide.*
+
+![Fibrolite](../../assets/images/illustrations/illus-sillimanite-2.jpg)
+
+*Figure III.B.21e — Labeled illustration: sillimanite fibrolite mass. Original diagram prepared for this guide.*
+
 ## Genesis
 **High-grade metamorphism** of alumina-rich (pelitic) rocks — the "sillimanite zone" of regional metamorphism; also contact metamorphism (see [Mica schist & Phyllite](../../02-rocks-of-nigeria/metamorphic/mica-schist-phyllite.md)). Sillimanite marks higher grade than kyanite.
 
