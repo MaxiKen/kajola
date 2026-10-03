@@ -101,6 +101,15 @@ Chiefly in the **Younger Granite ring complexes** of the **Jos Plateau** and env
 
 *Figure II.A.3c — Nepheline syenite. Source: [Wikipedia](https://en.wikipedia.org/wiki/Nepheline_syenite).*
 
+
+![Syenite](../../assets/images/illustrations/illus-syenite-1.jpg)
+
+*Figure II.A.3d — Labeled illustration: syenite feldspar-rich plutonic rock. Original diagram prepared for this guide.*
+
+![Nepheline syenite](../../assets/images/illustrations/illus-syenite-2.jpg)
+
+*Figure II.A.3e — Labeled illustration: nepheline syenite with nepheline. Original diagram prepared for this guide.*
+
 ## Related
 - [Granite](granite.md) · [Rhyolite, Trachyte & Phonolite](rhyolite-trachyte-phonolite.md) · [Pegmatite](pegmatite.md) · [Carbonatite](carbonatite.md)
 - [Younger Granite ring complexes](../../01-general-geology/01-03-younger-granite-ring-complexes.md)

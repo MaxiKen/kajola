@@ -102,6 +102,15 @@ The **Younger volcanics** of the **Jos Plateau** (trachyte/phonolite flows and n
 
 *Figure II.A.9c — Rhyolite porphyry (light pink). Source: [Geological Specimen Supply](https://geologicalspecimensupply.com/products/rhyolite-porphyry-teaching-hand-display-specimen-of-rhyolite-with-small-phenocrysts).*
 
+
+![Rhyolite](../../assets/images/illustrations/illus-rhyolite-1.jpg)
+
+*Figure II.A.9d — Labeled illustration: rhyolite fine-grained felsic volcanic rock. Original diagram prepared for this guide.*
+
+![Trachyte](../../assets/images/illustrations/illus-rhyolite-2.jpg)
+
+*Figure II.A.9e — Labeled illustration: trachyte alkaline volcanic rock. Original diagram prepared for this guide.*
+
 ## Related
 - [Granite](granite.md) · [Syenite & Nepheline syenite](syenite-nepheline-syenite.md) · [Basalt](basalt.md) · [Obsidian](obsidian.md) · [Volcanic tuff & ignimbrite](volcanic-tuff-ignimbrite.md)
 - [Cenozoic volcanism](../../01-general-geology/01-05-cenozoic-volcanism.md)

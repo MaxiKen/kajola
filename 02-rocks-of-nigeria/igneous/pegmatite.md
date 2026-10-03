@@ -96,6 +96,15 @@ crystals. Source: [Etsy](https://www.etsy.com/market/pegmatite_crystals).*
 
 *Figure II.A.7c — Pegmatite specimen. Source: [Fisher Scientific](https://www.fishersci.com/shop/products/pegmatite-igneous-rock-specimen-2/S27590).*
 
+
+![Pegmatite](../../assets/images/illustrations/illus-pegmatite-1.jpg)
+
+*Figure II.A.7d — Labeled illustration: pegmatite very coarse-grained rock. Original diagram prepared for this guide.*
+
+![Pegmatite crystals](../../assets/images/illustrations/illus-pegmatite-2.jpg)
+
+*Figure II.A.7e — Labeled illustration: pegmatite large feldspar/quartz/mica crystals. Original diagram prepared for this guide.*
+
 ## Related
 - [Granite](granite.md) (parent rock) · [Aplite & Quartzolite](aplite-quartzolite.md) · [The Younger Granite ring complexes](../../01-general-geology/01-03-younger-granite-ring-complexes.md)
 - **Part III** — [Cassiterite](../../03-mineral-resources/metallic/cassiterite.md), [Columbite–Tantalite](../../03-mineral-resources/metallic/columbite-tantalite.md), [Wolframite & Scheelite](../../03-mineral-resources/metallic/wolframite-scheelite.md), gems.

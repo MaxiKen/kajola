@@ -107,6 +107,15 @@ Uncommon but present in Nigeria — occur as **ultramafic / ophiolite fragments*
 
 *Figure II.A.5c — Peridotite (lherzolite). Source: [GeologyIn](https://www.geologyin.com/2025/09/peridotite-composition-types.html).*
 
+
+![Peridotite](../../assets/images/illustrations/illus-peridotite-1.jpg)
+
+*Figure II.A.5d — Labeled illustration: peridotite olivine-rich ultramafic rock. Original diagram prepared for this guide.*
+
+![Pyroxenite](../../assets/images/illustrations/illus-peridotite-2.jpg)
+
+*Figure II.A.5e — Labeled illustration: pyroxenite pyroxene-rich rock. Original diagram prepared for this guide.*
+
 ## Related
 - [Gabbro & Dolerite](gabbro-dolerite.md) · [Serpentinite](../metamorphic/serpentinite.md) · [Talc/Chlorite schist](../metamorphic/talc-chlorite-schist.md) (alteration products)
 - **Part III** — [Chromite](../../03-mineral-resources/metallic/chromite.md)
