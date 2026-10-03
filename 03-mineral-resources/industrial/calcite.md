@@ -63,6 +63,15 @@
 
 *Figure III.B.2d — Calcite with pyrite specimen. Source: [Mineral Mike](https://www.mineralmike.com/collections/calcite).*
 
+
+![Calcite crystal](../../assets/images/illustrations/illus-calcite-1.jpg)
+
+*Figure III.B.2e — Labeled illustration: calcite rhombohedral cleavage crystal. Original diagram prepared for this guide.*
+
+![Calcite rhombohedron](../../assets/images/illustrations/illus-calcite-2.jpg)
+
+*Figure III.B.2f — Labeled illustration: calcite honey-yellow rhombohedral crystal. Original diagram prepared for this guide.*
+
 ## Genesis
 Sedimentary (limestone, chalk), biogenic (shells), hydrothermal veins, and metamorphic (marble). Very widespread — calcite forms in almost every geological setting.
 

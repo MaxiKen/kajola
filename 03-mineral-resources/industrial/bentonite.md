@@ -56,6 +56,15 @@ Montmorillonite crystals are **microscopic**; bentonite is identified by its bul
 
 *Figure III.B.3d — Bentonite clay powder. Source: [Etsy](https://www.etsy.com/listing/764435847/betonite-clay-powdercalcium-bentonite).*
 
+
+![Bentonite clay](../../assets/images/illustrations/illus-bentonite-1.jpg)
+
+*Figure III.B.3e — Labeled illustration: bentonite swelling clay (montmorillonite). Original diagram prepared for this guide.*
+
+![Bentonite earthy](../../assets/images/illustrations/illus-bentonite-2.jpg)
+
+*Figure III.B.3f — Labeled illustration: bentonite earthy clay texture. Original diagram prepared for this guide.*
+
 Derived from altered **volcanic ash** (see [Clay & Kaolin rock](../../02-rocks-of-nigeria/sedimentary/clay-kaolin.md)).
 
 ## Genesis

@@ -53,6 +53,15 @@ A **liquid** — saline lakes, groundwater, and formation waters associated with
 
 *Figure III.B.32c — Brine: salt evaporation pond (marais salant). Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:MaraisSalant.JPG).*
 
+
+![Brine with salt crust](../../assets/images/illustrations/illus-brine-1.jpg)
+
+*Figure III.B.32d — Labeled illustration: brine with halite salt crust. Original diagram prepared for this guide.*
+
+![Brine evaporation pond](../../assets/images/illustrations/illus-brine-2.jpg)
+
+*Figure III.B.32e — Labeled illustration: brine evaporation pond with precipitated salts. Original diagram prepared for this guide.*
+
 ## Genesis
 **Evaporite lakes** (notably **Lake Chad**) and saline groundwater/formation waters associated with salt deposits (see [Salt](salt.md)). Brine forms as water evaporates and concentrates salts.
 

@@ -56,6 +56,15 @@
 
 *Figure III.B.4d — Diatomite (diatomaceous earth) hand specimen. Source: [Geological Specimen Supply](https://geologicalspecimensupply.com/products/diatomite-teaching-hand-specimen-of-lacustrine-diatomite).*
 
+
+![Diatomite](../../assets/images/illustrations/illus-diatomite-1.jpg)
+
+*Figure III.B.4e — Labeled illustration: diatomite (diatomaceous earth). Original diagram prepared for this guide.*
+
+![Diatomite silica](../../assets/images/illustrations/illus-diatomite-2.jpg)
+
+*Figure III.B.4f — Labeled illustration: diatomite biogenic silica. Original diagram prepared for this guide.*
+
 Forms in lakes and lagoons (see [The Chad Basin](../../01-general-geology/01-04-sedimentary-basins.md)).
 
 ## Genesis

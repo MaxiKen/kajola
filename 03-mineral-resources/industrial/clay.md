@@ -55,6 +55,15 @@ A mixture of **clay minerals** — kaolinite, illite, smectite (montmorillonite)
 
 *Figure III.B.4c — Clay: grey-brown lump. Source: [MyLearning](https://www.mylearning.org/stories/investigating-rocks-and-fossils/types-of-sedimentary-rock).*
 
+
+![Gray clay](../../assets/images/illustrations/illus-clay-1.jpg)
+
+*Figure III.B.4d — Labeled illustration: gray plastic clay (fine sediment). Original diagram prepared for this guide.*
+
+![Kaolinitic clay](../../assets/images/illustrations/illus-clay-2.jpg)
+
+*Figure III.B.4e — Labeled illustration: white kaolinitic clay. Original diagram prepared for this guide.*
+
 Widespread (see [Clay & Kaolin rock](../../02-rocks-of-nigeria/sedimentary/clay-kaolin.md)).
 
 ## Genesis
