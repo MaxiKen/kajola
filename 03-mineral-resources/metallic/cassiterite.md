@@ -66,6 +66,15 @@
 
 *Figure III.A.1d — Cassiterite crystals (Viloco mine, Bolivia). Source: [Etsy](https://etsy.com/market/cassiterite_jewelry).*
 
+
+![Cassiterite crystals](../../assets/images/illustrations/illus-cassiterite-1.jpg)
+
+*Figure III.A.1e — Labeled illustration: cassiterite (tin oxide) tetragonal crystals. Original diagram prepared for this guide.*
+
+![Cassiterite botryoidal masses](../../assets/images/illustrations/illus-cassiterite-2.jpg)
+
+*Figure III.A.1f — Labeled illustration: cassiterite botryoidal masses with resinous luster. Original diagram prepared for this guide.*
+
 ## Genesis
 **Hydrothermal** — deposited from hot fluids in and around tin-rich granites, forming **veins, pegmatites, and greisens**. Being dense and resistant, it also concentrates into **placers** (rivers, soils) — historically the easiest to mine.
 
