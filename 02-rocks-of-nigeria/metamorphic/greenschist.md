@@ -89,5 +89,14 @@ The **host rock of much of Nigeria's lode gold** and associated base-metal miner
 
 *Figure II.B.9c — Greenschist-facies metamorphic rock. Source: [Sandatlas](https://sandatlas.org/greenstone/).*
 
+
+![Greenschist](../../assets/images/illustrations/illus-greenschist-1.jpg)
+
+*Figure II.B.9d — Labeled illustration: greenschist (chlorite + actinolite). Original diagram prepared for this guide.*
+
+![Foliated greenschist](../../assets/images/illustrations/illus-greenschist-2.jpg)
+
+*Figure II.B.9e — Labeled illustration: greenschist foliated green texture. Original diagram prepared for this guide.*
+
 ## Related
 - [Mica schist & Phyllite](mica-schist-phyllite.md) · [Amphibolite](amphibolite.md) · [Quartzite & Quartz schist](quartzite-quartz-schist.md) · [Gold](../../03-mineral-resources/metallic/gold.md)

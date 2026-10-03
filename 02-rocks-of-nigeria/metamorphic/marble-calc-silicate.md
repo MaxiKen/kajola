@@ -97,5 +97,14 @@ Garnet, diopside, wollastonite, quartz, talc, graphite. Associated rocks: skarn,
 
 *Figure II.B.6c — Calc-silicate rock. Source: [Virtual Microscope](https://www.virtualmicroscope.org/content/calc-silicate-skarn).*
 
+
+![Marble](../../assets/images/illustrations/illus-marble-cs-1.jpg)
+
+*Figure II.B.6d — Labeled illustration: marble crystalline calcite rock. Original diagram prepared for this guide.*
+
+![Calc-silicate rock](../../assets/images/illustrations/illus-marble-cs-2.jpg)
+
+*Figure II.B.6e — Labeled illustration: calc-silicate (garnet + pyroxene). Original diagram prepared for this guide.*
+
 ## Related
 - [Quartzite & Quartz schist](quartzite-quartz-schist.md) · [Skarn](skarn.md) · [Limestone & Dolomite](../sedimentary/limestone.md) (parent rock) · [Marble (industrial)](../../03-mineral-resources/industrial/marble.md)

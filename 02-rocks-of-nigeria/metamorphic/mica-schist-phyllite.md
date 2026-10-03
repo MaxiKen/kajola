@@ -96,5 +96,14 @@ The **schist belts** — Nigeria's main **gold** ground:
 
 *Figure II.B.4c — Mica schist specimen. Source: [Thomas Sci](https://www.thomassci.com/p/mica-schist-raw-metamorphic-rock-specimens-approx-1-inch-pk12).*
 
+
+![Mica schist](../../assets/images/illustrations/illus-micaschist-1.jpg)
+
+*Figure II.B.4d — Labeled illustration: mica schist (muscovite + biotite). Original diagram prepared for this guide.*
+
+![Phyllite](../../assets/images/illustrations/illus-micaschist-2.jpg)
+
+*Figure II.B.4e — Labeled illustration: phyllite silky-sheen foliated rock. Original diagram prepared for this guide.*
+
 ## Related
 - [Quartzite & Quartz schist](quartzite-quartz-schist.md) · [Banded gneiss](banded-gneiss.md) · [Greenschist](greenschist.md) · **Part III** — [gold](../../03-mineral-resources/metallic/gold.md). **Part IV, §4.2** — the schist belts.

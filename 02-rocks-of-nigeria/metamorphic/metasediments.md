@@ -92,5 +92,14 @@ Common in and around the **schist belts**: **Osun (Ilesa–Ife), Oyo, Kwara (Egb
 
 *Figure II.B.8c — Metasediment: green slate. Source: [Amazon](https://www.amazon.com/Green-Slate-Metamorphic-Rock-Specimen/dp/B084JBTVDG).*
 
+
+![Metasediment](../../assets/images/illustrations/illus-metased-1.jpg)
+
+*Figure II.B.8d — Labeled illustration: metasediment (metamorphosed sedimentary). Original diagram prepared for this guide.*
+
+![Metaquartzite](../../assets/images/illustrations/illus-metased-2.jpg)
+
+*Figure II.B.8e — Labeled illustration: metaquartzite (metamorphosed sandstone). Original diagram prepared for this guide.*
+
 ## Related
 - [Mica schist & Phyllite](mica-schist-phyllite.md) · [Quartzite & Quartz schist](quartzite-quartz-schist.md) · [Conglomerate & Breccia](../sedimentary/conglomerate-breccia.md) · [Greywacke](../sedimentary/greywacke.md)
