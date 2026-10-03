@@ -70,6 +70,15 @@ Both are iron oxides; together they are the world's main **iron ores**. Goethite
 
 *Figure III.A.4e — Hematite botryoidal specimen (Morocco). Source: [Fossilera Minerals](https://www.fossilageminerals.com/products/2-1-hematite-botryoidal-kidney-ore-rock-mineral-specimen-irhoud-mine-morocco-03aaa226).*
 
+
+![Hematite iron ore](../../assets/images/illustrations/illus-iron-1.jpg)
+
+*Figure III.A.4f — Labeled illustration: specular hematite iron ore. Original diagram prepared for this guide.*
+
+![Magnetite iron ore](../../assets/images/illustrations/illus-iron-2.jpg)
+
+*Figure III.A.4g — Labeled illustration: magnetite iron ore. Original diagram prepared for this guide.*
+
 ## Genesis
 - **Sedimentary** — banded iron formations (BIF) and oolitic ironstones.
 - **Lateritic enrichment** — tropical weathering concentrates iron (lateritic iron).

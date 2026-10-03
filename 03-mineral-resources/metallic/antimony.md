@@ -58,6 +58,15 @@
 
 *Figure III.A.13c — Stibnite (antimony sulfide) crystals. Source: [Etsy](https://www.etsy.com/market/antimonite).*
 
+
+![Stibnite crystals](../../assets/images/illustrations/illus-antimony-1.jpg)
+
+*Figure III.A.13d — Labeled illustration: stibnite blade-like antimony sulfide crystals. Original diagram prepared for this guide.*
+
+![Native antimony](../../assets/images/illustrations/illus-antimony-2.jpg)
+
+*Figure III.A.13e — Labeled illustration: native antimony (tin-white metallic). Original diagram prepared for this guide.*
+
 **In rock:** low-temperature **hydrothermal veins**, often with **galena, sphalerite, and tungsten** minerals (see [Galena & Sphalerite](galena-sphalerite.md)).
 
 ## Genesis

@@ -65,6 +65,15 @@
 
 *Figure III.A.21c — Bismuth hopper crystal (specimen). Source: [Etsy](https://www.etsy.com/market/bismuth_hopper_crystal).*
 
+
+![Bismuth hopper crystal](../../assets/images/illustrations/illus-bismuth-1.jpg)
+
+*Figure III.A.21d — Labeled illustration: bismuth hopper crystal with iridescent oxide. Original diagram prepared for this guide.*
+
+![Native bismuth](../../assets/images/illustrations/illus-bismuth-2.jpg)
+
+*Figure III.A.21e — Labeled illustration: native bismuth (silver-pink metallic). Original diagram prepared for this guide.*
+
 ## Genesis
 Hydrothermal veins and pegmatites, commonly associated with **cobalt, nickel, silver, lead, tin and tungsten** ores (e.g. the Jos Plateau pegmatites). Bismuth is typically a minor, by-product-type element.
 
