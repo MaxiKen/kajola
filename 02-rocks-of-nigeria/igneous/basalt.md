@@ -103,5 +103,14 @@ phenocrysts. Source: [beakersworld.com](https://beakersworld.com/product/porphyr
 
 *Figure II.A.10c — Basalt specimen. Source: [Amazon](https://www.amazon.com/Raw-Basalt-Igneous-Rock-Specimen/dp/B081BBKQGK).*
 
+
+![Basalt](../../assets/images/illustrations/illus-basalt-1.jpg)
+
+*Figure II.A.10d — Labeled illustration: basalt fine-grained volcanic rock. Original diagram prepared for this guide.*
+
+![Vesicular basalt](../../assets/images/illustrations/illus-basalt-2.jpg)
+
+*Figure II.A.10e — Labeled illustration: vesicular basalt with gas vesicles. Original diagram prepared for this guide.*
+
 ## Related
 - [Gabbro & Dolerite](gabbro-dolerite.md) (coarse equivalent) · [Cenozoic volcanism](../../01-general-geology/01-05-cenozoic-volcanism.md) · [The three rock families](../../00-fundamentals/00-04-three-rock-families.md) · [Volcanic tuff & ignimbrite](volcanic-tuff-ignimbrite.md)

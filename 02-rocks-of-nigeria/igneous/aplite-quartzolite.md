@@ -94,5 +94,14 @@ Minor in itself (a **silica source**), but a useful **indicator of granite/pegma
 
 *Figure II.A.13c — Aplite specimen. Source: [Rubyglint](https://rubyglint.com/rocks/aplite).*
 
+
+![Aplite](../../assets/images/illustrations/illus-aplite-1.jpg)
+
+*Figure II.A.13d — Labeled illustration: aplite fine-grained igneous rock. Original diagram prepared for this guide.*
+
+![Quartzolite](../../assets/images/illustrations/illus-aplite-2.jpg)
+
+*Figure II.A.13e — Labeled illustration: quartzolite quartz-rich rock. Original diagram prepared for this guide.*
+
 ## Related
 - [Pegmatite](pegmatite.md) · [Granite](granite.md) · [Quartz, Silica & Glass sand](../../03-mineral-resources/industrial/quartz-glass-sand.md) · [Microgranite & Porphyry](microgranite-porphyry.md)

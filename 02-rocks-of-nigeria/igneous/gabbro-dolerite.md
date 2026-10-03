@@ -105,6 +105,15 @@ As **layers/lenses and dyke swarms** in the **Basement Complex** and around the 
 
 *Figure II.A.4c — Gabbro (igneous rock) specimen. Source: [Amazon](https://www.amazon.com/Raw-Gabbro-Igneous-Rock-Specimen/dp/B081BC7L2R).*
 
+
+![Gabbro](../../assets/images/illustrations/illus-gabbro-1.jpg)
+
+*Figure II.A.4d — Labeled illustration: gabbro coarse-grained plutonic rock. Original diagram prepared for this guide.*
+
+![Dolerite](../../assets/images/illustrations/illus-gabbro-2.jpg)
+
+*Figure II.A.4e — Labeled illustration: dolerite medium-grained igneous rock. Original diagram prepared for this guide.*
+
 ## Related
 - [Basalt](basalt.md) (fine-grained equivalent) · [Peridotite & Pyroxenite](peridotite-pyroxenite.md) · [Granodiorite & Diorite](granodiorite-diorite.md)
 - [Dykes & sills in the Basement](../../01-general-geology/01-06-structural-controls.md)

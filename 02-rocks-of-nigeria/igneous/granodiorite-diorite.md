@@ -102,6 +102,15 @@ Common in the **Basement Complex** and as **marginal / mafic phases of the Young
 
 *Figure II.A.2c — Diorite specimen. Source: [Eisco Labs](http://www.eiscolabs.com/products/esng0042).*
 
+
+![Granodiorite](../../assets/images/illustrations/illus-granodiorite-1.jpg)
+
+*Figure II.A.2d — Labeled illustration: granodiorite with quartz and feldspar. Original diagram prepared for this guide.*
+
+![Diorite](../../assets/images/illustrations/illus-granodiorite-2.jpg)
+
+*Figure II.A.2e — Labeled illustration: diorite plagioclase + amphibole rock. Original diagram prepared for this guide.*
+
 ## Related
 - [Granite](granite.md) · [Gabbro & Dolerite](gabbro-dolerite.md) · [Andesite](andesite.md) (fine equivalent) · [Skarn](../metamorphic/skarn.md)
 - [Granitoids of the Basement](../../01-general-geology/01-02-basement-complex-and-pan-african.md)
