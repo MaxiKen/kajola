@@ -91,5 +91,14 @@ Clay and alluvial/mangrove deposits; grades into [Coal & Lignite](coal.md) with 
 
 *Figure II.C.14c — Peat (organic sediment) sample. Source: [Radiocarbon](https://www.radiocarbon.com/ams-dating-sediments.htm).*
 
+
+![Peat](../../assets/images/illustrations/illus-peat-1.jpg)
+
+*Figure II.C.14d — Labeled illustration: peat compacted organic matter. Original diagram prepared for this guide.*
+
+![Peat fibers](../../assets/images/illustrations/illus-peat-2.jpg)
+
+*Figure II.C.14e — Labeled illustration: peat fibrous plant remains. Original diagram prepared for this guide.*
+
 ## Related
 - [Coal & Lignite](coal.md) · [Clay & Kaolin](clay-kaolin.md) · [Alluvium & beach/river sands](placers-alluvium.md) · [Siltstone, Shale & Mudstone](siltstone-shale.md)

@@ -101,5 +101,14 @@ Hematite, magnetite, goethite/limonite, quartz, chamosite; phosphorus in some or
 
 *Figure II.C.4c — Ironstone hand specimen. Source: [Virtual Microscope](https://virtualmicroscope.org/content/sw17-ironstone).*
 
+
+![Ironstone](../../assets/images/illustrations/illus-ironstone-1.jpg)
+
+*Figure II.C.4d — Labeled illustration: ironstone iron-rich sedimentary rock. Original diagram prepared for this guide.*
+
+![Oolitic ironstone](../../assets/images/illustrations/illus-ironstone-2.jpg)
+
+*Figure II.C.4e — Labeled illustration: oolitic ironstone (hematite/goethite). Original diagram prepared for this guide.*
+
 ## Related
 - [Sandstone](sandstone.md) · [Laterite & Ferricrete](laterite-ferricrete.md) · **Part III** — [iron ore](../../03-mineral-resources/metallic/iron-ore.md)

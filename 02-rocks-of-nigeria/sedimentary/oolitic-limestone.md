@@ -90,5 +90,14 @@ Limestone, dolomite, calcite (see [Calcite](../../03-mineral-resources/industria
 
 *Figure II.C.13c — Oolitic limestone (ooids). Source: [Thomas Sci](https://www.thomassci.com/p/oolitic-limestone-raw-sedimentary-rock-specimens-approx-1-inch-pk12).*
 
+
+![Oolitic limestone](../../assets/images/illustrations/illus-oolite-1.jpg)
+
+*Figure II.C.13d — Labeled illustration: oolitic limestone with ooid grains. Original diagram prepared for this guide.*
+
+![Ooids](../../assets/images/illustrations/illus-oolite-2.jpg)
+
+*Figure II.C.13e — Labeled illustration: ooids concentric carbonate grains. Original diagram prepared for this guide.*
+
 ## Related
 - [Limestone & Dolomite](limestone.md) · [Calcite](../../03-mineral-resources/industrial/calcite.md) · [Ironstone](ironstone.md) · [Chalk](chalk.md)

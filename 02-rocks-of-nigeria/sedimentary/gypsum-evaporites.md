@@ -96,5 +96,14 @@ Halite, anhydrite, calcite, dolomite; in layered evaporite sequences. Associated
 
 *Figure II.C.7c — Gypsum crystals (evaporite). Source: [Etsy](https://www.etsy.com/listing/4349966144/gypsum-cluster-specimen-o-raw-crystals).*
 
+
+![Gypsum evaporite](../../assets/images/illustrations/illus-gypsum-sed-1.jpg)
+
+*Figure II.C.7d — Labeled illustration: gypsum evaporite sulfate crystals. Original diagram prepared for this guide.*
+
+![Gypsum bed](../../assets/images/illustrations/illus-gypsum-sed-2.jpg)
+
+*Figure II.C.7e — Labeled illustration: gypsum bed in evaporite sequence. Original diagram prepared for this guide.*
+
 ## Related
 - [Rock salt (halite)](rock-salt.md) · [Anhydrite](anhydrite.md) · [Limestone & Dolomite](limestone.md) · **Part III** — [gypsum](../../03-mineral-resources/industrial/gypsum.md)

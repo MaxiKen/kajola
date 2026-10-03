@@ -93,5 +93,14 @@ with depth. Source: [geologyscience.com](https://geologyscience.com/geology-bran
 
 *Figure II.C.10c — Ferricrete laterite gravel. Source: [Pavement Materials](https://www.pavementmaterials.co.za/products/ferricrete-laterite-g4-natural-gravel-supplier-cape-town-johannesburg-pretoria-durban).*
 
+
+![Laterite](../../assets/images/illustrations/illus-laterite-1.jpg)
+
+*Figure II.C.10d — Labeled illustration: laterite Fe-Al rich weathered rock. Original diagram prepared for this guide.*
+
+![Ferricrete](../../assets/images/illustrations/illus-laterite-2.jpg)
+
+*Figure II.C.10e — Labeled illustration: ferricrete iron duricrust crust. Original diagram prepared for this guide.*
+
 ## Related
 - [Regolith & laterite](../../01-general-geology/01-07-regolith-and-laterite.md) · [Clay & Kaolin](clay-kaolin.md) · [Ironstone](ironstone.md) · [Placers & alluvium](placers-alluvium.md) · [Calcrete & silcrete](calcrete-silcrete.md)
